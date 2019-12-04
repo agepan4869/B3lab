@@ -1,0 +1,430 @@
+{
+	"Caution":
+	{
+		"message": "Varoitus"
+	},
+
+	"Untested":
+	{
+		"message": "Testaamaton"
+	},
+
+	"Warning":
+	{
+		"message": "Varoitus"
+	},
+	"Norton Secured":
+	{
+		"message": "SUOJATTU"
+	},
+	"Not Licensed":
+	{
+		"message": "Ei lisensoitu"
+	},
+	"Safe":
+	{
+		"message": "Turvallinen"
+	},
+	"Safe Web is off":
+	{
+		"message": "TURVALLINEN"
+	},
+	"Page not analyzed":
+	{
+		"message": "Sivua ei ole analysoitu"
+	},
+	"Search the Web Safely":
+	{
+		"message": "Hae turvallisesti"
+	},
+	"Norton Rating":
+	{
+		"message": "Norton-luokitus"
+	},
+	"Computer Threats":
+	{
+		"message": "Tietokoneuhat"
+	},
+	"Identity Threats":
+	{
+		"message": "Identiteettiuhat"
+	},
+	"Annoyance Threats":
+	{
+		"message": "\u00c4rsytt\u00e4vyysuhat"
+	},
+	"Total Threats":
+	{
+		"message": "Uhkia yhteens\u00e4"
+	},
+	"Full Safe Web report":
+	{
+		"message": "Koko Safe Web -raportti"
+	},
+	"Report this site":
+	{
+		"message": "Ilmoita t\u00e4st\u00e4 verkkosivustosta"
+	},
+	"Norton Safe Web":
+	{
+		"message": "Norton Safe Web"
+	},
+	"Browser Settings":
+	{
+		"message": "Selaimen asetukset"
+	},
+	"Unsafe to Shop":
+	{
+		"message" : "VAARALLINEN"
+	},
+    "total_threats_id":
+    {
+        "message" : "Uhkat: "
+    },
+		"untested_text":
+		{
+			"message" : "T\u00e4t\u00e4 sivustoa ei ole viel\u00e4 testattu"
+		},
+    "safe_status_id":
+    {
+        "message" : "TURVALLINEN"
+    },
+    "secure_status_id":
+    {
+        "message" : "SUOJATTU"
+    },
+    "caution_status_id":
+    {
+        "message" : "Varoitus"
+    },
+    "untested_status_id":
+    {
+        "message" : "TESTAAMATON"
+    },
+    "unsafe_status_id":
+    {
+        "message" : "VAARALLINEN"
+    },
+		"full_report_id" :
+		{
+				"message" : "Koko raportti"
+		},
+	"nortonrating_id":
+	{
+		"message" : "Norton-luokitus:"
+	},
+	"Malicious Download Detected":
+	{
+		"message" : "Haitallinen lataus havaittu"
+	},
+	"Download Cancelled":
+	{
+		"message" : "Lataus peruutettiin"
+	},
+	"Malicious Web Site Blocked":
+	{
+		"message" : "Haittasivusto estettiin"
+	},
+	"Malicious Site Blocked!":
+	{
+		"message" : "Haittasivusto estettiin!"
+	},
+	"You attempted to access:" :
+	{
+		"message" : "Yritit k\u00e4ytt\u00e4\u00e4 seuraavaa kohdetta:"
+	},
+	"This is a known malicious web site. It is recommended that you do NOT visit this site. The" :
+	{
+		"message" : "On suositeltavaa, ett\u00e4 sin\u00e4"
+	},
+	"This web page is a known malicious web page." :
+	{
+		"message" : "T\u00e4m\u00e4 verkkosivu on tunnettu haitallinen verkkosivu."
+	},
+	"This site is a known malicious web site." :
+	{
+		"message" : "T\u00e4m\u00e4 verkkosivusto on tunnettu haittasivusto."
+	},
+	"detailed report" :
+	{
+		"message" : "Yksityiskohtainen raportti"
+	},
+	"explains the security risks on this site." :
+	{
+		"message" : "kertoo t\u00e4ll\u00e4 sivustolla olevista tietoturvariskeist\u00e4."
+	},
+	"For your protection, this web site has been blocked. Visit" :
+	{
+		"message" : "T\u00e4m\u00e4 sivusto estettiin tietokoneesi suojaamiseksi. Vieraile"
+	},
+	"Symantec" :
+	{
+		"message" : "Symantec"
+	},
+	"to learn more about phishing and internet security." :
+	{
+		"message" : "ja saat lis\u00e4tietoa tietojen kalastelusta ja Internet-tietoturvasta."
+	},
+	"Exit this site" :
+	{
+		"message" : "Poistu t\u00e4st\u00e4 sivustosta"
+	},
+	"I want to view this Web site anyway" :
+	{
+		"message" : "Haluan n\u00e4hd\u00e4 t\u00e4m\u00e4n verkkosivuston siit\u00e4 huolimatta"
+	},
+	"It is recommended that you" :
+	{
+		"message" : "On suositeltavaa, ett\u00e4 sin\u00e4"
+	},
+	"DO NOT visit this Web site." :
+	{
+		"message" : "ET vieraile t\u00e4ll\u00e4 verkkosivustolla."
+	},
+	"Welcome to":
+	{
+		"message" : "Tervetuloa palveluun "
+	},
+	"Norton"	:
+	{
+		"message" : "Norton"
+	},
+	"Thank you for choosing Norton. When a Chrome message appears at the top right of the screen, click" :
+	{
+		"message" : "Kiitos, ett\u00e4 valitsit Nortonin. Kun n\u00e4yt\u00f6n oikeaan yl\u00e4laitaan ilmestyy Chromen viesti, valitse"
+	},
+	"Keep changes" :
+	{
+		"message" : "S\u00e4ilyt\u00e4 asetukset"
+	},
+	"to maintain your {0} protection in Chrome." :
+	{
+		"message" : "s\u00e4ilytt\u00e4\u00e4ksesi {0} -suojauksen Chromessa."
+	},
+	"Norton Safe Search" :
+	{
+		"message" : "Norton Safe Search"
+	},
+	"Norton Home Page" :
+	{
+		"message" : "Nortonin kotisivu"
+	},
+	"Continue" :
+	{
+		"message" : "Jatka"
+	},
+	"Suspicious Website Blocked" : {
+		"message" : "Ep\u00e4ilytt\u00e4v\u00e4 verkkosivusto estettiin"
+	},
+	"For your protection, this web page has been blocked and submitted for review." :
+	{
+		"message" : "T\u00e4m\u00e4 sivu on estetty laitteesi suojaamiseksi ja l\u00e4hetetty tarkasteltavaksi."
+	},
+	"It is highly recommended that you do NOT visit this page." :
+	{
+		"message" : "Sivun k\u00e4ytt\u00f6\u00e4 EI suositella."
+	},
+	"Visit" :
+	{
+		"message" : "Vieraile"
+	},
+	"Continue to the site" :
+	{
+		"message" : "Jatka sivustolle"
+	},
+	"View Full Report" :
+	{
+		"message" : "Tarkastele kokonaisraporttia"
+	},
+	"BLOCKED BY" :
+	{
+		"message" : "ESTETTY \u2013 EST\u00c4J\u00c4:"
+	},
+	"Search for a safer site" :
+	{
+		"message" : "Etsi turvallisempi sivusto"
+	},
+	"Fraudulent Web Page Blocked" :
+	{
+		"message" : "Estettiin huijausverkkosivu"
+	},
+	"This web page is a known fraudulent web page.":
+	{
+		"message" : "T\u00e4m\u00e4 verkkosivu on tunnettu huijausverkkosivu."
+	},
+	"Dangerous Web Page Blocked" :
+	{
+		"message" : "Vaarallinen verkkosivu estetty"
+	},
+	"This is a known dangerous web page." :
+	{
+		"message" : "T\u00e4m\u00e4 on tunnetusti vaarallinen verkkosivu."
+	},
+	"Thank you for using {0}! Share usage and error data anonymously with Norton to help make our products even better." : {
+		"message" : "Kiitos, ett\u00e4 valintasi on {0}. Jaa k\u00e4ytt\u00f6- ja virhetietoja anonyymisti Nortonin kanssa ja auta meit\u00e4 tekem\u00e4\u00e4n tuotteistamme entist\u00e4kin parempia."
+	},
+	"OK" :
+	{
+	    "message" : "OK"
+	},
+	"No, thanks" :
+	{
+	    "message" : "Ei kiitos"
+	},
+	"Learn More" :
+	{
+	    "message" : "Lis\u00e4tietoja"
+	},
+	"Safe Web"	:
+	{
+			"message" : "Safe Web"
+	},
+	"Safe Search"	:
+	{
+			"message"	: "Safe Search"
+	},
+	"Home Page"	:
+	{
+			"message"	: "Kotisivu"
+	},
+	"Settings"	:
+	{
+			"message" :	"Asetukset"
+	},
+	"Share Data with Norton"	:
+	{
+			"message"	: "Jaa tietoja Nortonin kanssa"
+	},
+	"Share usage and error data anonymously with Norton and help us make our products even better"	:
+	{
+			"message"	: "Jaa k\u00e4ytt\u00f6- ja virhetietoja nimett\u00f6m\u00e4sti Nortonin kanssa ja auta meit\u00e4 tekem\u00e4\u00e4n tuotteistamme entist\u00e4kin parempia."
+	},
+	"Privacy Policy"	:
+	{
+			"message"	: "Tietosuojak\u00e4yt\u00e4nt\u00f6"
+	},
+	"Scam Insight: Personal Information Risk" :
+	{
+		"message" : "Scam Insight: henkil\u00f6tietoihin kohdistuva uhka"
+	},
+	"This site is safe, but…" :
+	{
+		"message" : "T\u00e4m\u00e4 sivusto on turvallinen, mutta\u2026"
+	},
+	"It asks for personal information and is not well established with the Norton Community. Use caution when entering any of your information on this site. " :
+	{
+		"message" : "T\u00e4ll\u00e4 verkkosivustolla pyydet\u00e4\u00e4n henkil\u00f6kohtaisia tietoja. Lis\u00e4ksi Norton-yhteis\u00f6n j\u00e4senet eiv\u00e4t ole juurikaan k\u00e4ytt\u00e4neet t\u00e4t\u00e4 sivustoa. Anna tietojasi harkiten t\u00e4lle sivustolle. "
+	},
+	"Visit " :
+	{
+		"message" : "Vieraile"
+	},
+	"Norton " :
+	{
+		"message" : "Norton"
+	},
+	"to learn more about personal information risk on Web sites." :
+	{
+		"message" : "ja lue lis\u00e4\u00e4 verkkosivustoilla olevista henkil\u00f6tietoihin kohdistuvista uhkista."
+	},
+	"Age: " :
+	{
+		"message" : "Ik\u00e4: "
+	},
+	"Very New" :
+	{
+		"message" : "Eritt\u00e4in uusi"
+	},
+	"This website was published very recently." :
+	{
+		"message" : "T\u00e4m\u00e4 verkkosivusto on julkaistu vastik\u00e4\u00e4n."
+	},
+	"New" :
+	{
+		"message" : "Uusi"
+	},
+	"This website has been available for a short time." :
+	{
+		"message" : "T\u00e4m\u00e4 verkkosivusto on ollut k\u00e4ytett\u00e4viss\u00e4 jonkin aikaa."
+	},
+	"Prevalence: " :
+	{
+		"message" : "Levinneisyys: "
+	},
+	"No Users" :
+	{
+		"message" : "Ei k\u00e4ytt\u00e4ji\u00e4"
+	},
+	"No Norton community members have used this site." :
+	{
+		"message" : "Kukaan Norton-yhteis\u00f6n j\u00e4sen ei ole k\u00e4ytt\u00e4nyt t\u00e4t\u00e4 sivustoa."
+	},
+	"Few Users" :
+	{
+		"message" : "V\u00e4h\u00e4n k\u00e4ytt\u00e4ji\u00e4"
+	},
+	"Very few Norton community members have used this site." :
+	{
+		"message" : "Hyvin harvat Norton-yhteis\u00f6n j\u00e4senet ovat k\u00e4ytt\u00e4neet t\u00e4t\u00e4 sivustoa."
+	},
+	"Continue to Site" :
+	{
+		"message" : "Jatka sivustolle"
+	},
+	"Exit Site" :
+	{
+		"message" : "Poistu sivustolta"
+	},
+	"If you think this website is categorized incorrectly, " :
+	{
+		"message" : "Jos t\u00e4m\u00e4 sivusto on mielest\u00e4si luokiteltu v\u00e4\u00e4rin, "
+	},
+	"Report Issue." :
+	{
+		"message" : "ilmoita ongelmasta."
+	},
+	"Signed in as"		:
+	{
+		"message"		: "Kirjauduttu sis\u00e4\u00e4n henkil\u00f6n\u00e4"
+	},
+	"Sign out"			:
+	{
+		"message"		: "Kirjaudu ulos"
+	},
+	"You have successfully logged out of your Norton Account"	: {
+		"message"	:	"Kirjauduit ulos Norton-tilist\u00e4si"
+	},
+	"Sorry, something went wrong. Please try again." :	{
+		"message"	:	"Jokin meni vikaan. Yrit\u00e4 uudelleen."
+	},
+	"Link Guard": {
+		"message": "Linkkisuojaus"
+	},
+	"Identify unsafe links in Webmail, Facebook, and Twitter": {
+		"message": "Tunnista vaaralliset linkit verkkos\u00e4hk\u00f6postissa, Facebookissa ja Twitteriss\u00e4"
+	},
+	"Banking Protection": {
+  		"message": "Pankkiasioiden suojaus"
+	},
+	"Banking Protection can help protect your sensitive online transactions.": {
+  		"message": "Pankkiasioiden suojaus voi auttaa suojaamaan arkaluonteisia verkkotapahtumia."
+	},
+	"Select your preferences below for viewing banking websites in Isolation Mode:": {
+  		"message": "Valitse alta haluamasi asetukset pankkisivustojen eristystilassa n\u00e4ytt\u00e4mist\u00e4 varten:"
+	},
+	"Websites": {
+  		"message": "Verkkosivustot"
+	},
+	"Isolation Mode On": {
+  		"message": "Eristystila k\u00e4yt\u00f6ss\u00e4"
+	},
+	"Isolation Mode Off": {
+  		"message": "Eristystila ei k\u00e4yt\u00f6ss\u00e4"
+	},
+	"Ask Me": {
+  		"message": "Kysy minulta"
+	},
+	"Norton Secure Search": {
+		"message": "Norton Secure Search"
+	}
+}

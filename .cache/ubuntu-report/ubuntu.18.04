@@ -1,0 +1,76 @@
+{
+  "Version": "18.04",
+  "OEM": {
+    "Vendor": "LENOVO",
+    "Product": "20BS0040JP"
+  },
+  "BIOS": {
+    "Vendor": "LENOVO",
+    "Version": "N14ET29W (1.07 )"
+  },
+  "CPU": {
+    "OpMode": "32-bit, 64-bit",
+    "CPUs": "4",
+    "Threads": "2",
+    "Cores": "2",
+    "Sockets": "1",
+    "Vendor": "GenuineIntel",
+    "Family": "6",
+    "Model": "61",
+    "Stepping": "4",
+    "Name": "Intel(R) Core(TM) i7-5600U CPU @ 2.60GHz",
+    "Virtualization": "VT-x"
+  },
+  "Arch": "amd64",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "1616"
+    }
+  ],
+  "RAM": 7.8,
+  "Disks": [
+    256.1
+  ],
+  "Partitions": [
+    245.1
+  ],
+  "Screens": [
+    {
+      "Size": "309mmx173mm",
+      "Resolution": "1920x1080",
+      "Frequency": "60.06"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "x11"
+  },
+  "Language": "ja_JP",
+  "Timezone": "Asia/Tokyo",
+  "Install": {
+    "Media": "Ubuntu 18.04.2 LTS \"Bionic Beaver\" - Release amd64 (20190421)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "use_device",
+    "DownloadUpdates": true,
+    "Language": "ja",
+    "Minimal": false,
+    "RestrictedAddons": false,
+    "Stages": {
+      "0": "language",
+      "9": "console_setup",
+      "13": "wireless",
+      "41": "prepare",
+      "57": "partman",
+      "141": "start_install",
+      "161": "timezone",
+      "165": "usersetup",
+      "193": "user_done",
+      "566": "done"
+    }
+  }
+}

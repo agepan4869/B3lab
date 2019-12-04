@@ -1,0 +1,752 @@
+次の場所で Git を検索しています: git
+git から Git 2.17.1 を使用しています
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/agepan
+> git status -z -u
+> git show :Documents/AtCoder/AtCoderBiginnerContest146/D.py
+> git ls-files --stage -- Documents/AtCoder/AtCoderBiginnerContest146/
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :Documents/AtCoder/AtCoderBiginnerContest146/D.py
+> git add -A -- .
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0

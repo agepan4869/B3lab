@@ -1,0 +1,99 @@
+@media all
+{
+  html, body {
+      height: 100%;
+  }
+
+  html {
+      display: table;
+      margin: auto;
+  }
+
+  body {
+    display: table-cell;
+    vertical-align: middle;
+  }
+
+  body, button {
+    font-family: "Segoe UI", "Helvetica Neue", "HelveticaNeue", Helvetica, "Lucida Sans Unicode", Arial, Sans-serif;
+  }
+
+  div.container {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  div.content {
+    min-width: 850px;
+    height: 527px;
+    background-color: #ffffff;
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.5);
+    border: solid 1px #dadada;
+  }
+
+  div.title {
+    font-size: 36px;
+    text-align: center;
+    color: #666666;
+    margin-top: 60px;
+    margin-bottom: 10px;
+  }
+
+  div.description {
+    font-size: 16px;
+    text-align: center;
+    color: #333333;
+  }
+
+  div.description-container {
+    margin-bottom: 40px;
+    margin-left:20px;
+    margin-right:20px;
+  }
+
+  div.assist-image {
+    text-align: center;
+  }
+
+  .img-chrome-assist {
+    width: 404px;
+    height: 220px;
+    object-fit: contain;
+  }
+
+  .logo_norton {
+    width: 76px;
+    height: 30px;
+    object-fit: contain;
+    float:left;
+    margin-left: 26px;
+    margin-top: 54px;
+  }
+
+  .btn-continue {
+    width: 109px;
+    height: 40px;
+    font-size: 16px;
+    color: #333333 ;
+    border: none;
+    cursor: pointer;
+    background-color: #ffe283 ;
+    text-align: center;
+    float:right;
+    margin-right: 26px;
+    margin-top: 44px;
+  }
+
+/* RTL styling begins */
+  body[dir="rtl"] .logo_norton {
+    float:right;
+    margin-right: 26px;
+  }
+
+  body[dir="rtl"] .btn-continue {
+    float:left;
+    margin-left: 26px;
+  }
+/* RTL styling ends */
+
+}

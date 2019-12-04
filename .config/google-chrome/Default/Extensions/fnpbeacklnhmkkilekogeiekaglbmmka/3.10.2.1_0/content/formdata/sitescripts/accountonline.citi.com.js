@@ -1,0 +1,2 @@
+(function(a){var e,d;a.waxMain=function(){var b=document.getElementById("USERNAME-citiTextBlur"),a=document.getElementById("USERNAME"),c=document.getElementById("PASSWORD");null!=b&&"undefined"!=typeof b&&(null!=a&&"undefined"!=typeof a&&(d=a.value),b.addEventListener("change",function(b){d=a.value},!1));null!=c&&"undefined"!=typeof c&&c.addEventListener("change",function(a){e=c.value},!1)};a.waxFetchData=function(){var a={};a[SymWax.constants.loginType.USERNAME]=d;a[SymWax.constants.loginType.PASSWORD]=
+e;return a};a.onload=a.waxMain})(window);

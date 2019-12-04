@@ -1,0 +1,430 @@
+{
+	"Caution":
+	{
+		"message": "\u05d6\u05d4\u05d9\u05e8\u05d5\u05ea"
+	},
+
+	"Untested":
+	{
+		"message": "\u05dc\u05d0 \u05e0\u05d1\u05d3\u05e7"
+	},
+
+	"Warning":
+	{
+		"message": "\u05d0\u05d6\u05d4\u05e8\u05d4"
+	},
+	"Norton Secured":
+	{
+		"message": "\u05de\u05d0\u05d5\u05d1\u05d8\u05d7"
+	},
+	"Not Licensed":
+	{
+		"message": "\u05dc\u05d0 \u05de\u05d5\u05e8\u05e9\u05d4"
+	},
+	"Safe":
+	{
+		"message": "\u05d1\u05d8\u05d5\u05d7"
+	},
+	"Safe Web is off":
+	{
+		"message": "\u05d1\u05d8\u05d5\u05d7"
+	},
+	"Page not analyzed":
+	{
+		"message": "\u05d4\u05d3\u05e3 \u05dc\u05d0 \u05e2\u05d1\u05e8 \u05e0\u05d9\u05ea\u05d5\u05d7"
+	},
+	"Search the Web Safely":
+	{
+		"message": "\u05d1\u05d8\u05d5\u05d7"
+	},
+	"Norton Rating":
+	{
+		"message": "\u05d3\u05d9\u05e8\u05d5\u05d2 Norton"
+	},
+	"Computer Threats":
+	{
+		"message": "\u05d0\u05d9\u05d5\u05de\u05d9 \u05de\u05d7\u05e9\u05d1"
+	},
+	"Identity Threats":
+	{
+		"message": "\u05d0\u05d9\u05d5\u05de\u05d9 \u05d2\u05e0\u05d9\u05d1\u05ea \u05d6\u05d4\u05d5\u05ea"
+	},
+	"Annoyance Threats":
+	{
+		"message": "\u05d0\u05d9\u05d5\u05de\u05d9 \u05d4\u05d8\u05e8\u05d3\u05d4"
+	},
+	"Total Threats":
+	{
+		"message": "\u05e1\u05d4\"\u05db \u05d0\u05d9\u05d5\u05de\u05d9\u05dd"
+	},
+	"Full Safe Web report":
+	{
+		"message": " \u05d3\u05d5\u05d7 Full Safe Web"
+	},
+	"Report this site":
+	{
+		"message": "\u05d3\u05d5\u05d5\u05d7 \u05e2\u05dc \u05d0\u05ea\u05e8 \u05d6\u05d4"
+	},
+	"Norton Safe Web":
+	{
+		"message": "Norton Safe Web"
+	},
+	"Browser Settings":
+	{
+		"message": "\u05d4\u05d2\u05d3\u05e8\u05d5\u05ea \u05d3\u05e4\u05d3\u05e4\u05df"
+	},
+	"Unsafe to Shop":
+	{
+		"message" : "\u05dc\u05d0 \u05d1\u05d8\u05d5\u05d7"
+	},
+    "total_threats_id":
+    {
+        "message" : "\u05d0\u05d9\u05d5\u05de\u05d9\u05dd: "
+    },
+		"untested_text":
+		{
+			"message" : "\u05d0\u05ea\u05e8 \u05d6\u05d4 \u05dc\u05d0 \u05e0\u05d1\u05d3\u05e7 \u05e2\u05d3\u05d9\u05d9\u05df"
+		},
+    "safe_status_id":
+    {
+        "message" : "\u05d1\u05d8\u05d5\u05d7"
+    },
+    "secure_status_id":
+    {
+        "message" : "\u05de\u05d0\u05d5\u05d1\u05d8\u05d7"
+    },
+    "caution_status_id":
+    {
+        "message" : "\u05d6\u05d4\u05d9\u05e8\u05d5\u05ea"
+    },
+    "untested_status_id":
+    {
+        "message" : "\u05dc\u05d0 \u05e0\u05d1\u05d3\u05e7"
+    },
+    "unsafe_status_id":
+    {
+        "message" : "\u05dc\u05d0 \u05d1\u05d8\u05d5\u05d7"
+    },
+		"full_report_id" :
+		{
+				"message" : "\u05d3\u05d5\u05d7 \u05de\u05dc\u05d0"
+		},
+	"nortonrating_id":
+	{
+		"message" : "\u05d3\u05d9\u05e8\u05d5\u05d2 Norton:"
+	},
+	"Malicious Download Detected":
+	{
+		"message" : "\u05e0\u05de\u05e6\u05d0\u05d5 \u05d4\u05d5\u05e8\u05d3\u05d5\u05ea \u05d6\u05d3\u05d5\u05e0\u05d9\u05d5\u05ea"
+	},
+	"Download Cancelled":
+	{
+		"message" : "\u05d4\u05d4\u05d5\u05e8\u05d3\u05d4 \u05d1\u05d5\u05d8\u05dc\u05d4"
+	},
+	"Malicious Web Site Blocked":
+	{
+		"message" : "\u05e0\u05d7\u05e1\u05dd \u05d0\u05ea\u05e8 \u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05d8 \u05d6\u05d3\u05d5\u05e0\u05d9"
+	},
+	"Malicious Site Blocked!":
+	{
+		"message" : "\u05d0\u05ea\u05e8 \u05d6\u05d3\u05d5\u05e0\u05d9 \u05e0\u05d7\u05e1\u05dd!"
+	},
+	"You attempted to access:" :
+	{
+		"message" : "\u05e0\u05d9\u05e1\u05d9\u05ea \u05dc\u05d4\u05d9\u05db\u05e0\u05e1 \u05d0\u05dc:"
+	},
+	"This is a known malicious web site. It is recommended that you do NOT visit this site. The" :
+	{
+		"message" : "\u05de\u05d5\u05de\u05dc\u05e5"
+	},
+	"This web page is a known malicious web page." :
+	{
+		"message" : "\u05d3\u05e3 \u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05d8 \u05d6\u05d4 \u05de\u05d5\u05db\u05e8 \u05db\u05d6\u05d3\u05d5\u05e0\u05d9."
+	},
+	"This site is a known malicious web site." :
+	{
+		"message" : "\u05d0\u05ea\u05e8 \u05d6\u05d4 \u05d4\u05d5\u05d0 \u05d0\u05ea\u05e8 \u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05d8 \u05d6\u05d3\u05d5\u05e0\u05d9 \u05de\u05d5\u05db\u05e8."
+	},
+	"detailed report" :
+	{
+		"message" : "\u05d4\u05de\u05e4\u05d5\u05e8\u05d8"
+	},
+	"explains the security risks on this site." :
+	{
+		"message" : "\u05de\u05e1\u05d1\u05d9\u05e8 \u05d0\u05ea \u05d0\u05d9\u05d5\u05de\u05d9 \u05d4\u05d0\u05d1\u05d8\u05d7\u05d4 \u05e9\u05d6\u05d5\u05d4\u05d5 \u05d1\u05d0\u05ea\u05e8."
+	},
+	"For your protection, this web site has been blocked. Visit" :
+	{
+		"message" : "\u05dc\u05d4\u05d2\u05e0\u05ea\u05da, \u05d0\u05ea\u05e8 \u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05d8 \u05d6\u05d4 \u05e0\u05d7\u05e1\u05dd. \u05d1\u05e7\u05e8"
+	},
+	"Symantec" :
+	{
+		"message" : "Symantec"
+	},
+	"to learn more about phishing and internet security." :
+	{
+		"message" : "\u05db\u05d3\u05d9 \u05dc\u05e7\u05d1\u05dc \u05de\u05d9\u05d3\u05e2 \u05e0\u05d5\u05e1\u05e3 \u05e2\u05dc \u05d3\u05d9\u05d5\u05d2 \u05d5\u05e2\u05dc \u05d0\u05d1\u05d8\u05d7\u05d4 \u05d1\u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05d8."
+	},
+	"Exit this site" :
+	{
+		"message" : "\u05e6\u05d0 \u05de\u05d4\u05d0\u05ea\u05e8"
+	},
+	"I want to view this Web site anyway" :
+	{
+		"message" : "\u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05dc\u05d4\u05d9\u05db\u05e0\u05e1 \u05dc\u05d0\u05ea\u05e8 \u05d1\u05db\u05dc \u05d6\u05d0\u05ea"
+	},
+	"It is recommended that you" :
+	{
+		"message" : "\u05de\u05d5\u05de\u05dc\u05e5"
+	},
+	"DO NOT visit this Web site." :
+	{
+		"message" : "\u05e9\u05dc\u05d0 \u05ea\u05d1\u05e7\u05e8 \u05d1\u05d0\u05ea\u05e8 \u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05d8 \u05d6\u05d4."
+	},
+	"Welcome to":
+	{
+		"message" : "\u05d1\u05e8\u05d5\u05db\u05d9\u05dd \u05d4\u05d1\u05d0\u05d9\u05dd \u05d0\u05dc "
+	},
+	"Norton"	:
+	{
+		"message" : "Norton"
+	},
+	"Thank you for choosing Norton. When a Chrome message appears at the top right of the screen, click" :
+	{
+		"message" : "\u05ea\u05d5\u05d3\u05d4 \u05e9\u05d1\u05d7\u05e8\u05ea \u05d1-Norton. \u05db\u05d0\u05e9\u05e8 \u05ea\u05d5\u05e4\u05d9\u05e2 \u05d4\u05d5\u05d3\u05e2\u05ea Chrome \u05d1\u05d7\u05dc\u05e7 \u05d4\u05e2\u05dc\u05d9\u05d5\u05df \u05e9\u05dc \u05d4\u05de\u05e1\u05da, \u05dc\u05d7\u05e5 \u05e2\u05dc"
+	},
+	"Keep changes" :
+	{
+		"message" : "\u05e9\u05de\u05d5\u05e8 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e0\u05d5\u05d9\u05d9\u05dd"
+	},
+	"to maintain your {0} protection in Chrome." :
+	{
+		"message" : "\u05db\u05d3\u05d9 \u05dc\u05d4\u05e9\u05d0\u05d9\u05e8 \u05d0\u05ea \u05d4\u05d4\u05d2\u05e0\u05d4 \u05e9\u05dc {0} \u05d1-Chrome."
+	},
+	"Norton Safe Search" :
+	{
+		"message" : "Norton Safe Search"
+	},
+	"Norton Home Page" :
+	{
+		"message" : "\u05d3\u05e3 \u05d4\u05d1\u05d9\u05ea \u05e9\u05dc Norton"
+	},
+	"Continue" :
+	{
+		"message" : "\u05d4\u05de\u05e9\u05da"
+	},
+	"Suspicious Website Blocked" : {
+		"message" : "\u05e0\u05d7\u05e1\u05dd \u05d0\u05ea\u05e8 \u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05d8 \u05d7\u05e9\u05d5\u05d3"
+	},
+	"For your protection, this web page has been blocked and submitted for review." :
+	{
+		"message" : "\u05dc\u05d4\u05d2\u05e0\u05ea\u05da, \u05d3\u05e3 \u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05d8 \u05d6\u05d4 \u05e0\u05d7\u05e1\u05dd \u05d5\u05d4\u05d5\u05d2\u05e9 \u05dc\u05d1\u05d3\u05d9\u05e7\u05d4."
+	},
+	"It is highly recommended that you do NOT visit this page." :
+	{
+		"message" : "\u05de\u05d5\u05de\u05dc\u05e5 \u05e9\u05dc\u05d0 \u05ea\u05d1\u05e7\u05e8 \u05d1\u05d3\u05e3 \u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05d8 \u05d6\u05d4."
+	},
+	"Visit" :
+	{
+		"message" : "\u05d1\u05e7\u05e8"
+	},
+	"Continue to the site" :
+	{
+		"message" : "\u05d4\u05de\u05e9\u05da \u05dc\u05d0\u05ea\u05e8"
+	},
+	"View Full Report" :
+	{
+		"message" : "\u05d4\u05e6\u05d2 \u05d3\u05d5\u05d7 \u05de\u05dc\u05d0"
+	},
+	"BLOCKED BY" :
+	{
+		"message" : "\u05e0\u05d7\u05e1\u05dd \u05e2\u05dc \u05d9\u05d3\u05d9"
+	},
+	"Search for a safer site" :
+	{
+		"message" : "\u05d7\u05e4\u05e9 \u05d0\u05ea\u05e8 \u05d1\u05d8\u05d5\u05d7 \u05d9\u05d5\u05ea\u05e8"
+	},
+	"Fraudulent Web Page Blocked" :
+	{
+		"message" : "\u05e0\u05d7\u05e1\u05dd \u05d3\u05e3 \u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05d8 \u05d4\u05d7\u05e9\u05d5\u05d3 \u05db\u05d4\u05d5\u05e0\u05d0\u05d4"
+	},
+	"This web page is a known fraudulent web page.":
+	{
+		"message" : "\u05d3\u05e3 \u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05d8 \u05d6\u05d4 \u05de\u05d5\u05db\u05e8 \u05db\u05d7\u05e9\u05d5\u05d3 \u05d1\u05d4\u05d5\u05e0\u05d0\u05d4."
+	},
+	"Dangerous Web Page Blocked" :
+	{
+		"message" : "\u05e0\u05d7\u05e1\u05dd \u05d3\u05e3 \u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05d8 \u05d6\u05d3\u05d5\u05e0\u05d9"
+	},
+	"This is a known dangerous web page." :
+	{
+		"message" : "\u05d3\u05e3 \u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05d8 \u05d6\u05d4 \u05de\u05d5\u05db\u05e8 \u05db\u05de\u05db\u05d9\u05dc \u05e8\u05db\u05d9\u05d1\u05d9\u05dd \u05d6\u05d3\u05d5\u05e0\u05d9\u05d9\u05dd."
+	},
+	"Thank you for using {0}! Share usage and error data anonymously with Norton to help make our products even better." : {
+		"message" : "\u05ea\u05d5\u05d3\u05d4 \u05e2\u05dc \u05d4\u05e9\u05d9\u05de\u05d5\u05e9 \u05d1-{0}! \u05e9\u05ea\u05e3 \u05e0\u05ea\u05d5\u05e0\u05d9 \u05e9\u05d9\u05de\u05d5\u05e9 \u05d5\u05e9\u05d2\u05d9\u05d0\u05d5\u05ea \u05d1\u05d0\u05d5\u05e4\u05df \u05d0\u05e0\u05d5\u05e0\u05d9\u05de\u05d9 \u05e2\u05dd Norton \u05db\u05d3\u05d9 \u05dc\u05e2\u05d6\u05d5\u05e8 \u05dc\u05e0\u05d5 \u05dc\u05e9\u05e4\u05e8 \u05d0\u05ea \u05d4\u05de\u05d5\u05e6\u05e8\u05d9\u05dd \u05e9\u05dc\u05e0\u05d5 \u05d0\u05e3 \u05d9\u05d5\u05ea\u05e8."
+	},
+	"OK" :
+	{
+	    "message" : "\u05d0\u05d9\u05e9\u05d5\u05e8"
+	},
+	"No, thanks" :
+	{
+	    "message" : "\u05dc\u05d0, \u05ea\u05d5\u05d3\u05d4"
+	},
+	"Learn More" :
+	{
+	    "message" : "\u05dc\u05de\u05d9\u05d3\u05e2 \u05e0\u05d5\u05e1\u05e3"
+	},
+	"Safe Web"	:
+	{
+			"message" : "Safe Web"
+	},
+	"Safe Search"	:
+	{
+			"message"	: "Safe Search"
+	},
+	"Home Page"	:
+	{
+			"message"	: "\u05d3\u05e3 \u05d4\u05d1\u05d9\u05ea"
+	},
+	"Settings"	:
+	{
+			"message" :	"\u05d4\u05d2\u05d3\u05e8\u05d5\u05ea"
+	},
+	"Share Data with Norton"	:
+	{
+			"message"	: "\u05e9\u05d9\u05ea\u05d5\u05e3 \u05e0\u05ea\u05d5\u05e0\u05d9\u05dd \u05e2\u05dd Norton"
+	},
+	"Share usage and error data anonymously with Norton and help us make our products even better"	:
+	{
+			"message"	: "\u05e9\u05ea\u05e3 \u05e0\u05ea\u05d5\u05e0\u05d9 \u05e9\u05d9\u05de\u05d5\u05e9 \u05d5\u05e9\u05d2\u05d9\u05d0\u05d5\u05ea \u05d1\u05d0\u05d5\u05e4\u05df \u05d0\u05e0\u05d5\u05e0\u05d9\u05de\u05d9 \u05e2\u05dd Norton \u05db\u05d3\u05d9 \u05dc\u05e2\u05d6\u05d5\u05e8 \u05dc\u05e0\u05d5 \u05dc\u05e9\u05e4\u05e8 \u05d0\u05ea \u05d4\u05de\u05d5\u05e6\u05e8\u05d9\u05dd \u05e9\u05dc\u05e0\u05d5 \u05d0\u05e3 \u05d9\u05d5\u05ea\u05e8."
+	},
+	"Privacy Policy"	:
+	{
+			"message"	: "\u05de\u05d3\u05d9\u05e0\u05d9\u05d5\u05ea \u05e4\u05e8\u05d8\u05d9\u05d5\u05ea"
+	},
+	"Scam Insight: Personal Information Risk" :
+	{
+		"message" : "\u05ea\u05d5\u05d1\u05e0\u05d4 \u05dc\u05d2\u05d1\u05d9 \u05d4\u05d5\u05e0\u05d0\u05d4: '\u05e1\u05d9\u05db\u05d5\u05df \u05de\u05d9\u05d3\u05e2 \u05d0\u05d9\u05e9\u05d9'"
+	},
+	"This site is safe, but…" :
+	{
+		"message" : "\u05d4\u05d0\u05ea\u05e8 \u05d1\u05d8\u05d5\u05d7, \u05d0\u05da"
+	},
+	"It asks for personal information and is not well established with the Norton Community. Use caution when entering any of your information on this site. " :
+	{
+		"message" : "\u05d4\u05d5\u05d0 \u05de\u05d1\u05e7\u05e9 \u05e4\u05e8\u05d8\u05d9\u05dd \u05d0\u05d9\u05e9\u05d9\u05d9\u05dd \u05d5\u05d4\u05d5\u05d0 \u05d0\u05d9\u05e0\u05d5 \u05de\u05d5\u05db\u05e8 \u05d4\u05d9\u05d8\u05d1 \u05d1\u05e7\u05e8\u05d1 \u05d7\u05d1\u05e8\u05d9 Norton Community. \u05d4\u05e4\u05e2\u05dc \u05e9\u05d9\u05e7\u05d5\u05dc \u05d3\u05e2\u05ea \u05dc\u05e4\u05e0\u05d9 \u05e9\u05ea\u05d6\u05d9\u05df \u05e4\u05e8\u05d8\u05d9\u05dd \u05d0\u05d9\u05e9\u05d9\u05d9\u05dd \u05db\u05dc\u05e9\u05d4\u05dd \u05d1\u05d0\u05ea\u05e8 \u05d6\u05d4. "
+	},
+	"Visit " :
+	{
+		"message" : "\u05d1\u05e7\u05e8"
+	},
+	"Norton " :
+	{
+		"message" : "Norton"
+	},
+	"to learn more about personal information risk on Web sites." :
+	{
+		"message" : "\u05dc\u05e4\u05e8\u05d8\u05d9\u05dd \u05e0\u05d5\u05e1\u05e4\u05d9\u05dd \u05e2\u05dc '\u05e1\u05d9\u05db\u05d5\u05df \u05de\u05d9\u05d3\u05e2 \u05d0\u05d9\u05e9\u05d9' \u05d1\u05d0\u05ea\u05e8\u05d9 \u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05d8."
+	},
+	"Age: " :
+	{
+		"message" : "\u05d2\u05d9\u05dc: "
+	},
+	"Very New" :
+	{
+		"message" : "\u05d7\u05d3\u05e9 \u05de\u05d0\u05d5\u05d3"
+	},
+	"This website was published very recently." :
+	{
+		"message" : "\u05d4\u05d0\u05ea\u05e8 \u05e2\u05dc\u05d4 \u05dc\u05e8\u05e9\u05ea \u05de\u05de\u05e9 \u05dc\u05d0\u05d7\u05e8\u05d5\u05e0\u05d4."
+	},
+	"New" :
+	{
+		"message" : "\u05d7\u05d3\u05e9"
+	},
+	"This website has been available for a short time." :
+	{
+		"message" : "\u05d4\u05d0\u05ea\u05e8 \u05e4\u05e2\u05d9\u05dc \u05d6\u05de\u05df \u05e7\u05e6\u05e8."
+	},
+	"Prevalence: " :
+	{
+		"message" : "\u05e9\u05db\u05d9\u05d7\u05d5\u05ea: "
+	},
+	"No Users" :
+	{
+		"message" : "\u05d0\u05d9\u05df \u05de\u05e9\u05ea\u05de\u05e9\u05d9\u05dd"
+	},
+	"No Norton community members have used this site." :
+	{
+		"message" : "\u05d0\u05e3 \u05d0\u05d7\u05d3 \u05de\u05d7\u05d1\u05e8\u05d9 Norton Community \u05dc\u05d0 \u05d4\u05e9\u05ea\u05de\u05e9 \u05d1\u05d0\u05ea\u05e8 \u05d6\u05d4."
+	},
+	"Few Users" :
+	{
+		"message" : "\u05de\u05e9\u05ea\u05de\u05e9\u05d9\u05dd \u05de\u05e2\u05d8\u05d9\u05dd"
+	},
+	"Very few Norton community members have used this site." :
+	{
+		"message" : "\u05e8\u05e7 \u05de\u05e2\u05d8\u05d9\u05dd \u05de\u05d7\u05d1\u05e8\u05d9 Norton Community \u05d4\u05e9\u05ea\u05de\u05e9\u05d5 \u05d1\u05d0\u05ea\u05e8 \u05d6\u05d4."
+	},
+	"Continue to Site" :
+	{
+		"message" : "\u05d4\u05de\u05e9\u05da \u05dc\u05d0\u05ea\u05e8"
+	},
+	"Exit Site" :
+	{
+		"message" : "\u05e6\u05d0 \u05de\u05d4\u05d0\u05ea\u05e8"
+	},
+	"If you think this website is categorized incorrectly, " :
+	{
+		"message" : "\u05d0\u05dd \u05d0\u05ea\u05d4 \u05e1\u05d1\u05d5\u05e8 \u05e9\u05d0\u05ea\u05e8 \u05d6\u05d4 \u05de\u05e1\u05d5\u05d5\u05d2 \u05d1\u05d0\u05d5\u05e4\u05df \u05e9\u05d2\u05d5\u05d9, "
+	},
+	"Report Issue." :
+	{
+		"message" : "\u05d3\u05d5\u05d5\u05d7 \u05e2\u05dc \u05d1\u05e2\u05d9\u05d4."
+	},
+	"Signed in as"		:
+	{
+		"message"		: "\u05db\u05e0\u05d9\u05e1\u05d4 \u05d1\u05e9\u05dd"
+	},
+	"Sign out"			:
+	{
+		"message"		: "\u05d9\u05e6\u05d9\u05d0\u05d4"
+	},
+	"You have successfully logged out of your Norton Account"	: {
+		"message"	:	"\u05d9\u05e6\u05d0\u05ea \u05d1\u05d4\u05e6\u05dc\u05d7\u05d4 \u05de\u05d7\u05e9\u05d1\u05d5\u05df Norton \u05e9\u05dc\u05da"
+	},
+	"Sorry, something went wrong. Please try again." :	{
+		"message"	:	"\u05de\u05e6\u05d8\u05e2\u05e8\u05d9\u05dd, \u05d0\u05d9\u05e8\u05e2\u05d4 \u05e9\u05d2\u05d9\u05d0\u05d4 \u05e0\u05e1\u05d4 \u05e9\u05d5\u05d1."
+	},
+	"Link Guard": {
+		"message": "\u05de\u05d2\u05df \u05d4\u05e7\u05d9\u05e9\u05d5\u05e8\u05d9\u05dd"
+	},
+	"Identify unsafe links in Webmail, Facebook, and Twitter": {
+		"message": "\u05d6\u05d4\u05d4 \u05e7\u05d9\u05e9\u05d5\u05e8\u05d9\u05dd \u05dc\u05d0 \u05d1\u05d8\u05d5\u05d7\u05d9\u05dd \u05d1-Webmail, Facebook \u05d5-Twitter"
+	},
+	"Banking Protection": {
+  		"message": "\u05d4\u05d2\u05e0\u05d4 \u05e2\u05dc \u05e4\u05e2\u05d5\u05dc\u05d5\u05ea \u05d1\u05e0\u05e7\u05d0\u05d5\u05ea"
+	},
+	"Banking Protection can help protect your sensitive online transactions.": {
+  		"message": "'\u05d4\u05d2\u05e0\u05d4 \u05e2\u05dc \u05e4\u05e2\u05d5\u05dc\u05d5\u05ea \u05d1\u05e0\u05e7\u05d0\u05d5\u05ea' \u05d9\u05db\u05d5\u05dc\u05d4 \u05dc\u05e2\u05d6\u05d5\u05e8 \u05dc\u05d4\u05d2\u05df \u05e2\u05dc \u05d4\u05e2\u05e1\u05e7\u05d0\u05d5\u05ea \u05d4\u05e8\u05d2\u05d9\u05e9\u05d5\u05ea \u05e9\u05dc\u05da \u05d1\u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05d8."
+	},
+	"Select your preferences below for viewing banking websites in Isolation Mode:": {
+  		"message": "\u05d1\u05d7\u05e8 \u05dc\u05de\u05d8\u05d4 \u05d0\u05ea \u05d4\u05d4\u05e2\u05d3\u05e4\u05d5\u05ea \u05e9\u05dc\u05da \u05dc\u05d4\u05e6\u05d2\u05ea \u05d0\u05ea\u05e8\u05d9 \u05d1\u05e0\u05e7\u05d0\u05d5\u05ea \u05d1\u05de\u05e6\u05d1 \u05d1\u05d9\u05d3\u05d5\u05d3:"
+	},
+	"Websites": {
+  		"message": "\u05d0\u05ea\u05e8\u05d9 \u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05d8"
+	},
+	"Isolation Mode On": {
+  		"message": "\u05de\u05e6\u05d1 \u05d1\u05d9\u05d3\u05d5\u05d3 \u05de\u05d5\u05e4\u05e2\u05dc "
+	},
+	"Isolation Mode Off": {
+  		"message": "\u05de\u05e6\u05d1 \u05d1\u05d9\u05d3\u05d5\u05d3 \u05de\u05d5\u05e9\u05d1\u05ea"
+	},
+	"Ask Me": {
+  		"message": "\u05e9\u05d0\u05dc \u05d0\u05d5\u05ea\u05d9"
+	},
+	"Norton Secure Search": {
+		"message": "Norton Secure Search"
+	}
+}

@@ -1,0 +1,1 @@
+(function(a){a.waxFill_Tirerack=function(){document.querySelector("#month option[value='"+document.querySelector("#month").value+"']").click();document.querySelector("#year option[value='"+document.querySelector("#year").value+"']").click()}})(window);

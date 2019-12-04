@@ -1,0 +1,2 @@
+(function(b){b.waxFill_Ifixit_Create_Input=function(){if(null===document.querySelector("#waxDate")){var a=document.createElement("input");a.setAttribute("id","waxDate");a.setAttribute("type","hidden");var b=document.querySelector("[name='cc_fraud']");b.parentNode.insertBefore(a,b.nextSibling)}};b.waxFill_Ifixit=function(){var a=document.querySelector("#waxDate").value;""!==a&&(document.querySelector("#card-exp-month [title='"+a.substr(0,2)+"']").click(),document.querySelector("#card-exp-year [title='20"+
+a.substr(3,2)+"']").click())}})(window);

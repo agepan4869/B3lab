@@ -1,0 +1,1 @@
+var productId=SymBfw?SymBfw.extensionAdapter.getExtensionId():chrome.runtime.id,theEvent=new CustomEvent("NSSSInstallSuccess",{detail:productId});document.addEventListener("ping",function(){document.dispatchEvent(new CustomEvent("pingResponse",{detail:NSSS.constants.PRODUCT_NAME}))});document.dispatchEvent(theEvent);

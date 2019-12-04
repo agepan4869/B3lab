@@ -1,0 +1,45 @@
+<!--watermark CB70-6840-3597-44-15-4-->
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+		<meta content="utf-8" http-equiv="encoding">
+		<link rel="stylesheet" type="text/css" href="popup.css"></link>
+		<script type="text/javascript" src="../../content/libs/jquery.min.js"></script>
+		<script type="text/javascript" src="../../content/libs/uri.min.js"></script>
+		<script type="text/javascript" src="../../content/scripts/SymBfwCS.js"></script>
+		<script type="text/javascript" src="../../content/scripts/NSSS_CS.js"></script>
+		<script type="text/javascript" src="uiHelper.js"></script>
+		<script type="text/javascript" src="popup.js"></script>
+		<script type="text/javascript" src="nfmUI.js"></script>
+	</head>
+	<body>
+		<div class="search" id="safesearchbox">
+			<input class="hide-bg" id="searchbox" type="text" placeholder=""></input>
+			<div id="searchbutton"></div>
+		</div>
+		<div id="placeholder">
+			<div class="title" id="sitename">about:blank</div>
+			<div id="rating" rating="untested" >
+				<div class="title nortonrating">NORTON_RATING:</div>
+				<div id="safewebicon"></div>
+				<div class="ratingtext2 large" id="ratingtext">Safe</div>
+				<span class="title ratingtext caption small">COMPUTER_THREATS:</span>
+				<span class="ratingtext caption small">IDENTITY_THREATS:</span>
+				<span class="ratingtext caption small">ANNOYANCE_THREATS:</span>
+				<span class="ratingtext total small bold">TOTAL_THREATS:</span>
+				<span class="title ratingresult caption large" id="compthreats">0</span>
+				<span class="ratingresult caption large" id="idthreats">0</span>
+				<span class="ratingresult caption large" id="annoythreats">0</span>
+				<span class="ratingresult total large bold" id="totalthreats">0</span>
+				<span class="title ratingreport small link" id="fullreport">FULL_REPORT</span>
+				<span class="ratingreport small link" id="reportsite">REPORT_SITE</span>
+			</div>
+			<div id="footer">
+				<div id="nortonicon"></div>
+				<div class="small bold footertext">NORTON_SAFEWEB</div>
+				<div id="settings"></div>
+			</div>
+		</div>
+	</body>
+</html>

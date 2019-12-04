@@ -1,0 +1,12 @@
+次の場所で Git を検索しています: git
+git から Git 2.17.1 を使用しています
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/agepan
+> git status -z -u
+> git show :Documents/AtCoder/AtCoderBeginnerContest001/A.py
+> git ls-files --stage -- Documents/AtCoder/AtCoderBeginnerContest001/
+> git check-ignore -v -z --stdin
+> git show :Documents/AtCoder/AtCoderBeginnerContest001/B.py
+> git ls-files --stage -- Documents/AtCoder/AtCoderBeginnerContest001/
+> git check-ignore -v -z --stdin

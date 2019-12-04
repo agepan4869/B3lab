@@ -1,0 +1,3 @@
+[2019-11-27 15:30:04.176] [sharedprocess] [info] main {"machineId":"19186df1a78eaac51e653d62c5890fead57520d403849c3bcf247e0f8fe4d0ca","windowId":2}
+[2019-11-27 15:30:44.187] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-11-27 15:30:44.190] [sharedprocess] [info] Skipping directory d3274e27f0ab8d88cce37814dfc0488a.ja. Language pack still in use.

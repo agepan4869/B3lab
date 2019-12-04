@@ -1,0 +1,217 @@
+/*watermark CB70-6840-3597-44-15-4*/
+body {
+	width: 400px;
+	height: 300px;
+	border-radius: 5px;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	overflow-x: hidden;
+	overflow-y: hidden;
+    background-color:rgb(255, 255, 255);
+}
+
+body, div, input {
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+div.search {
+	margin-top: 15px;
+	margin-left: 12px;
+	width: 100%;
+	display: none;
+}
+
+#searchbox {
+	width: 330px;
+	height: 23px;
+	padding: 0px;
+	padding-left: 7px;
+    margin-right: 0px;
+	border: 1px solid rgb(200,200,200);
+	float: left;
+	border-right-width: 0;
+	background-image: url('../images/close_search.png');
+	background-position: 98% 50%;
+	background-repeat: no-repeat;
+	padding-right: 15px;
+	outline: none;
+}
+
+#searchbox.hide-bg {
+    background-image: none;
+}
+
+#searchbutton {
+	width: 25px;
+	height: 25px;
+	background-image: url('../images/search-icon.png');
+	margin: 0;
+	padding: 0;
+	border: 0;
+	float: left;
+}
+
+#sitename {
+    width: 345px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+	padding: 0;
+	line-height: 30px;
+	color: rgb(71,71,71);
+    float: left;
+}
+
+.title {
+	margin-left: 22px;
+	font-size: 13px;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.ratingtext {
+	color: white;
+	margin-top: 17px;
+    white-space:pre-wrap;
+}
+.ratingresult{
+    color: white;
+	margin-top: 7px;
+}
+.ratingreport{
+    color: white;
+}
+.nortonrating{
+	color: white;
+	margin-top: 8px;
+    margin-bottom: 6px;
+}
+.ratingtext2 {
+	color: white;
+}
+
+.small {
+	font-size: 12px;
+}
+
+.large {
+	font-size: 22px;
+}
+
+span {
+	display: inline-block;
+}
+
+.caption {
+	width: 80px;
+	margin-right: 20px;
+}
+
+.total {
+	width: 50px;
+}
+
+#rating {
+	width:100%;
+	height:191px;
+	margin: 0;
+	padding: 0;
+	border: 0;
+    float: left;
+	vertical-align:middle;
+}
+
+#rating[rating="untested"] {
+	background-color: #808080;
+}
+#rating[rating="safe"] {
+	background-color: #23a31C;
+}
+#rating[rating="caution"] {
+	background-color: #fc6120;
+}
+#rating[rating="warn"] {
+	background-color: #d8000a;
+}
+
+#safewebicon {
+	width: 24px;
+	height: 24px;
+	margin-left: 22px;
+	margin-right: 8px;
+	/*background-color: white;*/
+	background-repeat: no-repeat;
+	background-size: 24px 24px;
+	float: left;
+}
+
+.link {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+#fullreport{
+	margin-top: 19px;
+	margin-right: 16px;
+}
+
+#reportsite {
+	font-size: 13px;
+	margin-top: 19px;
+}
+
+#rating[rating="untested"] > #safewebicon {
+	background-image: url('../images/untested-icon.png');
+}
+#rating[rating="safe"] > #safewebicon {
+	background-image: url('../images/safe-icon.png');
+}
+#rating[rating="warn"] > #safewebicon {
+	background-image: url('../images/at-risk-icon.png');
+	/*background-color: #d8000a;*/
+}
+#rating[rating="caution"] > #safewebicon {
+	background-image: url('../images/warning-icon.png');
+}
+
+#nortonicon {
+	margin-left: 8px;
+	margin-top: 10px;
+	width: 21px;
+	height: 21px;
+	float: left;
+	background-image: url('../images/norton-icon.png');
+}
+
+.footertext {
+	color: black;
+	float: left;
+	margin-top: 10px;
+	float: left;
+	margin-left: 5px;
+	line-height: 24px;
+}
+
+#settings {
+	background-image: url('../images/mainui-settings-icon.svg');
+	width: 16px;
+	height: 16px;
+	float: right;
+	margin-top: 13px;
+	margin-right: 10px;
+	cursor: pointer;
+}
+
+#placeholder {
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	user-select: none;
+	display: none;
+}
+
+iframe {
+	display: none;
+}

@@ -1,0 +1,84 @@
+[2019-11-29 19:48:14.272] [exthost] [info] extension host started
+[2019-11-29 19:48:14.379] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"extensionId":{"value":"vscode.python","_lower":"vscode.python"},"activationEvent":"onLanguage:python"}
+[2019-11-29 19:48:14.379] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/python/dist/pythonMain
+[2019-11-29 19:48:14.383] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.python","_lower":"ms-python.python"},"activationEvent":"onLanguage:python"}
+[2019-11-29 19:48:14.384] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension
+[2019-11-29 19:48:14.620] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-11-29 19:48:14.620] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-11-29 19:48:14.623] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-11-29 19:48:14.623] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-11-29 19:48:14.633] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-11-29 19:48:14.633] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2019-11-29 19:48:14.682] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-11-29 19:48:14.683] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-11-29 19:48:14.687] [exthost] [info] eager extensions activated
+[2019-11-29 20:00:31.193] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2019-11-29 20:00:31.193] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2019-11-29 20:05:12.512] [exthost] [error] [ms-python.python] provider FAILED
+[2019-11-29 20:05:12.512] [exthost] [error] TypeError: Cannot read property 'length' of null
+	at t.ItemInfoSource.getSignature (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:586502)
+	at /home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:585350
+	at Array.forEach (<anonymous>)
+	at t.ItemInfoSource.getItemInfoFromHoverResult (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:585325)
+	at t.ItemInfoSource.getItemInfoFromDocument (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:584551)
+	at async c.provideHover (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:588581)
+[2019-11-29 20:05:12.908] [exthost] [error] [ms-python.python] provider FAILED
+[2019-11-29 20:05:12.908] [exthost] [error] TypeError: Cannot read property 'length' of null
+	at t.ItemInfoSource.getSignature (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:586502)
+	at /home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:585350
+	at Array.forEach (<anonymous>)
+	at t.ItemInfoSource.getItemInfoFromHoverResult (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:585325)
+	at t.ItemInfoSource.getItemInfoFromDocument (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:584551)
+	at async c.provideHover (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:588581)
+[2019-11-29 20:05:13.306] [exthost] [error] [ms-python.python] provider FAILED
+[2019-11-29 20:05:13.306] [exthost] [error] TypeError: Cannot read property 'length' of null
+	at t.ItemInfoSource.getSignature (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:586502)
+	at /home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:585350
+	at Array.forEach (<anonymous>)
+	at t.ItemInfoSource.getItemInfoFromHoverResult (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:585325)
+	at t.ItemInfoSource.getItemInfoFromDocument (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:584551)
+	at async c.provideHover (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:588581)
+[2019-11-29 20:05:13.841] [exthost] [error] [ms-python.python] provider FAILED
+[2019-11-29 20:05:13.841] [exthost] [error] TypeError: Cannot read property 'length' of null
+	at t.ItemInfoSource.getSignature (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:586502)
+	at /home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:585350
+	at Array.forEach (<anonymous>)
+	at t.ItemInfoSource.getItemInfoFromHoverResult (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:585325)
+	at t.ItemInfoSource.getItemInfoFromDocument (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:584551)
+	at async c.provideHover (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:588581)
+[2019-11-29 20:05:23.034] [exthost] [error] [ms-python.python] provider FAILED
+[2019-11-29 20:05:23.034] [exthost] [error] TypeError: Cannot read property 'length' of null
+	at t.ItemInfoSource.getSignature (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:586502)
+	at /home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:585350
+	at Array.forEach (<anonymous>)
+	at t.ItemInfoSource.getItemInfoFromHoverResult (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:585325)
+	at t.ItemInfoSource.getItemInfoFromDocument (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:584551)
+	at async c.provideHover (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:588581)
+[2019-11-29 20:05:23.596] [exthost] [error] [ms-python.python] provider FAILED
+[2019-11-29 20:05:23.596] [exthost] [error] TypeError: Cannot read property 'length' of null
+	at t.ItemInfoSource.getSignature (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:586502)
+	at /home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:585350
+	at Array.forEach (<anonymous>)
+	at t.ItemInfoSource.getItemInfoFromHoverResult (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:585325)
+	at t.ItemInfoSource.getItemInfoFromDocument (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:584551)
+	at async c.provideHover (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:588581)
+[2019-11-29 20:05:24.035] [exthost] [error] [ms-python.python] provider FAILED
+[2019-11-29 20:05:24.035] [exthost] [error] TypeError: Cannot read property 'length' of null
+	at t.ItemInfoSource.getSignature (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:586502)
+	at /home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:585350
+	at Array.forEach (<anonymous>)
+	at t.ItemInfoSource.getItemInfoFromHoverResult (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:585325)
+	at t.ItemInfoSource.getItemInfoFromDocument (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:584551)
+	at async c.provideHover (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:588581)
+[2019-11-29 20:05:24.246] [exthost] [error] [ms-python.python] provider FAILED
+[2019-11-29 20:05:24.246] [exthost] [error] TypeError: Cannot read property 'length' of null
+	at t.ItemInfoSource.getSignature (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:586502)
+	at /home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:585350
+	at Array.forEach (<anonymous>)
+	at t.ItemInfoSource.getItemInfoFromHoverResult (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:585325)
+	at t.ItemInfoSource.getItemInfoFromDocument (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:584551)
+	at async c.provideHover (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:588581)
+[2019-11-30 15:10:41.186] [exthost] [error] [ms-python.python] provider FAILED
+[2019-11-30 15:10:41.188] [exthost] [error] Error: DisposableStore is missing...
+	at T._convertCompletionItem (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:569:661)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:569:291

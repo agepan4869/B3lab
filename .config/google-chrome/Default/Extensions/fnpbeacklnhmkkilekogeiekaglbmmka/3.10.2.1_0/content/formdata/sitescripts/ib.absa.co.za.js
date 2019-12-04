@@ -1,0 +1,2 @@
+(function(c){var d,e;c.waxMain=function(){var a=document.getElementById("j_username"),b=document.getElementById("j_pin");null!=a&&"undefined"!=typeof a&&(e=""!==a.value?a.value:"",a.addEventListener("change",function(b){1==b.isTrusted&&(e=a.value)},!1));null!=b&&"undefined"!=typeof b&&(d=""!==b.value?b.value:"",b.addEventListener("change",function(a){1==a.isTrusted&&(d=b.value)},!1))};c.waxFetchData=function(){var a={};a[SymWax.constants.loginType.USERNAME]=e;a[SymWax.constants.loginType.PASSWORD]=
+d;return a};c.addEventListener("load",c.waxMain)})(window);

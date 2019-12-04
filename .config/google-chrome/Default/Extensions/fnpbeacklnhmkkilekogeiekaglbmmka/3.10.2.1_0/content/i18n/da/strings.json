@@ -1,0 +1,430 @@
+{
+	"Caution":
+	{
+		"message": "Advarsel"
+	},
+
+	"Untested":
+	{
+		"message": "IKKE TESTET"
+	},
+
+	"Warning":
+	{
+		"message": "Advarsel"
+	},
+	"Norton Secured":
+	{
+		"message": "SIKKER"
+	},
+	"Not Licensed":
+	{
+		"message": "Ingen licens"
+	},
+	"Safe":
+	{
+		"message": "Sikkert"
+	},
+	"Safe Web is off":
+	{
+		"message": "SIKKERT"
+	},
+	"Page not analyzed":
+	{
+		"message": "Siden er ikke analyseret"
+	},
+	"Search the Web Safely":
+	{
+		"message": "SIKKERT"
+	},
+	"Norton Rating":
+	{
+		"message": "Nortons Vurdering"
+	},
+	"Computer Threats":
+	{
+		"message": "Computer-\ntrusler"
+	},
+	"Identity Threats":
+	{
+		"message": "Identitets-\ntrusler"
+	},
+	"Annoyance Threats":
+	{
+		"message": "Irritations-\ntrusler"
+	},
+	"Total Threats":
+	{
+		"message": "Samlet antal trusler"
+	},
+	"Full Safe Web report":
+	{
+		"message": "Komplet rapport fra Safe Web"
+	},
+	"Report this site":
+	{
+		"message": "Anmeld dette websted"
+	},
+	"Norton Safe Web":
+	{
+		"message": "Norton Safe Web"
+	},
+	"Browser Settings":
+	{
+		"message": "Browserindstillinger"
+	},
+	"Unsafe to Shop":
+	{
+		"message" : "USIKKER"
+	},
+    "total_threats_id":
+    {
+        "message" : "Trusler: "
+    },
+		"untested_text":
+		{
+			"message" : "Dette websted er ikke testet endnu"
+		},
+    "safe_status_id":
+    {
+        "message" : "SIKKERT"
+    },
+    "secure_status_id":
+    {
+        "message" : "SIKKER"
+    },
+    "caution_status_id":
+    {
+        "message" : "Advarsel"
+    },
+    "untested_status_id":
+    {
+        "message" : "IKKE TESTET"
+    },
+    "unsafe_status_id":
+    {
+        "message" : "USIKKER"
+    },
+		"full_report_id" :
+		{
+				"message" : "Komplet rapport"
+		},
+	"nortonrating_id":
+	{
+		"message" : "Nortons vurdering:"
+	},
+	"Malicious Download Detected":
+	{
+		"message" : "Der blev registreret en skadelig overf\u00f8rsel"
+	},
+	"Download Cancelled":
+	{
+		"message" : "Overf\u00f8rslen blev annulleret"
+	},
+	"Malicious Web Site Blocked":
+	{
+		"message" : "Skadeligt websted blokeret"
+	},
+	"Malicious Site Blocked!":
+	{
+		"message" : "Skadeligt websted blokeret!"
+	},
+	"You attempted to access:" :
+	{
+		"message" : "Du har fors\u00f8gt at f\u00e5 adgang til:"
+	},
+	"This is a known malicious web site. It is recommended that you do NOT visit this site. The" :
+	{
+		"message" : "Det anbefales, at du"
+	},
+	"This web page is a known malicious web page." :
+	{
+		"message" : "Denne webside er kendt for at v\u00e6re skadelig."
+	},
+	"This site is a known malicious web site." :
+	{
+		"message" : "Dette er et velkendt skadeligt websted."
+	},
+	"detailed report" :
+	{
+		"message" : "detaljerede rapport"
+	},
+	"explains the security risks on this site." :
+	{
+		"message" : "gennemg\u00e5s sikkerhedsrisiciene p\u00e5 dette websted."
+	},
+	"For your protection, this web site has been blocked. Visit" :
+	{
+		"message" : "Dette websted er blevet blokeret af hensyn til sikkerheden. G\u00e5 ind p\u00e5"
+	},
+	"Symantec" :
+	{
+		"message" : "Symantec"
+	},
+	"to learn more about phishing and internet security." :
+	{
+		"message" : "for at f\u00e5 flere oplysninger om phishing og sikkerhed p\u00e5 internettet."
+	},
+	"Exit this site" :
+	{
+		"message" : "Luk webstedet"
+	},
+	"I want to view this Web site anyway" :
+	{
+		"message" : "Jeg vil gerne bes\u00f8ge webstedet alligevel"
+	},
+	"It is recommended that you" :
+	{
+		"message" : "Det anbefales, at du"
+	},
+	"DO NOT visit this Web site." :
+	{
+		"message" : "IKKE bes\u00f8ger dette websted."
+	},
+	"Welcome to":
+	{
+		"message" : "Velkommen til "
+	},
+	"Norton"	:
+	{
+		"message" : "Norton"
+	},
+	"Thank you for choosing Norton. When a Chrome message appears at the top right of the screen, click" :
+	{
+		"message" : "Tak, fordi du valgte Norton. N\u00e5r der vises en Chrome-meddelelse \u00f8verst til h\u00f8jre p\u00e5 sk\u00e6rmen, skal du klikke p\u00e5"
+	},
+	"Keep changes" :
+	{
+		"message" : "Gem \u00e6ndringerne"
+	},
+	"to maintain your {0} protection in Chrome." :
+	{
+		"message" : "for at bevare {0}-beskyttelsen i Chrome."
+	},
+	"Norton Safe Search" :
+	{
+		"message" : "Norton Safe Search"
+	},
+	"Norton Home Page" :
+	{
+		"message" : "Startsiden til Norton"
+	},
+	"Continue" :
+	{
+		"message" : "Forts\u00e6t"
+	},
+	"Suspicious Website Blocked" : {
+		"message" : "Mist\u00e6nkeligt websted blokeret"
+	},
+	"For your protection, this web page has been blocked and submitted for review." :
+	{
+		"message" : "Denne webside er blevet blokeret og anmeldt til kontrol af hensyn til sikkerheden."
+	},
+	"It is highly recommended that you do NOT visit this page." :
+	{
+		"message" : "Det anbefales, at du IKKE g\u00e5r ind p\u00e5 siden."
+	},
+	"Visit" :
+	{
+		"message" : "G\u00e5 ind p\u00e5 den"
+	},
+	"Continue to the site" :
+	{
+		"message" : "Forts\u00e6t til webstedet"
+	},
+	"View Full Report" :
+	{
+		"message" : "Vis komplet rapport"
+	},
+	"BLOCKED BY" :
+	{
+		"message" : "BLOKERET AF"
+	},
+	"Search for a safer site" :
+	{
+		"message" : "S\u00f8g efter et sikrere websted"
+	},
+	"Fraudulent Web Page Blocked" :
+	{
+		"message" : "Bedragerisk webside blokeret"
+	},
+	"This web page is a known fraudulent web page.":
+	{
+		"message" : "Denne webside er kendt for at v\u00e6re bedragerisk."
+	},
+	"Dangerous Web Page Blocked" :
+	{
+		"message" : "Farlig webside blokeret"
+	},
+	"This is a known dangerous web page." :
+	{
+		"message" : "Dette er en kendt, farlig webside."
+	},
+	"Thank you for using {0}! Share usage and error data anonymously with Norton to help make our products even better." : {
+		"message" : "Tak, fordi du bruger {0}. Del oplysninger om brug og fejl med Norton anonymt, s\u00e5 vi fortsat kan forbedre vores produkter."
+	},
+	"OK" :
+	{
+	    "message" : "OK"
+	},
+	"No, thanks" :
+	{
+	    "message" : "Nej tak"
+	},
+	"Learn More" :
+	{
+	    "message" : "Flere oplysninger"
+	},
+	"Safe Web"	:
+	{
+			"message" : "Safe Web"
+	},
+	"Safe Search"	:
+	{
+			"message"	: "Safe Search"
+	},
+	"Home Page"	:
+	{
+			"message"	: "Startside"
+	},
+	"Settings"	:
+	{
+			"message" :	"Indstillinger"
+	},
+	"Share Data with Norton"	:
+	{
+			"message"	: "Del oplysninger med Norton"
+	},
+	"Share usage and error data anonymously with Norton and help us make our products even better"	:
+	{
+			"message"	: "Del oplysninger om forbrug og fejl anonymt med Norton, s\u00e5 vi fortsat kan forbedre vores produkter"
+	},
+	"Privacy Policy"	:
+	{
+			"message"	: "Fortrolighedspolitik"
+	},
+	"Scam Insight: Personal Information Risk" :
+	{
+		"message" : "Scam Insight: Risiko omkring personlige oplysninger"
+	},
+	"This site is safe, but…" :
+	{
+		"message" : "Webstedet er sikkert, men ..."
+	},
+	"It asks for personal information and is not well established with the Norton Community. Use caution when entering any of your information on this site. " :
+	{
+		"message" : "Den sp\u00f8rger efter personlige oplysninger og er ikke velkendt i Norton Community. V\u00e6r forsigtig med at dele dine personlige oplysninger, n\u00e5r du er p\u00e5 dette websted. "
+	},
+	"Visit " :
+	{
+		"message" : "G\u00e5 ind p\u00e5 den"
+	},
+	"Norton " :
+	{
+		"message" : "Norton"
+	},
+	"to learn more about personal information risk on Web sites." :
+	{
+		"message" : "for at l\u00e6se mere om de risici, der er forbundet med deling af personlige oplysninger p\u00e5 internettet."
+	},
+	"Age: " :
+	{
+		"message" : "Alder: "
+	},
+	"Very New" :
+	{
+		"message" : "Meget ny"
+	},
+	"This website was published very recently." :
+	{
+		"message" : "Dette websted blev lanceret for nylig."
+	},
+	"New" :
+	{
+		"message" : "Ny"
+	},
+	"This website has been available for a short time." :
+	{
+		"message" : "Dette websted har kun eksisteret i kort tid."
+	},
+	"Prevalence: " :
+	{
+		"message" : "Udbredelse: "
+	},
+	"No Users" :
+	{
+		"message" : "Ingen brugere"
+	},
+	"No Norton community members have used this site." :
+	{
+		"message" : "Ingen Norton Community-medlemmer har brugt webstedet."
+	},
+	"Few Users" :
+	{
+		"message" : "F\u00e5 brugere"
+	},
+	"Very few Norton community members have used this site." :
+	{
+		"message" : "Meget f\u00e5 Norton Community-medlemmer har brugt webstedet."
+	},
+	"Continue to Site" :
+	{
+		"message" : "Forts\u00e6t til websted"
+	},
+	"Exit Site" :
+	{
+		"message" : "Forlad websted"
+	},
+	"If you think this website is categorized incorrectly, " :
+	{
+		"message" : "Hvis du mener, at dette webstedet er kategoriseret forkert, "
+	},
+	"Report Issue." :
+	{
+		"message" : "indsend rapport."
+	},
+	"Signed in as"		:
+	{
+		"message"		: "Logget p\u00e5 som"
+	},
+	"Sign out"			:
+	{
+		"message"		: "Log af"
+	},
+	"You have successfully logged out of your Norton Account"	: {
+		"message"	:	"Du er nu logget af din Norton-konto"
+	},
+	"Sorry, something went wrong. Please try again." :	{
+		"message"	:	"Beklager, noget gik galt. Pr\u00f8v igen."
+	},
+	"Link Guard": {
+		"message": "Linkoverv\u00e5gning"
+	},
+	"Identify unsafe links in Webmail, Facebook, and Twitter": {
+		"message": "Identificer usikre links i Webmail, Facebook og Twitter"
+	},
+	"Banking Protection": {
+  		"message": "Beskyttelse ved brug af netbank"
+	},
+	"Banking Protection can help protect your sensitive online transactions.": {
+  		"message": "Beskyttelse ved brug af netbank kan hj\u00e6lpe med at beskytte dine f\u00f8lsomme onlinetransaktioner."
+	},
+	"Select your preferences below for viewing banking websites in Isolation Mode:": {
+  		"message": "V\u00e6lg dine foretrukne indstillinger nedenfor til at se bankwebsteder i isolationstilstand:"
+	},
+	"Websites": {
+  		"message": "Websteder"
+	},
+	"Isolation Mode On": {
+  		"message": "Isolationstilstand til"
+	},
+	"Isolation Mode Off": {
+  		"message": "Isolationstilstand fra"
+	},
+	"Ask Me": {
+  		"message": "Sp\u00f8rg mig"
+	},
+	"Norton Secure Search": {
+		"message": "Norton Secure Search"
+	}
+}

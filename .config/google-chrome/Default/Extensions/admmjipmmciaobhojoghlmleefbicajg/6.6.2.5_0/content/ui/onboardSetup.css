@@ -1,0 +1,145 @@
+/*
+ Symantec copyright header start
+
+ Copyright © 2019, Symantec Corporation, All rights reserved.
+
+ THIS SOFTWARE CONTAINS CONFIDENTIAL INFORMATION AND TRADE SECRETS OF SYMANTEC
+ CORPORATION.  USE, DISCLOSURE OR REPRODUCTION IS PROHIBITED WITHOUT THE PRIOR
+ EXPRESS WRITTEN PERMISSION OF SYMANTEC CORPORATION.
+
+ The Licensed Software and Documentation are deemed to be commercial computer
+ software as defined in FAR 12.212 and subject to restricted rights as defined
+ in FAR Section 52.227-19 "Commercial Computer Software - Restricted Rights"
+ and DFARS 227.7202, “Rights in Commercial Computer Software or Commercial
+ Computer Software Documentation”, as applicable, and any successor regulations.
+ Any use, modification, reproduction release, performance, display or disclosure
+ of the Licensed Software and Documentation by the U.S. Government shall be
+ solely in accordance with the terms of this Agreement.
+
+ Symantec copyright header stop
+
+*/
+
+/* Font for Nudge Screen */
+@font-face {
+    font-family: "SourceSansPro";
+    src: url(../fonts/SourceSansPro-Regular.ttf) format("truetype");
+  }
+  @font-face {
+      font-family: "SourceSansPro-SemiBold";
+      src: url(../fonts/SourceSansPro-SemiBold.ttf) format("truetype");
+  }
+
+.body {
+    padding-left: 150px;
+}
+#container { 
+    overflow: hidden;
+}
+.lp-get-started {
+    background-color:#f4f4f4;
+    display: flex;
+    padding-top: 60px;
+    min-height: 768px;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    transition: opacity .2s;
+    box-sizing: border-box;
+    opacity: 1 !important;
+}
+.lp-get-started-norton { 
+    max-width: 400px;
+    height: auto;
+    font-size: 22px;
+    letter-spacing: -1.1px;
+    margin: auto;
+    padding-top:5px;
+}
+.lp-get-started-createVault {
+    max-width: 400px;
+    height: auto;
+    font-size: 17px;
+    letter-spacing: -0.85px;
+    margin: auto;
+    color: #888888;
+    padding-top:25px;
+    margin-bottom: 40px;
+}
+.lp-get-started-done {
+    max-width: 720px;
+    height: auto;
+    font-size: 50px;
+    font-weight: 600;
+    letter-spacing: -2.5px;
+    color: #485767;
+    margin: auto;
+    padding-top: 200px;
+}
+.lp-get-started_steps span {
+    max-width: 100px;
+    position: absolute;
+    bottom: -26px;
+    height: 20px;
+    font-size: 16px;
+    letter-spacing: -0.8px;
+}
+.lp-get-started_steps span:first-child {
+    left: -25px;
+}
+.lp-get-started_steps span:nth-child(2) {
+    right: 5px;
+}
+.lp-get-started_steps-img {
+    height: 40px;
+    width: 230px;
+    background-image: url(../images/nudge-status.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+    object-fit: contain;
+}
+.lp-get-started_steps {
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+    padding-top: 10px;
+    width: 230px;
+}
+.lp-get-started_inner{
+    background-image: url(../images/nudge.png); 
+    background-repeat: no-repeat;
+    object-fit: contain;
+    width: 870px;
+    position: relative;
+    font-family: SourceSansPro;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    text-align: center;
+    color: #666666;
+    z-index: 0;
+}
+body[dir="rtl"] .lp-get-started_inner {
+    background-image: url(../images/nudge-rtl.png); 
+    background-repeat: no-repeat;
+    object-fit: contain;
+}
+body[dir="rtl"] .lp-get-started_steps-img {
+    background-image: url(../images/nudge-status-rtl.png); 
+    background-repeat: no-repeat;
+    object-fit: contain;
+}
+body[dir="rtl"] .lp-get-started_steps span:nth-child(2) {
+    left: -17px;
+    right: unset;
+}
+body[dir="rtl"] .lp-get-started_steps span:first-child {
+    right: -25px;
+    left: unset;
+}

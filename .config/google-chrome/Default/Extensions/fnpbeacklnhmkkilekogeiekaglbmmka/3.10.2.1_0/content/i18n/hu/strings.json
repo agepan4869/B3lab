@@ -1,0 +1,430 @@
+{
+	"Caution":
+	{
+		"message": "Figyelem"
+	},
+
+	"Untested":
+	{
+		"message": "NEM ELLEN\u0150RZ\u00d6TT"
+	},
+
+	"Warning":
+	{
+		"message": "Figyelmeztet\u00e9s"
+	},
+	"Norton Secured":
+	{
+		"message": "BIZTONS\u00c1GOS"
+	},
+	"Not Licensed":
+	{
+		"message": "Nincs enged\u00e9lye"
+	},
+	"Safe":
+	{
+		"message": "BIZTONS\u00c1GOS"
+	},
+	"Safe Web is off":
+	{
+		"message": "BIZTONS\u00c1GOS"
+	},
+	"Page not analyzed":
+	{
+		"message": "Az oldal nincs ki\u00e9rt\u00e9kelve"
+	},
+	"Search the Web Safely":
+	{
+		"message": "BIZTONS\u00c1GOS"
+	},
+	"Norton Rating":
+	{
+		"message": "Norton-besorol\u00e1s"
+	},
+	"Computer Threats":
+	{
+		"message": "Sz\u00e1m\u00edt\u00f3g\u00e9p-fenyeget\u00e9sek"
+	},
+	"Identity Threats":
+	{
+		"message": "Szem\u00e9lyazon.-\nkock\u00e1zatok"
+	},
+	"Annoyance Threats":
+	{
+		"message": "Zavar\u00f3 fenyeget\u00e9sek"
+	},
+	"Total Threats":
+	{
+		"message": "\u00d6sszesen"
+	},
+	"Full Safe Web report":
+	{
+		"message": "Teljes Safe Web-jelent\u00e9s"
+	},
+	"Report this site":
+	{
+		"message": "Webhely jelent\u00e9se"
+	},
+	"Norton Safe Web":
+	{
+		"message": "Norton Safe Web"
+	},
+	"Browser Settings":
+	{
+		"message": "B\u00f6ng\u00e9sz\u0151be\u00e1ll\u00edt\u00e1sok"
+	},
+	"Unsafe to Shop":
+	{
+		"message" : "NEM BIZTONS\u00c1GOS"
+	},
+    "total_threats_id":
+    {
+        "message" : "Fenyeget\u00e9sek: "
+    },
+		"untested_text":
+		{
+			"message" : "Ezt a webhelyet m\u00e9g nem tesztelt\u00e9k"
+		},
+    "safe_status_id":
+    {
+        "message" : "BIZTONS\u00c1GOS"
+    },
+    "secure_status_id":
+    {
+        "message" : "BIZTONS\u00c1GOS"
+    },
+    "caution_status_id":
+    {
+        "message" : "Figyelem"
+    },
+    "untested_status_id":
+    {
+        "message" : "NEM ELLEN\u0150RZ\u00d6TT"
+    },
+    "unsafe_status_id":
+    {
+        "message" : "NEM BIZTONS\u00c1GOS"
+    },
+		"full_report_id" :
+		{
+				"message" : "Teljes jelent\u00e9s"
+		},
+	"nortonrating_id":
+	{
+		"message" : "Norton-besorol\u00e1s:"
+	},
+	"Malicious Download Detected":
+	{
+		"message" : "K\u00e1rt\u00e9kony let\u00f6lt\u00e9sek \u00e9szlelve"
+	},
+	"Download Cancelled":
+	{
+		"message" : "Let\u00f6lt\u00e9s megszak\u00edtva"
+	},
+	"Malicious Web Site Blocked":
+	{
+		"message" : "K\u00e1rt\u00e9kony webhely letiltva"
+	},
+	"Malicious Site Blocked!":
+	{
+		"message" : "Rosszindulat\u00fa webhely letiltva!"
+	},
+	"You attempted to access:" :
+	{
+		"message" : "Ezt pr\u00f3b\u00e1lta el\u00e9rni:"
+	},
+	"This is a known malicious web site. It is recommended that you do NOT visit this site. The" :
+	{
+		"message" : "NEM aj\u00e1nlott"
+	},
+	"This web page is a known malicious web page." :
+	{
+		"message" : "Ez egy k\u00f6ztudottan rosszindulat\u00fa weboldal."
+	},
+	"This site is a known malicious web site." :
+	{
+		"message" : "Ez a webhely ismerten k\u00e1rt\u00e9kony webhely."
+	},
+	"detailed report" :
+	{
+		"message" : "r\u00e9szletes jelent\u00e9s"
+	},
+	"explains the security risks on this site." :
+	{
+		"message" : "bemutatja a webhely biztons\u00e1gi kock\u00e1zatait."
+	},
+	"For your protection, this web site has been blocked. Visit" :
+	{
+		"message" : "A webhely az \u00d6n v\u00e9delme \u00e9rdek\u00e9ben letilt\u00e1sra ker\u00fclt. L\u00e1togasson el a"
+	},
+	"Symantec" :
+	{
+		"message" : "Symantec"
+	},
+	"to learn more about phishing and internet security." :
+	{
+		"message" : "webhely\u00e9re az adathal\u00e1szatr\u00f3l \u00e9s a biztons\u00e1gos internetez\u00e9sr\u0151l sz\u00f3l\u00f3 tudnival\u00f3k\u00e9rt."
+	},
+	"Exit this site" :
+	{
+		"message" : "Kil\u00e9p\u00e9s a webhelyr\u0151l"
+	},
+	"I want to view this Web site anyway" :
+	{
+		"message" : "Szeretn\u00e9m megtekinteni ezt a webhelyet"
+	},
+	"It is recommended that you" :
+	{
+		"message" : "NEM aj\u00e1nlott"
+	},
+	"DO NOT visit this Web site." :
+	{
+		"message" : "felkeresni ezt a webhelyet."
+	},
+	"Welcome to":
+	{
+		"message" : "\u00dcdv\u00f6zli a(z) "
+	},
+	"Norton"	:
+	{
+		"message" : "Norton"
+	},
+	"Thank you for choosing Norton. When a Chrome message appears at the top right of the screen, click" :
+	{
+		"message" : "K\u00f6sz\u00f6nj\u00fck, hogy a Norton programot v\u00e1lasztotta. Ha a k\u00e9perny\u0151 jobb fels\u0151 sark\u00e1ban megjelenik a Chrome \u00fczenete, kattintson a"
+	},
+	"Keep changes" :
+	{
+		"message" : "Menti a m\u00f3dos\u00edt\u00e1sokat lehet\u0151s\u00e9gre,"
+	},
+	"to maintain your {0} protection in Chrome." :
+	{
+		"message" : "hogy a(z) {0} \u00e1ltal ny\u00fajtott v\u00e9delmet megtartsa a Chrome b\u00f6ng\u00e9sz\u0151ben."
+	},
+	"Norton Safe Search" :
+	{
+		"message" : "Norton Safe Search"
+	},
+	"Norton Home Page" :
+	{
+		"message" : "Norton kezd\u0151lap"
+	},
+	"Continue" :
+	{
+		"message" : "Folytat\u00e1s"
+	},
+	"Suspicious Website Blocked" : {
+		"message" : "Gyan\u00fas webhely letiltva"
+	},
+	"For your protection, this web page has been blocked and submitted for review." :
+	{
+		"message" : "V\u00e9delme \u00e9rdek\u00e9ben a weboldalt letiltottuk, \u00e9s elk\u00fcldt\u00fck fel\u00fclvizsg\u00e1latra."
+	},
+	"It is highly recommended that you do NOT visit this page." :
+	{
+		"message" : "Ezt az oldalt egy\u00e1ltal\u00e1n NEM aj\u00e1nlott felkeresni."
+	},
+	"Visit" :
+	{
+		"message" : "L\u00e1togasson el a"
+	},
+	"Continue to the site" :
+	{
+		"message" : "Tov\u00e1bb a webhelyre"
+	},
+	"View Full Report" :
+	{
+		"message" : "Teljes jelent\u00e9s megtekint\u00e9se"
+	},
+	"BLOCKED BY" :
+	{
+		"message" : "BLOKKOLTA:"
+	},
+	"Search for a safer site" :
+	{
+		"message" : "Biztons\u00e1gosabb webhely keres\u00e9se"
+	},
+	"Fraudulent Web Page Blocked" :
+	{
+		"message" : "Csal\u00e1ssal fenyeget\u0151 weboldal letiltva"
+	},
+	"This web page is a known fraudulent web page.":
+	{
+		"message" : "Ez egy k\u00f6ztudottan csal\u00e1ssal fenyeget\u0151 weboldal."
+	},
+	"Dangerous Web Page Blocked" :
+	{
+		"message" : "Vesz\u00e9lyes weboldal letiltva"
+	},
+	"This is a known dangerous web page." :
+	{
+		"message" : "Ez egy k\u00f6ztudottan vesz\u00e9lyes weboldal."
+	},
+	"Thank you for using {0}! Share usage and error data anonymously with Norton to help make our products even better." : {
+		"message" : "K\u00f6sz\u00f6nj\u00fck, hogy a(z) {0} term\u00e9ket haszn\u00e1lja. Ossza meg a haszn\u00e1lati \u00e9s a hibaadatokat a Nortonnal, \u00e9s seg\u00edtse term\u00e9keink fejleszt\u00e9s\u00e9t."
+	},
+	"OK" :
+	{
+	    "message" : "OK"
+	},
+	"No, thanks" :
+	{
+	    "message" : "Nem, k\u00f6sz\u00f6n\u00f6m"
+	},
+	"Learn More" :
+	{
+	    "message" : "Tov\u00e1bbi r\u00e9szletek"
+	},
+	"Safe Web"	:
+	{
+			"message" : "Biztons\u00e1gos web"
+	},
+	"Safe Search"	:
+	{
+			"message"	: "Safe Search"
+	},
+	"Home Page"	:
+	{
+			"message"	: "Kezd\u0151lap"
+	},
+	"Settings"	:
+	{
+			"message" :	"Be\u00e1ll\u00edt\u00e1sok"
+	},
+	"Share Data with Norton"	:
+	{
+			"message"	: "Az adatok megoszt\u00e1sa a Nortonnal"
+	},
+	"Share usage and error data anonymously with Norton and help us make our products even better"	:
+	{
+			"message"	: "Ossza meg a haszn\u00e1lati \u00e9s a hibaadatokat a Nortonnal, \u00e9s seg\u00edtse term\u00e9keink fejleszt\u00e9s\u00e9t"
+	},
+	"Privacy Policy"	:
+	{
+			"message"	: "Adatv\u00e9delmi szab\u00e1lyzat"
+	},
+	"Scam Insight: Personal Information Risk" :
+	{
+		"message" : "Vissza\u00e9l\u00e9s Insight: Szem\u00e9lyes adatokkal kapcsolatos kock\u00e1zat"
+	},
+	"This site is safe, but…" :
+	{
+		"message" : "Ez az oldal biztons\u00e1gos, de\u2026"
+	},
+	"It asks for personal information and is not well established with the Norton Community. Use caution when entering any of your information on this site. " :
+	{
+		"message" : "Szem\u00e9lyes adatokat k\u00e9r, \u00e9s nincs megnyugtat\u00f3 elfogadotts\u00e1ga a Norton Community \u00e1ltal. B\u00e1rmilyen adatot kell\u0151 \u00f3vatoss\u00e1ggal adjon meg ezen a webhelyen. "
+	},
+	"Visit " :
+	{
+		"message" : "L\u00e1togasson el a"
+	},
+	"Norton " :
+	{
+		"message" : "Norton"
+	},
+	"to learn more about personal information risk on Web sites." :
+	{
+		"message" : "ha t\u00f6bbet szeretne megtudni az egyes webhelyeken a szem\u00e9lyes adatokat \u00e9rint\u0151 kock\u00e1zatokr\u00f3l."
+	},
+	"Age: " :
+	{
+		"message" : "\u00c9letkor: "
+	},
+	"Very New" :
+	{
+		"message" : "Nagyon \u00faj"
+	},
+	"This website was published very recently." :
+	{
+		"message" : "Ezt a webhelyet nemr\u00e9g tett\u00e9k k\u00f6zz\u00e9."
+	},
+	"New" :
+	{
+		"message" : "\u00daj"
+	},
+	"This website has been available for a short time." :
+	{
+		"message" : "Ez a webhely csak r\u00f6vid ideje \u00e9rhet\u0151 el."
+	},
+	"Prevalence: " :
+	{
+		"message" : "Elterjedts\u00e9g: "
+	},
+	"No Users" :
+	{
+		"message" : "Nincs felhaszn\u00e1l\u00f3"
+	},
+	"No Norton community members have used this site." :
+	{
+		"message" : "Ezt a webhelyet m\u00e9g nem haszn\u00e1lta Norton Community-tag."
+	},
+	"Few Users" :
+	{
+		"message" : "Kev\u00e9s felhaszn\u00e1l\u00f3"
+	},
+	"Very few Norton community members have used this site." :
+	{
+		"message" : "Ezt a webhelyet csak n\u00e9h\u00e1ny Norton Community-tag haszn\u00e1lta."
+	},
+	"Continue to Site" :
+	{
+		"message" : "Tov\u00e1bb a webhelyre"
+	},
+	"Exit Site" :
+	{
+		"message" : "Kil\u00e9p\u00e9s a webhelyr\u0151l"
+	},
+	"If you think this website is categorized incorrectly, " :
+	{
+		"message" : "Ha \u00fagy gondolja, hogy ez a webhely helytelen\u00fcl van kategoriz\u00e1lva, "
+	},
+	"Report Issue." :
+	{
+		"message" : "Jelentse a probl\u00e9m\u00e1t."
+	},
+	"Signed in as"		:
+	{
+		"message"		: "Bejelentkezve, mint"
+	},
+	"Sign out"			:
+	{
+		"message"		: "Kijelentkez\u00e9s"
+	},
+	"You have successfully logged out of your Norton Account"	: {
+		"message"	:	"Sikeresen kijelentkezett a Norton-fi\u00f3kb\u00f3l"
+	},
+	"Sorry, something went wrong. Please try again." :	{
+		"message"	:	"Hiba t\u00f6rt\u00e9nt. Pr\u00f3b\u00e1lja \u00fajra."
+	},
+	"Link Guard": {
+		"message": "Hivatkoz\u00e1sv\u00e9delem "
+	},
+	"Identify unsafe links in Webmail, Facebook, and Twitter": {
+		"message": "Nem biztons\u00e1gos hivatkoz\u00e1sok azonos\u00edt\u00e1sa Webmail-ben, Facebookon \u00e9s Twitteren"
+	},
+	"Banking Protection": {
+  		"message": "A Banki v\u00e9delem"
+	},
+	"Banking Protection can help protect your sensitive online transactions.": {
+  		"message": "A banki v\u00e9delem seg\u00edts\u00e9g\u00e9vel meg\u00f3vhatja bizalmas jelleg\u0171 online tranzakci\u00f3it."
+	},
+	"Select your preferences below for viewing banking websites in Isolation Mode:": {
+  		"message": "V\u00e1lassza ki al\u00e1bb a be\u00e1ll\u00edt\u00e1sokat a banki webhelyek elk\u00fcl\u00f6n\u00edt\u00e9si m\u00f3dban t\u00f6rt\u00e9n\u0151 megtekint\u00e9s\u00e9hez:"
+	},
+	"Websites": {
+  		"message": "Webhelyek"
+	},
+	"Isolation Mode On": {
+  		"message": "Elk\u00fcl\u00f6n\u00edt\u00e9si m\u00f3d bekapcsolva"
+	},
+	"Isolation Mode Off": {
+  		"message": "Elk\u00fcl\u00f6n\u00edt\u00e9si m\u00f3d kikapcsolva"
+	},
+	"Ask Me": {
+  		"message": "K\u00e9rdezze meg"
+	},
+	"Norton Secure Search": {
+		"message": "Norton Secure Search"
+	}
+}

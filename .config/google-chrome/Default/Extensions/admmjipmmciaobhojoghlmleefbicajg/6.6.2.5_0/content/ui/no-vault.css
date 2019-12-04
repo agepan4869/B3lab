@@ -1,0 +1,66 @@
+/*
+ Symantec copyright header start
+
+ Copyright © 2016, Symantec Corporation, All rights reserved.
+
+ THIS SOFTWARE CONTAINS CONFIDENTIAL INFORMATION AND TRADE SECRETS OF SYMANTEC
+ CORPORATION.  USE, DISCLOSURE OR REPRODUCTION IS PROHIBITED WITHOUT THE PRIOR
+ EXPRESS WRITTEN PERMISSION OF SYMANTEC CORPORATION.
+
+ The Licensed Software and Documentation are deemed to be commercial computer
+ software as defined in FAR 12.212 and subject to restricted rights as defined
+ in FAR Section 52.227-19 "Commercial Computer Software - Restricted Rights"
+ and DFARS 227.7202, “Rights in Commercial Computer Software or Commercial
+ Computer Software Documentation”, as applicable, and any successor regulations.
+ Any use, modification, reproduction release, performance, display or disclosure
+ of the Licensed Software and Documentation by the U.S. Government shall be
+ solely in accordance with the terms of this Agreement.
+
+ Symantec copyright header stop
+
+*/
+
+.create-vault {
+  min-width: 149px;
+  height: 44px;
+  background-color: #ffe283;
+  font-family: "Helvetica Neue", "Segoe UI", "HelveticaNeue", Helvetica, "Lucida Sans Unicode", Arial, Sans-serif;
+  font-size: 14px;
+  cursor: pointer;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #333333;
+  border: none;
+  padding-bottom: 14px;
+}
+
+.create-vault-block {
+  height: 90px;
+  padding-top: 10px;
+}
+
+.create-vault-img {
+  background-image: url();
+}
+
+.vault-unlock-img {
+  background-image: url(../images/ic-logo-unsure.svg);
+  background-size:  100px 100px;
+  height: 320px;
+}
+
+.content-description {
+  font-size:14px;
+  padding-bottom:15px;
+  color:#333333;
+  height:19px;
+}
+
+.content-header {
+  padding-top: 202px;
+  padding-bottom:10px;
+}

@@ -1,0 +1,152 @@
+{
+   "checksum": "eab18737b7c1caf987237ce596817c49",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13140154042106385",
+            "guid": "25b005d4-5a5c-4385-bafe-8722c6f07336",
+            "id": "8",
+            "meta_info": {
+               "last_visited": "13202374557088450",
+               "last_visited_desktop": "13202966779547693"
+            },
+            "name": "国立大学法人　室蘭工業大学",
+            "type": "url",
+            "url": "https://www.muroran-it.ac.jp/"
+         }, {
+            "date_added": "13171336059624378",
+            "guid": "4f17a4a7-c658-4c6d-8208-73ad4125de25",
+            "id": "9",
+            "meta_info": {
+               "last_visited": "13204312276006712",
+               "last_visited_desktop": "13205551814602657"
+            },
+            "name": "Muroran Institute of Technology E-Learning: サイトにログインする",
+            "type": "url",
+            "url": "https://moodle2017.mmm.muroran-it.ac.jp/login/index.php"
+         }, {
+            "date_added": "13171336035978705",
+            "guid": "b702b99f-aa6f-42d8-bef8-b5d51d0685e6",
+            "id": "10",
+            "meta_info": {
+               "last_visited_desktop": "13176435298234799"
+            },
+            "name": "CampusSquare for WEB [CampusSquare]",
+            "type": "url",
+            "url": "https://gakumu.muroran-it.ac.jp/campusweb/campusportal.do;jsessionid=A5803BE9AE07CC631C0E7B9C6FB4F7EF"
+         }, {
+            "date_added": "13215860910019031",
+            "guid": "5856f77a-f90e-4376-a0b6-2dfa47c6d13e",
+            "id": "11",
+            "name": "Leading #1 Advanced eMail Solution - DEEPMail",
+            "type": "url",
+            "url": "https://webmail.muroran-it.ac.jp/cgi-bin/htmlparse.cgi?html=frame.html"
+         }, {
+            "date_added": "13215846223362250",
+            "guid": "a4c26d86-20fa-458e-b22c-1e3ddf342df2",
+            "id": "12",
+            "name": "B32019 · GitLab",
+            "type": "url",
+            "url": "https://git.shioyalab.com/b32019"
+         }, {
+            "date_added": "13122727103590579",
+            "guid": "9658cefc-9742-4552-bc5a-8ca1ed7ac802",
+            "id": "13",
+            "meta_info": {
+               "last_visited": "13200245929494255",
+               "last_visited_desktop": "13171335868328777"
+            },
+            "name": "ばっさーんち。 -本田翼オフィシャルブログ-",
+            "type": "url",
+            "url": "http://star-studio.jp/tsubasa/"
+         }, {
+            "date_added": "13138758264062567",
+            "guid": "e0b3e646-223e-4216-b425-e6552a3815d8",
+            "id": "14",
+            "meta_info": {
+               "last_visited": "13169316010365786"
+            },
+            "name": "成美堂",
+            "type": "url",
+            "url": "https://www.linguaporta.jp/user/seibido/"
+         }, {
+            "date_added": "13216780637680881",
+            "guid": "f47036a2-5813-465c-bf9e-1c4a57544e0c",
+            "id": "15",
+            "name": "WeBWorK",
+            "type": "url",
+            "url": "https://webwork.sci.hokudai.ac.jp/webwork2/2019_MuIT_AppMath_M12_M-Kato/Pro1/7/?effectiveUser=17024178&user=17024178&key=LzZm1QAtzjS5HlONAgZ42Cv5197Ge0RQ"
+         }, {
+            "date_added": "13217760758520039",
+            "guid": "091ce896-884b-4ffa-9acd-4528d0a2ad96",
+            "id": "16",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13218507065246735",
+            "guid": "a477b149-bcc3-4f55-9a52-5668137165ea",
+            "id": "18",
+            "name": "Hokudai Mathematics WeBWorK",
+            "type": "url",
+            "url": "http://www.math.sci.hokudai.ac.jp/~ww/"
+         } ],
+         "date_added": "13218176711839307",
+         "date_modified": "13218507065246735",
+         "guid": "00000000-0000-4000-A000-000000000002",
+         "id": "1",
+         "name": "ブックマーク バー",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13150948358561093",
+            "guid": "8282a82d-3138-47d8-932e-26cbfb47a46c",
+            "id": "5",
+            "meta_info": {
+               "last_visited_desktop": "13151850619819034"
+            },
+            "name": "初心者でも楽しく学べるプログラミング入門サービス | paizaラーニング",
+            "type": "url",
+            "url": "https://paiza.jp/works"
+         }, {
+            "date_added": "13155654538637748",
+            "guid": "69193d68-4230-4927-ac54-1f08f542a39f",
+            "id": "6",
+            "meta_info": {
+               "last_visited_desktop": "13204962663714336"
+            },
+            "name": "Codeshare - Share code in real-time in your browser",
+            "type": "url",
+            "url": "https://codeshare.io/"
+         }, {
+            "date_added": "13167212655331116",
+            "guid": "86f6925b-115b-4b28-91cd-6c7fca5e4e79",
+            "id": "7",
+            "meta_info": {
+               "last_visited_desktop": "13167213783136598"
+            },
+            "name": "java API manual",
+            "type": "url",
+            "url": "https://docs.oracle.com/javase/jp/7/api/"
+         } ],
+         "date_added": "13218176711839312",
+         "date_modified": "13167212655331116",
+         "guid": "00000000-0000-4000-A000-000000000003",
+         "id": "2",
+         "name": "その他のブックマーク",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13218176711839313",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000004",
+         "id": "3",
+         "name": "モバイルのブックマーク",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CtEBCrABCIiBAhKpARJ2CAISOAoGCgJibRABEDMaEgmAB8Fc2pgFACGAB8Fc2pgFADIYChYIAhFJrhhs2pgFABgAIQAAAAAAAAAAEjgKBgoCYmQQABAzGhIJgAfBXNqYBQAhgAfBXNqYBQAyGAoWCAIRw3wZbNqYBQAYACEAAAAAAAAAACAAMh93enZSaWQ4SGlyVVljSHJidUxEVmt2b0x1MjN4N0JZSJGq3/vsLXCRqt/77C0SACABKhgvS3QySWpTMGEwZWthMGRWRmx0akZBPT0SxgEIAxLBARJmWjpBRHF0QVp3eTZqdmJ0RFdxUllFeVU0QjV1THdhVmQveElzRWkxS3ovL2Y2SUVwTnN0SXhzcGdva1hwNlYrMnJoenlVWHRnd3MyaGkyYWJnNW1SeE1Fd0RNQUMvRVZ3cFZ4Zz09GAAgACgAMKL+9o7l6OUCOABAAEocNzlsK0xSRVVwaWFFdkREK0c0M2NwWFN0d0JjPVomIiSAAAAAAAAAAE+lxLxJndPpwq+XsqaNtijE5H0n917QqN06cH8S3QEIDRLYARJ6WjpBRHF0QVp4RE1vWlFoWlhkcGhxa1B0WmpybVF1Qk9LSGdKM0YrYXNuZkk3M1BmVjE5d0dERytVcmhwMW5JL0tjUXRaUVhheS93bEZ4RXNhYWFBR3BJS2pFVVlMRHhWb2JXWTV1MXRXNk00cG5JRVFTRzI3TjMxRT0YACAAKAAw09LFre3k4QI4rcGZx4kpQK3BmceJKUocQUlyWDFBczMvSDBiWFBtbFZZR1FhcDN5TndFPVofIh3AelhtSmFKS3NzMEEveUNYQVZqSFdKTWpGd2N3PRKJAggJEoQCEqYBWjpBRHF0QVp4UlNzbHF3VGs4Tjloam5udkRqSmtOMlRVbEZySU51a0ZRQ3BRczArSzA4ZDdmUk44cXpLaXB0ekhla0RXWWh5ZGl4WkpvYXZTdGQwYWhsY01wQUs2aEtuZ2NwRzdwcjlhTkQ4enJoTWhyaDJ0UFlQMlIyOC9aUFVIWFpTU1Q0ZElYZVJrK2dOb05qY3pXLzZOOUZKZ0NUcjB0MGc9PRgAIAIoAjCdjPqQ5ejlAjjo5eCAuCxA0bSSwOYtShxiaDIrcVZKTTBxcjU0OVFLTExIMXViNEhaSVU9Wh4iHHQrN3N4Q3BDUFZDWk1xYkJkNEQ1eHlOTFg2ND0SigIIChKFAhKmAVo6QURxdEFaeFJTc2xxd1RrOE45aGpubnZEakprTjJUVWxGcklOdWtGUUNwUXMwK0swOGU5Mkc5ZXlQcUFteDZUS2dIcFZHaXhwN050aDdCenFXL2laenFmeUlXRWZuWStFNm5UUG16Qm9PdjdtWkdqcGE4WHQwblVnWlIwUExERnkyWjZKN2gyTlQveWhpK0JRWDRXbFppbCtsYUQ2NGJINWd3PT0YACACKAIwnYz6kOXo5QI4iq3fgLgsQNK0ksDmLUocVEFoWWdKV0FxbXJpbUJ5aFpJZTljWi8weklVPVofIh2GSTVNV3lwMmprckx4RlVqRkZ0QkZrNEZ3OW5zPRKKAggOEoUCEqYBWjpBRHF0QVp4UlNzbHF3VGs4Tjloam5udkRqSmtOT0JvRnBZR0pMU0JLbFZGSVFrTE1SQnpVcEhqSW9ad3NrTTZHWjdRaUkwYUxLYzdNbzZZNXNrcTgraERCR2NNUWQ5UWpnREhHV2FJTlRQMWE4dmY4UmoydnJsODMrN050NmsrOEpmNWJSZE1YLzVuQWIwc0V0eG0yY1I1VDJNZFNrT3ROcUE9PRgAIAAoADC6nf7S4NraAjiN+rnSvitAjfq50r4rShxOVEVKa25KNlF4dEhLamt4ZUFkYmRxenBmVW89Wh8iHeBFWUpmbkJjNmlrcytJTEdRRUdhU2phN0NhYjQ9EokCCAgShAISpgFaOkFEcXRBWnhSU3NscXdUazhOOWhqbm52RGpKa05PQm9GcFlHSkxTQktsVkZJUWtMTVJIYW1qcFZNcjdYRkE4MFlvbVZmNFNyLzZ6Sit1Ykh5K3VTdHovMVJ1SytOVk9EL1V4Ujk4dXozKzh1V1FVSjBadStMd3BBWEtsUkc0Y2UrK0xwanB4L0hyWHQ1cHJ1bldWNFJ3K1M0TnZMcnpKVFkvUT09GAAgAigCMJ2M+pDl6OUCOP+9gezDK0DQtJLA5i1KHGg5enRlQ1dlZ05WMzN0UnBBaE5RV3NHc3hzbz1aHiIcLzhVbWtDMDNuanVoaFNDbERGYkhXdm9vT3U0PRKKAggLEoUCEqYBWjpBRHF0QVp4UlNzbHF3VGs4Tjloam5udkRqSmtOVUhQVHRsalp3Qk5WSjlzNGVKSWRNVGhvL0hXK2VhQXA0L1hpK3ZTSVdjcUJwSDFxOXdkMkZhNGVNbDVsOU1zdTNqYVhyNkxHOVZRREcvSXNBakJYQmtWUGpUTUF0VTdrMEU4b09YeHVXZ0YrMXgyblJIQmlneE9vamI5c25IK1BSZFlVb0E9PRgAIAIoAjCdjPqQ5ejlAjjD/+3v3S1A0rSSwOYtShw2OEJwNFM3alcyNENuVkw4UVdwK3pqMjRzQkE9Wh8iHZQvZjlUR3RhZ3dianFjc25CY2l5aGc0ZGoxdk09EooCCAcShQISpgFaOkFEcXRBWnhSU3NscXdUazhOOWhqbm52RGpKa05VSFBUdGxqWndCTlZKOXM0ZUpJZE1VVkljTUZycTNZRHlhY0NoMGoxUnVhTjQ1dDNpRDhFUENuakwrendnZVcvS3VwQjlkVDdTem9zWDhzOEx6TEcyZ2sybDVIQjJKSU5zbEU4UjhTTXdjaHVKdkZLdUd6M210Q25xdHEyQ0FrQVJnWjRZdz09GAAgACgAMIWdv5ql19oCOLPW4YSwLECz1uGEsCxKHHdjYzRXRUQvMzNKQ0sxSGJDUHh6VjF3bFlhND1aHyIdqzJFQWladEtJWmlxTjk5c09QUHljYU9nRWVmdz0SiQIIBhKEAhKmAVo6QURxdEFaeFJTc2xxd1RrOE45aGpubnZEakprTlVIUFR0bGpad0JOVko5czRlSklkTVZPdkIyVDRNMXFkUEtpR3VOd1VxQ3dtT0l3TFRPRmh5RFI5UTVINWtXN3hPMjZkT295Wjkvc01SRVBmN2RWcjQwdjAreUQvbytjQnR3bXZoR0x2N0FGWEhsQVZOTjhqVmZ2OWEwbERDNUVKa0hlTDJ3PT0YACAAKAAwtKq34pro4gI4s9bhhLAsQLPW4YSwLEocVGl1bWhCdGVMOUV4Q0U4RU80Yk9KMW9QaVdzPVoeIhxXSjcrSFlNMkJJZUZZUU81bDN3ZGk2bTlSWlE9EokCCAUShAISpgFaOkFEcXRBWnhSU3NscXdUazhOOWhqbm52RGpKa05VSFBUdGxqWndCTlZKOXM0ZUpJZE1aZmw3SjlOcTNvZ0xmdmQ3Nk9kZEhnaWZ1ZVkyUm43VFovQ2YxeTZrQ3pEYktzMVY3LzdSSzBwVGdNZ2lYQjdHUXBJdFB6L3ZxWlgwZ0MzQWVJbkJZRXBzdUMrck80dzhQbkxhVWhYRFRQdUIvNWtBdz09GAAgACgAMIWdv5ql19oCOLPW4YSwLECz1uGEsCxKHDBhNHNhZWdrR1JLcU1BcXVwN25EK0d4MjB3Yz1aHiIcTGhNL2ozUXBEcU5uN2lXNk1Ma3k0RkVWZlJBPRKKAggMEoUCEqYBWjpBRHF0QVp4UlNzbHF3VGs4Tjloam5udkRqSmtOVUhQVHRsalp3Qk5WSjlzNGVKSWRNY0NKSWhtMSt3cnJUU2dIazd6ZmY4cDVRajM4TXppUFZMbDcwVlhuc3JjMEdrYWJKVnZnUDI5STJrbzM4KytoKzEyZ1UzNUd6ZUxWRW1lM0lUaStBL1l3eUxibS9YOFpiTVVNa2laWllnUVNuTHVHcEE9PRgAIAAoADDxhsOn2tzlAjiCzO3o3S1Agszt6N0tShxONHRPR0pLam9JQnp4SjYxMXpjWG42c3psaWc9Wh8iHaNENEF2RXUwdkJMR3JzYVFqZjlPeHJ1S05CT0k9EosCCA8ShgISpgFaOkFEcXRBWnhSU3NscXdUazhOOWhqbm52RGpKa05hTDJBeEtyR3VyYkNmeFZKWEduOXFFeGVnaHhXT1JmR0tGR01vRnd5b1gyMFV3NVVHZWpKbE5IY2JsNmRRNGFWMU4zdmpRcUc4bDhIS1lIcXlGSzljbTFwL3FhV1h6OFcvczlyeUlsM0g0ZTNUbHRuNkM2QzlaLzBvVms2VGQ4UDVhczRhZz09GAAgACgAMJX/w+PX3OUCOPPbtabhLUDz27Wm4S1KHFF2dm02d3krd1YrV2VibkQxL3ZFc0FaZUplcz1aICIe//1TOTdKM3JtcU9YVDZrR2VBV3RFdDRJdC91UUU9EosCCBIShgISpgFaOkFEcXRBWnhSU3NscXdUazhOOWhqbm52RGpKa05hTDJBeEtyR3VyYkNmeFZKWEduOXFHZEV2UzdvRFFyanJOOHc0bnFuUzNMWGxGdDUydFBUZXMycGNvR1h4dXNlcndmYkt1M1Z2ejhqT09wZ0IwM3hway84SVJjdVNMSkxHNVE2aTlGN1FGRG9HTGNFcnc2clNHK0duUldHa2lqaDl0c2IyUT09GAAgACgAMLTSh86z8uUCOKG/0t3nLUChv9Ld5y1KHGRESHV0U3BtcVhRdnpDUk5ZWlM0VG5NYm9wbz1aICIe//9vZWt2dVVYRWxMZUFmM09QNHpVUnZUUDZOalk9EosCCBAShgISpgFaOkFEcXRBWnhSU3NscXdUazhOOWhqbm52RGpKa05ua3pGaTFWWEtlNExKbC9CM0RZSkdGNGNOd2MwRHNDL1VIeS83a3RqVWhuTVFOWFBIK2VmbUpZb2RlaFJ0ZmN0Q0w3cGhNM0lqYnRhQVJpZW1IMXhCQ3hiQzgzcmJnb3I0YXNjUkpEYStudG9vL1E2b1BmZEhyZGRDN29rM25zQldqUjdWQT09GAAgACgAMInVwZuh4uUCOPrd6fnkLUD63en55C1KHEx2a3l1NjJ2SWpUc1N1MFVyVDd3MkNxYlRwZz1aICIe//4yRHhsRTBsZ1AyS2tnRG9udGUwRjBvcjJENEE9EsYBCAISwQESZlo6QURxdEFaeFQ4K05wODhmamxXSjNGYktrUFY2emVVTU5CaTRrZFo3aW0rS1JPMG5HTE9DdlFKbVl1YU50STRBajZOVWdKMTRsYlArZVNHbXFSeStMd0V6V2NaVFZUWVlkZlE9PRgAIAAoADCi/vaO5ejlAjgAQABKHDV1c3kvY3BmcGkxRXRvQkhEZ1hJczBxYjRyQT1aJiIkgAAAAAAAAAClY3OrxdcbtCl6NWuzNQK9CVBFoYxzoPZETpB/Eq4BCAESqQESTlo6QURxdEFaeHEyN05LN3FBWFpiVm03TExtVlNBUE1pVk1DejhXWExuYTZXN1YwU1kxc0YwVzR0NVgxZ080WTFiOUVKeFpPUys4OWRZaxgAIAAoADCi/vaO5ejlAjgAQABKHFUrR0dJdFpFRHBac0lTbE9VYUlUdUlMZE1uST1aJiIkgAAAAAAAAADulDq7i3Bl/ve2EFpIIrWv6tufRSpcv7L0ycx/",
+   "version": 1
+}

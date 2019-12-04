@@ -1,0 +1,1 @@
+(function(b){var c="";b.waxMain=function(){var a=document.getElementById("MainContent_LabelUserName").innerText.trim();""!=a&&(c=a)};b.waxFetchData=function(){var a={};a[SymWax.constants.loginType.USERNAME]=c;return a};b.onload=b.waxMain})(window);

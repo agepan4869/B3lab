@@ -1,0 +1,430 @@
+{
+	"Caution":
+	{
+		"message": "Dikkat"
+	},
+
+	"Untested":
+	{
+		"message": "TEST ED\u0130LMED\u0130"
+	},
+
+	"Warning":
+	{
+		"message": "Uyar\u0131"
+	},
+	"Norton Secured":
+	{
+		"message": "G\u00dcVENL\u0130"
+	},
+	"Not Licensed":
+	{
+		"message": "Lisansl\u0131 de\u011fil"
+	},
+	"Safe":
+	{
+		"message": "G\u00fcvenli"
+	},
+	"Safe Web is off":
+	{
+		"message": "G\u00dcVENL\u0130"
+	},
+	"Page not analyzed":
+	{
+		"message": "Sayfa analiz edilmedi"
+	},
+	"Search the Web Safely":
+	{
+		"message": "G\u00dcVENL\u0130"
+	},
+	"Norton Rating":
+	{
+		"message": "Norton De\u011ferlendirmesi"
+	},
+	"Computer Threats":
+	{
+		"message": "Bilgisayar Tehditleri"
+	},
+	"Identity Threats":
+	{
+		"message": "Kimlik Tehditleri"
+	},
+	"Annoyance Threats":
+	{
+		"message": "Rahats\u0131zl\u0131k Veren Tehditler"
+	},
+	"Total Threats":
+	{
+		"message": "Toplam Tehdit"
+	},
+	"Full Safe Web report":
+	{
+		"message": "Tam G\u00fcvenli Web Raporu"
+	},
+	"Report this site":
+	{
+		"message": "Bu siteyi rapor et"
+	},
+	"Norton Safe Web":
+	{
+		"message": "Norton G\u00fcvenli Web"
+	},
+	"Browser Settings":
+	{
+		"message": "Taray\u0131c\u0131 Ayarlar\u0131"
+	},
+	"Unsafe to Shop":
+	{
+		"message" : "G\u00dcVENS\u0130Z"
+	},
+    "total_threats_id":
+    {
+        "message" : "Tehditler: "
+    },
+		"untested_text":
+		{
+			"message" : "Bu site hen\u00fcz de\u011ferlendirilmedi"
+		},
+    "safe_status_id":
+    {
+        "message" : "G\u00dcVENL\u0130"
+    },
+    "secure_status_id":
+    {
+        "message" : "G\u00dcVENL\u0130"
+    },
+    "caution_status_id":
+    {
+        "message" : "Dikkat"
+    },
+    "untested_status_id":
+    {
+        "message" : "TEST ED\u0130LMED\u0130"
+    },
+    "unsafe_status_id":
+    {
+        "message" : "G\u00dcVENS\u0130Z"
+    },
+		"full_report_id" :
+		{
+				"message" : "Tam Rapor"
+		},
+	"nortonrating_id":
+	{
+		"message" : "Norton De\u011ferlendirmesi:"
+	},
+	"Malicious Download Detected":
+	{
+		"message" : "K\u00f6t\u00fc Ama\u00e7l\u0131 \u0130ndirme Alg\u0131land\u0131"
+	},
+	"Download Cancelled":
+	{
+		"message" : "\u0130ndirme \u0130ptal edildi"
+	},
+	"Malicious Web Site Blocked":
+	{
+		"message" : "Zararl\u0131 Web Sitesi Bloke Edildi"
+	},
+	"Malicious Site Blocked!":
+	{
+		"message" : "K\u00f6t\u00fc Ama\u00e7l\u0131 Site Engellendi!"
+	},
+	"You attempted to access:" :
+	{
+		"message" : "Buraya eri\u015fmeye \u00e7al\u0131\u015ft\u0131n\u0131z:"
+	},
+	"This is a known malicious web site. It is recommended that you do NOT visit this site. The" :
+	{
+		"message" : "Bu web sayfas\u0131n\u0131 ziyaret"
+	},
+	"This web page is a known malicious web page." :
+	{
+		"message" : "Bu web sayfas\u0131n\u0131n k\u00f6t\u00fc ama\u00e7l\u0131 oldu\u011fu bilinmektedir."
+	},
+	"This site is a known malicious web site." :
+	{
+		"message" : "Bu web sitesinin k\u00f6t\u00fc ama\u00e7l\u0131 oldu\u011fu bilinmektedir."
+	},
+	"detailed report" :
+	{
+		"message" : "ayr\u0131nt\u0131l\u0131 raporda"
+	},
+	"explains the security risks on this site." :
+	{
+		"message" : "a\u00e7\u0131klanmaktad\u0131r."
+	},
+	"For your protection, this web site has been blocked. Visit" :
+	{
+		"message" : "G\u00fcvenli\u011finiz i\u00e7in bu web sitesi engellendi. Daha fazla bilgi i\u00e7in l\u00fctfen \u015furay\u0131 ziyaret edin:"
+	},
+	"Symantec" :
+	{
+		"message" : "Symantec"
+	},
+	"to learn more about phishing and internet security." :
+	{
+		"message" : "web sitesini ziyaret edin."
+	},
+	"Exit this site" :
+	{
+		"message" : "Bu siteden \u00e7\u0131k"
+	},
+	"I want to view this Web site anyway" :
+	{
+		"message" : "Bu Web sitesini yine de g\u00f6rmek istiyorum"
+	},
+	"It is recommended that you" :
+	{
+		"message" : "Bu web sayfas\u0131n\u0131 ziyaret"
+	},
+	"DO NOT visit this Web site." :
+	{
+		"message" : "ETMEMEN\u0130Z \u00f6nerilir."
+	},
+	"Welcome to":
+	{
+		"message" : "Ho\u015f geldiniz "
+	},
+	"Norton"	:
+	{
+		"message" : "Norton"
+	},
+	"Thank you for choosing Norton. When a Chrome message appears at the top right of the screen, click" :
+	{
+		"message" : "Norton\u2019u se\u00e7ti\u011finiz i\u00e7in te\u015fekk\u00fcrler. Chrome mesajlar\u0131 ekran\u0131n sa\u011f \u00fcst k\u00f6\u015fesinde g\u00f6r\u00fcnt\u00fclenir"
+	},
+	"Keep changes" :
+	{
+		"message" : "Norton Safe Search korumas\u0131n\u0131"
+	},
+	"to maintain your {0} protection in Chrome." :
+	{
+		"message" : "{0} koruman\u0131z\u0131 Chrome\u2019da s\u00fcrd\u00fcrmek i\u00e7in."
+	},
+	"Norton Safe Search" :
+	{
+		"message" : "Norton Safe Search"
+	},
+	"Norton Home Page" :
+	{
+		"message" : "Norton Giri\u015f Sayfas\u0131"
+	},
+	"Continue" :
+	{
+		"message" : "Devam"
+	},
+	"Suspicious Website Blocked" : {
+		"message" : "\u015e\u00fcpheli Web Sayfas\u0131 Engellendi"
+	},
+	"For your protection, this web page has been blocked and submitted for review." :
+	{
+		"message" : "G\u00fcvenli\u011finiz i\u00e7in bu web sayfas\u0131 engellendi ve inceleme i\u00e7in g\u00f6nderildi."
+	},
+	"It is highly recommended that you do NOT visit this page." :
+	{
+		"message" : "Bu sayfay\u0131 ziyaret ETMEMEN\u0130Z \u00f6nemle tavsiye edilir."
+	},
+	"Visit" :
+	{
+		"message" : "Ziyaret et"
+	},
+	"Continue to the site" :
+	{
+		"message" : "Siteye devam et"
+	},
+	"View Full Report" :
+	{
+		"message" : "Tam Raporu G\u00f6r\u00fcnt\u00fcle"
+	},
+	"BLOCKED BY" :
+	{
+		"message" : "ENGELLEND\u0130:"
+	},
+	"Search for a safer site" :
+	{
+		"message" : "Daha g\u00fcvenli bir site ara"
+	},
+	"Fraudulent Web Page Blocked" :
+	{
+		"message" : "Doland\u0131r\u0131c\u0131 Web Sayfas\u0131 Bloke Edildi"
+	},
+	"This web page is a known fraudulent web page.":
+	{
+		"message" : "Bu web sayfas\u0131 bilinen bir doland\u0131r\u0131c\u0131 web sayfas\u0131d\u0131r."
+	},
+	"Dangerous Web Page Blocked" :
+	{
+		"message" : "Tehlikeli Web Sayfas\u0131 Engellendi"
+	},
+	"This is a known dangerous web page." :
+	{
+		"message" : "Bu bilinen zararl\u0131 bir web sitesidir."
+	},
+	"Thank you for using {0}! Share usage and error data anonymously with Norton to help make our products even better." : {
+		"message" : "{0} \u00fcr\u00fcnlerini kulland\u0131\u011f\u0131n\u0131z i\u00e7in te\u015fekk\u00fcrler. Kullan\u0131m ve hata verilerini Norton ile anonim olarak payla\u015f\u0131n ve \u00fcr\u00fcnlerimizi daha iyi hale getirmemizde bize yard\u0131mc\u0131 olun."
+	},
+	"OK" :
+	{
+	    "message" : "Tamam"
+	},
+	"No, thanks" :
+	{
+	    "message" : "Hay\u0131r, te\u015fekk\u00fcrler"
+	},
+	"Learn More" :
+	{
+	    "message" : "Daha Fazla Bilgi"
+	},
+	"Safe Web"	:
+	{
+			"message" : "G\u00fcvenli Web"
+	},
+	"Safe Search"	:
+	{
+			"message"	: "G\u00fcvenli Arama"
+	},
+	"Home Page"	:
+	{
+			"message"	: "Ana Sayfa"
+	},
+	"Settings"	:
+	{
+			"message" :	"Ayarlar"
+	},
+	"Share Data with Norton"	:
+	{
+			"message"	: "Verileri Norton ile payla\u015f"
+	},
+	"Share usage and error data anonymously with Norton and help us make our products even better"	:
+	{
+			"message"	: "Kullan\u0131m ve hata verilerini Norton ile anonim olarak payla\u015f\u0131n ve \u00fcr\u00fcnlerimizi daha iyi hale getirmemizde bize yard\u0131mc\u0131 olun."
+	},
+	"Privacy Policy"	:
+	{
+			"message"	: "Gizlilik Politikas\u0131"
+	},
+	"Scam Insight: Personal Information Risk" :
+	{
+		"message" : "Doland\u0131r\u0131c\u0131l\u0131k Sicili: Ki\u015fisel Bilgi Riskleri"
+	},
+	"This site is safe, but…" :
+	{
+		"message" : "Bu site g\u00fcvenlidir, ancak\u2026"
+	},
+	"It asks for personal information and is not well established with the Norton Community. Use caution when entering any of your information on this site. " :
+	{
+		"message" : "Ki\u015fisel bilgiler talep ediyor ve Norton Community taraf\u0131ndan tam olarak tan\u0131nm\u0131yor. Bu siteye herhangi bir bilginizi girerken dikkatli olun. "
+	},
+	"Visit " :
+	{
+		"message" : "Ziyaret et"
+	},
+	"Norton " :
+	{
+		"message" : "Norton"
+	},
+	"to learn more about personal information risk on Web sites." :
+	{
+		"message" : "web sitelerindeki ki\u015fisel bilgi riskleri hakk\u0131nda daha fazla bilgi i\u00e7in."
+	},
+	"Age: " :
+	{
+		"message" : "Ya\u015f: "
+	},
+	"Very New" :
+	{
+		"message" : "\u00c7ok Yeni"
+	},
+	"This website was published very recently." :
+	{
+		"message" : "Bu web sitesi k\u0131sa bir zaman \u00f6nce yay\u0131nlanm\u0131\u015f."
+	},
+	"New" :
+	{
+		"message" : "Yeni"
+	},
+	"This website has been available for a short time." :
+	{
+		"message" : "Bu web sitesi k\u0131sa bir s\u00fcredir kullan\u0131l\u0131yor."
+	},
+	"Prevalence: " :
+	{
+		"message" : "Yayg\u0131nl\u0131k: "
+	},
+	"No Users" :
+	{
+		"message" : "Kullan\u0131c\u0131s\u0131 Yok"
+	},
+	"No Norton community members have used this site." :
+	{
+		"message" : "Norton community \u00fcyeleri bu siteyi kullanmam\u0131\u015f."
+	},
+	"Few Users" :
+	{
+		"message" : "Az Kullan\u0131c\u0131"
+	},
+	"Very few Norton community members have used this site." :
+	{
+		"message" : "\u00c7ok az say\u0131da Norton Community \u00fcyesi bu siteyi kullanm\u0131\u015f."
+	},
+	"Continue to Site" :
+	{
+		"message" : "Siteye Git"
+	},
+	"Exit Site" :
+	{
+		"message" : "Siteden \u00c7\u0131k"
+	},
+	"If you think this website is categorized incorrectly, " :
+	{
+		"message" : "Bu sitenin yanl\u0131\u015f s\u0131n\u0131fland\u0131r\u0131ld\u0131\u011f\u0131n\u0131 d\u00fc\u015f\u00fcn\u00fcyorsan\u0131z, "
+	},
+	"Report Issue." :
+	{
+		"message" : "Sorun Bildir."
+	},
+	"Signed in as"		:
+	{
+		"message"		: "Farkl\u0131 oturum a\u00e7\u0131n"
+	},
+	"Sign out"			:
+	{
+		"message"		: "Oturumu kapat"
+	},
+	"You have successfully logged out of your Norton Account"	: {
+		"message"	:	"Norton Hesab\u0131 oturumunuzu ba\u015far\u0131yla kapatt\u0131n\u0131z"
+	},
+	"Sorry, something went wrong. Please try again." :	{
+		"message"	:	"\u00dczg\u00fcn\u00fcz, bir hata olu\u015ftu. L\u00fctfen tekrar deneyin."
+	},
+	"Link Guard": {
+		"message": "Ba\u011flant\u0131 Korumas\u0131"
+	},
+	"Identify unsafe links in Webmail, Facebook, and Twitter": {
+		"message": "Webmail, Facebook ve Twitter'da g\u00fcvenli olmayan ba\u011flant\u0131lar\u0131 belirleyin"
+	},
+	"Banking Protection": {
+  		"message": "Bankac\u0131l\u0131k Korumas\u0131"
+	},
+	"Banking Protection can help protect your sensitive online transactions.": {
+  		"message": "Bankac\u0131l\u0131k \u0130\u015flemleri Korumas\u0131 gizli \u00e7evrimi\u00e7i i\u015flemlerinizin korunmas\u0131na yard\u0131mc\u0131 olur."
+	},
+	"Select your preferences below for viewing banking websites in Isolation Mode:": {
+  		"message": "Bankac\u0131l\u0131k web sitelerini \u0130zolasyon Modunda g\u00f6r\u00fcnt\u00fclemek i\u00e7in a\u015fa\u011f\u0131dan tercihlerinizi se\u00e7in:"
+	},
+	"Websites": {
+  		"message": "Web siteleri"
+	},
+	"Isolation Mode On": {
+  		"message": "\u0130zolasyon Modu A\u00e7\u0131k"
+	},
+	"Isolation Mode Off": {
+  		"message": "\u0130zolasyon Modu Kapal\u0131"
+	},
+	"Ask Me": {
+  		"message": "Bana Sor"
+	},
+	"Norton Secure Search": {
+		"message": "Norton Secure Search"
+	}
+}

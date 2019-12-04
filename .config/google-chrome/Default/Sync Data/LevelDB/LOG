@@ -1,0 +1,6 @@
+2019/12/03-15:57:16.021 72e Reusing MANIFEST /home/agepan/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2019/12/03-15:57:16.021 72e Recovering log #24
+2019/12/03-15:57:16.024 72e Reusing old log /home/agepan/.config/google-chrome/Default/Sync Data/LevelDB/000024.log 
+2019/12/04-15:42:41.731 a42 Level-0 table #28: started
+2019/12/04-15:42:41.742 a42 Level-0 table #28: 123595 bytes OK
+2019/12/04-15:42:41.754 a42 Delete type=0 #24

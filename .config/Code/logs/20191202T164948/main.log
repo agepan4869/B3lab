@@ -1,0 +1,4 @@
+[2019-12-02 16:49:49.009] [main] [info] update#setState idle
+[2019-12-02 16:50:19.023] [main] [info] update#setState checking for updates
+[2019-12-02 16:50:19.032] [main] [error] Error: net::ERR_INTERNET_DISCONNECTED
+[2019-12-02 16:50:19.032] [main] [info] update#setState idle

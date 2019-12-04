@@ -1,0 +1,1 @@
+(function(a){a.waxFill_Steampowered=function(){var a=document.getElementById("expiration_month").value,b=document.getElementById("expiration_year").value,c=document.getElementById("expiration_month_trigger"),d=document.getElementById("expiration_year_trigger");c.text=a;d.text=b;return!1}})(window);

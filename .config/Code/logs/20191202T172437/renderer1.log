@@ -1,0 +1,7 @@
+[2019-12-03 10:42:55.274] [renderer1] [error] Cannot read property 'length' of null: TypeError: Cannot read property 'length' of null
+	at t.ItemInfoSource.getSignature (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:586502)
+	at /home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:585350
+	at Array.forEach (<anonymous>)
+	at t.ItemInfoSource.getItemInfoFromHoverResult (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:585325)
+	at t.ItemInfoSource.getItemInfoFromDocument (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:584551)
+	at async c.provideHover (/home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/out/client/extension.js:1:588581)

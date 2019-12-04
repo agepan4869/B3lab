@@ -1,0 +1,347 @@
+/*
+ Symantec copyright header start
+
+ Copyright © 2016, Symantec Corporation, All rights reserved.
+
+ THIS SOFTWARE CONTAINS CONFIDENTIAL INFORMATION AND TRADE SECRETS OF SYMANTEC
+ CORPORATION.  USE, DISCLOSURE OR REPRODUCTION IS PROHIBITED WITHOUT THE PRIOR
+ EXPRESS WRITTEN PERMISSION OF SYMANTEC CORPORATION.
+
+ The Licensed Software and Documentation are deemed to be commercial computer
+ software as defined in FAR 12.212 and subject to restricted rights as defined
+ in FAR Section 52.227-19 "Commercial Computer Software - Restricted Rights"
+ and DFARS 227.7202, “Rights in Commercial Computer Software or Commercial
+ Computer Software Documentation”, as applicable, and any successor regulations.
+ Any use, modification, reproduction release, performance, display or disclosure
+ of the Licensed Software and Documentation by the U.S. Government shall be
+ solely in accordance with the terms of this Agreement.
+
+ Symantec copyright header stop
+
+*/
+
+.body {
+  padding-left: 150px;
+}
+
+#container {
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+.header {
+  width: 100%;
+	height: 60px;
+	background-color: #ffffff;
+	box-shadow: 0 3px 4px 0 rgba(0, 0, 0, 0.17);
+  padding-left: 225px;
+  align-items: center;
+}
+
+.title {
+  width: 400px;
+	height: 27px;
+	font-family: "Segoe UI", "Helvetica Neue", "HelveticaNeue", Helvetica, "Lucida Sans Unicode", Arial, Sans-serif;
+	font-size: 24px;
+	color: #333333;
+  padding-left: 20px;
+  margin-left: 20px;
+  border-left: solid 1px #979797;
+}
+
+.content {
+  padding-left: 221px;
+}
+
+.signin-info {
+  width: 100%;
+	height: 19px;
+  font-family: "Segoe UI", "Helvetica Neue", "HelveticaNeue", Helvetica, "Lucida Sans Unicode", Arial, Sans-serif;
+	font-size: 14px;
+  margin-bottom: 38px;
+}
+
+.signout {
+  color: #0089c6;
+  cursor: pointer;
+  padding-left: 6px;
+  font-family: "Segoe UI", "Helvetica Neue", "HelveticaNeue", Helvetica, "Lucida Sans Unicode", Arial, Sans-serif;
+  font-size: 14px;
+}
+
+.norton-image {
+  width: 97.5px;
+	height: 37.8px;
+  background-image: url(../images/logo-norton-header.svg);
+  background-repeat:   no-repeat;
+  background-position: center center;
+}
+
+.settings {
+  width: 650px;
+  height: 36px;
+  font-family: "Segoe UI", "Helvetica Neue", "HelveticaNeue", Helvetica, "Lucida Sans Unicode", Arial, Sans-serif;
+  font-size: 32px;
+  color: #333333;
+  margin-top:30px;
+  margin-bottom: 30px;
+}
+
+.signed-in-as {
+	font-family: "Segoe UI", "Helvetica Neue", "HelveticaNeue", Helvetica, "Lucida Sans Unicode", Arial, Sans-serif;
+	color: #333333;
+  font-weight: bold;
+  padding-right: 6px;
+}
+
+.na-account {
+  font-family: "Segoe UI", "Helvetica Neue", "HelveticaNeue", Helvetica, "Lucida Sans Unicode", Arial, Sans-serif;
+	color: #333333;
+  border-right: solid 1px #979797;
+  padding-right: 6px;
+}
+
+.vault-access-settings {
+  margin-bottom: 35px;
+}
+
+.vault-access {
+  width: 100%;
+	height: 24px;
+	font-family: "Segoe UI", "Helvetica Neue", "HelveticaNeue", Helvetica, "Lucida Sans Unicode", Arial, Sans-serif;
+	font-size: 18px;
+	color: #333333;
+  margin-bottom: 9px;
+}
+.change-vault-password{
+  font-family: "Segoe UI", "Helvetica Neue", "HelveticaNeue", Helvetica, "Lucida Sans Unicode", Arial, Sans-serif;
+  font-size: 14px;
+  margin-top: 16px;
+  color: #0089c6;
+  cursor: pointer;
+  margin-left: 34px;
+  width: 150px;
+}
+
+.subtitle-underline {
+  width: 992px;
+	height: 1px;
+	background-color: #dadada;
+  margin-bottom: 16px;
+}
+
+.auto-filling {
+	width: 240px;
+	height: 24px;
+	font-family: "Segoe UI", "Helvetica Neue", "HelveticaNeue", Helvetica, "Lucida Sans Unicode", Arial, Sans-serif;
+	font-size: 18px;
+	color: #333333;
+}
+
+.require-vault-pass {
+	width: 367px;
+	height: 19px;
+	font-family: "Segoe UI", "Helvetica Neue", "HelveticaNeue", Helvetica, "Lucida Sans Unicode", Arial, Sans-serif;
+	font-size: 14px;
+	color: #333333;
+  margin-bottom: 36px;
+}
+
+label {
+  font-family: "Segoe UI", "Helvetica Neue", "HelveticaNeue", Helvetica, "Lucida Sans Unicode", Arial, Sans-serif;
+  font-size: 14px;
+}
+
+.auto-fill-parent {
+  font-size: 18px;
+}
+
+.checkbox {
+  width: 13px;
+	height: 13px;
+	background-color: #ffffff;
+	border: solid 1px #c3c3c3;
+  border-radius: 0;
+}
+
+.restore-settings {
+  width: 992px;
+	height: 19px;
+	font-family: "Segoe UI", "Helvetica Neue", "HelveticaNeue", Helvetica, "Lucida Sans Unicode", Arial, Sans-serif;
+	font-size: 14px;
+	text-align: right;
+	color: #0089c6;
+  padding-right: 20px;
+  padding-top: 10px;
+  cursor: pointer;
+}
+
+.-checkbox {
+  position: relative;
+  margin-bottom: 7px;
+  cursor: pointer;
+}
+
+input {
+  opacity: 0;
+}
+
+span {
+  margin-left: 15px;
+  line-height: 20px;
+}
+
+input + span:before {
+  position: absolute;
+  height: 13px;
+  left: 0;
+  top: 2px;
+  width: 13px;
+  background-color: #ffffff;
+  border: solid 1px #c3c3c3;
+  content: '';
+}
+
+input + span:after{
+  z-index: -1;
+  position: absolute;
+  height: 13px;
+  left: 0;
+  top: 2px;
+  width: 13px;
+  background-color: #ffffff;
+  border: solid 1px #c3c3c3;
+  content: '';
+}
+
+input:checked + span:before {
+  border: solid 1px #c3c3c3;
+  content: '';
+  position: absolute;
+  width: 9px;
+  height: 5px;
+  background: transparent;
+  top: 4px;
+  left: 2px;
+  border: 2px solid #339933;
+  border-top: none;
+  border-right: none;
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+
+.delete-vault {
+  width: 166px;
+  height: 40px;
+  font-family: "Segoe UI", "Helvetica Neue", "HelveticaNeue", Helvetica, "Lucida Sans Unicode", Arial, Sans-serif;
+  font-size: 16px;
+  text-align: center;
+  color: #333333;
+  background-color: #a0a0a0;
+  margin-top: -20px;
+  border: none;
+}
+
+.delete-vault:hover {
+  cursor: pointer;
+}
+
+.delete-vault-tooltip{
+  background-image: url(../images/bg-tooltip.svg);
+  width: 240px;
+  height: 80px;
+  object-fit: contain;
+  position: relative;
+  margin: auto;
+  top: -123px;
+  margin-left: -27px;
+}
+
+.delete-vault-tooltip-text {
+ width: 202px;
+ height: 28px;
+ font-family: HelveticaNeue,"Segoe UI", "Helvetica Neue", Helvetica, "Lucida Sans Unicode", Arial, Sans-serif;
+ font-size: 12px;
+ color: #262626;
+ padding: 16px 16px 16px;
+ text-align: left;
+}
+
+.body[dir="rtl"] {
+  padding-left: 0;
+  padding-right: 150px;
+}
+
+body[dir="rtl"] .header {
+  padding-left: 0;
+  padding-right: 221px;
+  margin-top: 14px;
+}
+
+body[dir="rtl"] .title {
+  padding-left: 0;
+  padding-right: 20px;
+  margin-left: 0;
+  margin-right: 20px;
+  border-left: none;
+  border-right: solid 1px #979797;
+}
+
+body[dir="rtl"] .content {
+  padding-left: 0;
+  padding-right: 221px;
+}
+
+body[dir="rtl"] .signout {
+  padding-left: 0;
+  padding-right: 6px;
+}
+
+body[dir="rtl"] .settings {
+  width: 650px;
+  height: 36px;
+  font-family: "Segoe UI", "Helvetica Neue", "HelveticaNeue", Helvetica, "Lucida Sans Unicode", Arial, Sans-serif;
+  font-size: 32px;
+  color: #333333;
+  margin-top:30px;
+  margin-bottom: 30px;
+}
+
+body[dir="rtl"] .signed-in-as {
+	padding-right: 0;
+  padding-left: 6px;
+}
+
+body[dir="rtl"] .na-account {
+  border-left: solid 1px #979797;
+  padding-left: 6px;
+  border-right: none;
+  padding-right: 0;
+}
+
+body[dir="rtl"] .restore-settings {
+  padding-left: 20px;
+  padding-right: 0;
+  text-align: left;
+}
+
+body[dir="rtl"] span {
+  margin-left: 0;
+  margin-right: 15px;
+}
+
+body[dir="rtl"] input + span:after{
+  right: 0;
+  top: 2px;
+}
+
+body[dir="rtl"] input:checked + span:before {
+  right: 2px;
+}
+
+body[dir="rtl"] input + span:before {
+  right: 0;
+}

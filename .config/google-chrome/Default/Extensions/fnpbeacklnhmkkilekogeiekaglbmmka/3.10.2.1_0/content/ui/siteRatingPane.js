@@ -1,0 +1,1 @@
+(function(a){(a.NSSS=a.NSSS||{}).annotationpopupevent=function(a){return{sendfullreportEvent:function(a){parent.window.postMessage({name:"openFullReportFromPanel",message:a},"*")},closePopup:function(){parent.window.postMessage({name:"closeAnnotationPopup"},"*")}}}(a.NSSS)})(executionContext);

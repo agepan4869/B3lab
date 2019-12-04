@@ -1,0 +1,763 @@
+次の場所で Git を検索しています: git
+git から Git 2.17.1 を使用しています
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/agepan/Documents/MIT/Seminar
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :training01.py
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git add -A -- .
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :training01.py
+> git add -A -- .
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- .
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/agepan/Documents/MIT/Seminar/.iris_names_JP.txt.swp
+> git ls-files --stage -- /home/agepan/Documents/MIT/Seminar/.iris_names_JP.txt.swp
+> git cat-file -s 2fc3c11329212b32721395d753a45b2fb019cf50
+> git show 2fc3c11329212b32721395d753a45b2fb019cf50
+> git show HEAD:.iris_names_JP.txt.swp
+> git ls-tree -l HEAD -- ./
+> git ls-tree -l HEAD -- /home/agepan/Documents/MIT/Seminar/.iris_names_JP.txt.swp
+> git ls-files --stage -- /home/agepan/Documents/MIT/Seminar/.iris_names_JP.txt.swp
+> git cat-file -s 2fc3c11329212b32721395d753a45b2fb019cf50
+> git show 2fc3c11329212b32721395d753a45b2fb019cf50
+> git add -A -- .
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- .
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- .
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- .
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- .
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Personal_Task/InputData.py
+> git ls-files --stage -- Personal_Task/
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/agepan/Documents/MIT/Seminar/Personal_Task/InputData.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show HEAD:.iris_names_JP.txt.swp
+> git show :Personal_Task/InputData.py
+> git ls-tree -l HEAD -- ./
+> git add -A -- .
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/agepan/Documents/MIT/Seminar/.iris_names_JP.txt.swp
+> git ls-files --stage -- /home/agepan/Documents/MIT/Seminar/.iris_names_JP.txt.swp
+> git cat-file -s 2fc3c11329212b32721395d753a45b2fb019cf50
+> git show 2fc3c11329212b32721395d753a45b2fb019cf50
+> git ls-tree -l HEAD -- /home/agepan/Documents/MIT/Seminar/.iris_names_JP.txt.swp
+> git ls-files --stage -- /home/agepan/Documents/MIT/Seminar/.iris_names_JP.txt.swp
+> git cat-file -s 2fc3c11329212b32721395d753a45b2fb019cf50
+> git show 2fc3c11329212b32721395d753a45b2fb019cf50
+> git ls-tree -l HEAD -- /home/agepan/Documents/MIT/Seminar/.iris_names_JP.txt.swp
+> git ls-files --stage -- /home/agepan/Documents/MIT/Seminar/.iris_names_JP.txt.swp
+> git cat-file -s 2fc3c11329212b32721395d753a45b2fb019cf50
+> git show 2fc3c11329212b32721395d753a45b2fb019cf50
+> git ls-tree -l HEAD -- /home/agepan/Documents/MIT/Seminar/.iris_names_JP.txt.swp
+> git ls-files --stage -- /home/agepan/Documents/MIT/Seminar/.iris_names_JP.txt.swp
+> git cat-file -s 2fc3c11329212b32721395d753a45b2fb019cf50
+> git show 2fc3c11329212b32721395d753a45b2fb019cf50
+> git ls-tree -l HEAD -- /home/agepan/Documents/MIT/Seminar/.iris_names_JP.txt.swp
+> git ls-files --stage -- /home/agepan/Documents/MIT/Seminar/.iris_names_JP.txt.swp
+> git cat-file -s 2fc3c11329212b32721395d753a45b2fb019cf50
+> git show 2fc3c11329212b32721395d753a45b2fb019cf50
+> git ls-tree -l HEAD -- /home/agepan/Documents/MIT/Seminar/Personal_Task/InputData.py
+> git ls-files --stage -- /home/agepan/Documents/MIT/Seminar/Personal_Task/InputData.py
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show HEAD:Personal_Task/InputData.py
+> git show :Personal_Task/InputData.py
+> git ls-tree -l HEAD -- Personal_Task/
+> git ls-tree -l HEAD -- /home/agepan/Documents/MIT/Seminar/Personal_Task/InputData.py
+> git ls-files --stage -- /home/agepan/Documents/MIT/Seminar/Personal_Task/InputData.py
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git ls-tree -l HEAD -- /home/agepan/Documents/MIT/Seminar/Personal_Task/InputData.py
+> git ls-files --stage -- /home/agepan/Documents/MIT/Seminar/Personal_Task/InputData.py
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git ls-tree -l HEAD -- /home/agepan/Documents/MIT/Seminar/Personal_Task/InputData.py
+> git ls-files --stage -- /home/agepan/Documents/MIT/Seminar/Personal_Task/InputData.py
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git ls-tree -l HEAD -- /home/agepan/Documents/MIT/Seminar/Personal_Task/InputData.py
+> git ls-files --stage -- /home/agepan/Documents/MIT/Seminar/Personal_Task/InputData.py
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show HEAD:Personal_Task/InputData.py
+> git show :Personal_Task/InputData.py
+> git ls-tree -l HEAD -- Personal_Task/
+> git ls-tree -l HEAD -- /home/agepan/Documents/MIT/Seminar/Personal_Task/InputData.py
+> git ls-files --stage -- /home/agepan/Documents/MIT/Seminar/Personal_Task/InputData.py
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show :Personal_Task/InputData.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show HEAD:.iris_names_JP.txt.swp
+> git show :Personal_Task/InputData.py
+> git ls-tree -l HEAD -- ./
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show HEAD:.iris_names_JP.txt.swp
+> git show :Personal_Task/InputData.py
+> git ls-tree -l HEAD -- ./
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show HEAD:.iris_names_JP.txt.swp
+> git show :Personal_Task/InputData.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show HEAD:.iris_names_JP.txt.swp
+> git show :Personal_Task/InputData.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show HEAD:.iris_names_JP.txt.swp
+> git show :Personal_Task/InputData.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show HEAD:.iris_names_JP.txt.swp
+> git show :Personal_Task/InputData.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show HEAD:.iris_names_JP.txt.swp
+> git show :Personal_Task/InputData.py
+> git show :deep-learning-from-scratch/ch05/two_layer_net.py
+> git ls-files --stage -- deep-learning-from-scratch/ch05/
+> git show :InputData01.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Personal_Task/wine.names
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :Personal_Task/Index
+> git show :Personal_Task/wine.data
+> git show :Personal_Task/wine.names
+> git show :Personal_Task/Index
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Personal_Task/Index
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Personal_Task/Index
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Personal_Task/Index
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Personal_Task/Index
+> git show :Personal_Task/wine.data
+> git show :Personal_Task/Index
+> git show :Personal_Task/wine.names
+> git show :Personal_Task/wine.data
+> git show :Personal_Task/DataSet_Info.txt
+> git ls-files --stage -- Personal_Task/
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Personal_Task/wine.names
+> git show :Personal_Task/DataSet_Info.txt
+> git ls-files --stage -- Personal_Task/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Personal_Task/DataSet_Info.txt
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Personal_Task/DataSet_Info.txt
+> git show :Personal_Task/DataInput.py
+> git ls-files --stage -- Personal_Task/
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :InputData01.py
+> git show :Personal_Task/DataInput.py
+> git ls-files --stage -- Personal_Task/
+> git show :InputData01.py
+> git show :Personal_Task/DataInput.py
+> git ls-files --stage -- Personal_Task/
+> git show :InputData01.py
+> git show :Personal_Task/DataInput.py
+> git ls-files --stage -- Personal_Task/
+> git show :InputData01.py
+> git show :Personal_Task/DataInput.py
+> git ls-files --stage -- Personal_Task/
+> git show :InputData01.py
+> git show :Personal_Task/DataInput.py
+> git ls-files --stage -- Personal_Task/
+> git show :InputData01.py
+> git show :Personal_Task/DataInput.py
+> git ls-files --stage -- Personal_Task/
+> git show :InputData01.py
+> git show :Personal_Task/DataInput.py
+> git ls-files --stage -- Personal_Task/
+> git show :InputData01.py
+> git show :Personal_Task/DataInput.py
+> git ls-files --stage -- Personal_Task/
+> git show :Personal_Task/wine.data
+> git show :iris_names_JP.txt
+> git show :Personal_Task/wine.data
+> git show :Personal_Task/DataInput.py
+> git ls-files --stage -- Personal_Task/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :InputData01.py
+> git show :Personal_Task/DataInput.py
+> git ls-files --stage -- Personal_Task/
+> git show :InputData01.py
+> git show :Personal_Task/DataInput.py
+> git ls-files --stage -- Personal_Task/
+> git show :InputData01.py
+> git show :Personal_Task/DataInput.py
+> git ls-files --stage -- Personal_Task/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :InputData01.py
+> git show :Personal_Task/Index
+> git show :Personal_Task/DataSet_Info.txt
+> git show :Personal_Task/DataInput.py
+> git ls-files --stage -- Personal_Task/
+> git show :InputData01.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :InputData01.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :InputData01.py
+> git show :Personal_Task/DataInput.py
+> git show :Personal_Task/main.py
+> git ls-files --stage -- Personal_Task/
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Personal_Task/DataInput.py
+> git show :Personal_Task/DataSet_Info.txt
+> git show :Personal_Task/DataInput.py
+> git show :Personal_Task/main.py
+> git ls-files --stage -- Personal_Task/
+> git show :Personal_Task/DataInput.py
+> git show :Personal_Task/main.py
+> git ls-files --stage -- Personal_Task/
+> git show :Personal_Task/DataInput.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Personal_Task/main.py
+> git ls-files --stage -- Personal_Task/
+> git show :Personal_Task/DataInput.py
+> git show :Personal_Task/main.py
+> git ls-files --stage -- Personal_Task/
+> git show :Personal_Task/DataInput.py
+> git show :Personal_Task/main.py
+> git ls-files --stage -- Personal_Task/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git check-ignore -v -z --stdin
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Personal_Task/DataInput.py
+> git show :training01.py
+> git show :Personal_Task/DataInput.py
+> git show :training01.py
+> git show :Personal_Task/main.py
+> git ls-files --stage -- Personal_Task/
+> git show :training01.py
+> git show :Personal_Task/main.py
+> git ls-files --stage -- Personal_Task/
+> git show :training01.py
+> git show :Personal_Task/main.py
+> git ls-files --stage -- Personal_Task/
+> git show :training01.py
+> git show :Personal_Task/main.py
+> git ls-files --stage -- Personal_Task/
+> git show :training01.py
+> git show :Personal_Task/main.py
+> git ls-files --stage -- Personal_Task/
+> git show :training01.py
+> git show :Personal_Task/main.py
+> git ls-files --stage -- Personal_Task/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :training01.py
+> git show :Personal_Task/main.py
+> git ls-files --stage -- Personal_Task/
+> git show :Personal_Task/DataInput.py
+> git show :Personal_Task/main.py
+> git ls-files --stage -- Personal_Task/
+> git show :training01.py
+> git show :Personal_Task/main.py
+> git ls-files --stage -- Personal_Task/
+> git show :training01.py
+> git show :Personal_Task/main.py
+> git ls-files --stage -- Personal_Task/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Personal_Task/DataInput.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Personal_Task/main.py
+> git ls-files --stage -- Personal_Task/
+> git show :Personal_Task/DataInput.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Personal_Task/DataInput.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Personal_Task/DataInput.py
+> git show :Personal_Task/DataSet_Info.txt
+> git show :Personal_Task/DataInput.py
+> git show :Personal_Task/DataSet_Info.txt
+> git show :Personal_Task/DataInput.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Personal_Task/DataInput.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Personal_Task/DataInput.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Personal_Task/DataInput.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :training01.py
+> git show :Personal_Task/DataInput.py
+> git show :InputData.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/agepan/Documents/MIT/Seminar/.iris_names_JP.txt.swp
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git branch
+> git reset -q HEAD -- .
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git checkout -q -- /home/agepan/Documents/MIT/Seminar/.iris_names_JP.txt.swp
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template

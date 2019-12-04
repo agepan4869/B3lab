@@ -1,0 +1,2 @@
+(function(a){a.IDSafe.idsSettingsProxy=function(a,b,f){b={};var c=f.constants,g=a.utils.isNil,d=a.utils.isFunction,e=a.extensionAdapter;b.getIDSSetting=function(a,b){if(g(a))throw Error("Cannot get setting for null key");if(!d(b))throw Error("Need a callback to be a function");e.sendMessage({id:c.idsSettings.MESSAGES.GET_IDS_SETTING,payload:a},b)};b.getAllIDSSettings=function(a){if(!d(a))throw Error("Need a callback to be a function");e.sendMessage({id:c.idsSettings.MESSAGES.GET_ALL_IDS_SETTINGS},
+a)};return b}(a.SymBfw,a.SymO2,a.IDSafe)})(executionContext);

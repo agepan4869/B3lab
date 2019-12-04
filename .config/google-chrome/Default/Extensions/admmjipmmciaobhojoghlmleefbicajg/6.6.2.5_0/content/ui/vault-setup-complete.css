@@ -1,0 +1,79 @@
+/*
+ Symantec copyright header start
+
+ Copyright © 2016, Symantec Corporation, All rights reserved.
+
+ THIS SOFTWARE CONTAINS CONFIDENTIAL INFORMATION AND TRADE SECRETS OF SYMANTEC
+ CORPORATION.  USE, DISCLOSURE OR REPRODUCTION IS PROHIBITED WITHOUT THE PRIOR
+ EXPRESS WRITTEN PERMISSION OF SYMANTEC CORPORATION.
+
+ The Licensed Software and Documentation are deemed to be commercial computer
+ software as defined in FAR 12.212 and subject to restricted rights as defined
+ in FAR Section 52.227-19 "Commercial Computer Software - Restricted Rights"
+ and DFARS 227.7202, “Rights in Commercial Computer Software or Commercial
+ Computer Software Documentation”, as applicable, and any successor regulations.
+ Any use, modification, reproduction release, performance, display or disclosure
+ of the Licensed Software and Documentation by the U.S. Government shall be
+ solely in accordance with the terms of this Agreement.
+
+ Symantec copyright header stop
+
+*/
+
+
+.setup-image {
+  width: 98.6px;
+  height: 98.6px;
+  background-image: url(../images/ic-logo-complete.svg);
+  top: 53px;
+  padding-bottom: 50px;
+  margin-left: 625px;
+  background-repeat:   no-repeat;
+  display: block;
+  margin: auto;
+  position: relative;
+}
+
+.setup-content-description {
+  min-width: 650px;
+  height: 18px;
+  line-height: 18px;
+  margin: 0 auto;
+  font-family: "Segoe UI", "Helvetica Neue", "HelveticaNeue", Helvetica, "Lucida Sans Unicode", Arial, Sans-serif;
+  font-size: 16px;
+  text-align: center;
+  color: #262626;
+  padding-bottom: 50px;
+  font-weight: 600;
+}
+
+.setup-content-header {
+  min-width: 650px;
+  height: 41px;
+  line-height: 41px;
+  margin: 0 auto;
+  font-family: "Segoe UI", "Helvetica Neue", "HelveticaNeue", Helvetica, "Lucida Sans Unicode", Arial, Sans-serif;
+  font-size: 36px;
+  text-align: center;
+  color: #333333;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+
+.go-to-vault {
+  min-width: 280px;
+  height: 16px;
+  font-family: Segoe UI, Helvetica Neue, Lucida Sans Unicode, Arial, Sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  margin-left: 820px;
+  color: #0089c6;
+  display: block;
+  margin : auto;
+  cursor: pointer;
+}

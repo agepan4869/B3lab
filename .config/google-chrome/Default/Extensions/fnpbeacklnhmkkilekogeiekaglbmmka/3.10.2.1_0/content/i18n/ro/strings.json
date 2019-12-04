@@ -1,0 +1,430 @@
+{
+	"Caution":
+	{
+		"message": "Aten\u0163ie"
+	},
+
+	"Untested":
+	{
+		"message": "NETESTAT"
+	},
+
+	"Warning":
+	{
+		"message": "Avertisment"
+	},
+	"Norton Secured":
+	{
+		"message": "SECURIZAT\u0102"
+	},
+	"Not Licensed":
+	{
+		"message": "F\u0103r\u0103 licen\u021b\u0103"
+	},
+	"Safe":
+	{
+		"message": "Sigur\u0103"
+	},
+	"Safe Web is off":
+	{
+		"message": "SIGUR\u0102"
+	},
+	"Page not analyzed":
+	{
+		"message": "Pagin\u0103 neanalizat\u0103"
+	},
+	"Search the Web Safely":
+	{
+		"message": "SIGUR\u0102"
+	},
+	"Norton Rating":
+	{
+		"message": "Evaluare Norton"
+	},
+	"Computer Threats":
+	{
+		"message": "Amenin\u0163\u0103ri de computer"
+	},
+	"Identity Threats":
+	{
+		"message": "Amenin\u0163\u0103ri pentru identitate"
+	},
+	"Annoyance Threats":
+	{
+		"message": "Amenin\u0163\u0103ri enervante"
+	},
+	"Total Threats":
+	{
+		"message": "Total amenin\u0163\u0103ri"
+	},
+	"Full Safe Web report":
+	{
+		"message": "Raport Safe Web complet"
+	},
+	"Report this site":
+	{
+		"message": "Raportare site"
+	},
+	"Norton Safe Web":
+	{
+		"message": "Norton Safe Web"
+	},
+	"Browser Settings":
+	{
+		"message": "Set\u0103ri browser"
+	},
+	"Unsafe to Shop":
+	{
+		"message" : "NESIGUR\u0102"
+	},
+    "total_threats_id":
+    {
+        "message" : "Amenin\u0163\u0103ri: "
+    },
+		"untested_text":
+		{
+			"message" : "Acest site nu a fost testat \u00eenc\u0103"
+		},
+    "safe_status_id":
+    {
+        "message" : "SIGUR\u0102"
+    },
+    "secure_status_id":
+    {
+        "message" : "SECURIZAT\u0102"
+    },
+    "caution_status_id":
+    {
+        "message" : "Aten\u0163ie"
+    },
+    "untested_status_id":
+    {
+        "message" : "NETESTAT"
+    },
+    "unsafe_status_id":
+    {
+        "message" : "NESIGUR\u0102"
+    },
+		"full_report_id" :
+		{
+				"message" : "Raport complet"
+		},
+	"nortonrating_id":
+	{
+		"message" : "Evaluare Norton:"
+	},
+	"Malicious Download Detected":
+	{
+		"message" : "A fost detectat\u0103 o desc\u0103rcare r\u0103u inten\u0163ionat\u0103"
+	},
+	"Download Cancelled":
+	{
+		"message" : "Desc\u0103rcare anulat\u0103"
+	},
+	"Malicious Web Site Blocked":
+	{
+		"message" : "Site Web r\u0103u inten\u0163ionat blocat"
+	},
+	"Malicious Site Blocked!":
+	{
+		"message" : "Site r\u0103u inten\u0163ionat blocat!"
+	},
+	"You attempted to access:" :
+	{
+		"message" : "A\u0163i \u00eencercat s\u0103 accesa\u0163i:"
+	},
+	"This is a known malicious web site. It is recommended that you do NOT visit this site. The" :
+	{
+		"message" : "Se recomand\u0103 s\u0103"
+	},
+	"This web page is a known malicious web page." :
+	{
+		"message" : "Aceast\u0103 pagin\u0103 web este cunoscut\u0103 ca fiind r\u0103u-inten\u021bionat\u0103."
+	},
+	"This site is a known malicious web site." :
+	{
+		"message" : "Acesta este un site web r\u0103u inten\u0163ionat cunoscut."
+	},
+	"detailed report" :
+	{
+		"message" : "detaliat"
+	},
+	"explains the security risks on this site." :
+	{
+		"message" : "explic\u0103 riscurile de securitate pe acest site."
+	},
+	"For your protection, this web site has been blocked. Visit" :
+	{
+		"message" : "Pentru protec\u0163ia dvs., acest site web a fost blocat. Vizita\u0163i"
+	},
+	"Symantec" :
+	{
+		"message" : "Symantec"
+	},
+	"to learn more about phishing and internet security." :
+	{
+		"message" : "pentru a afla mai multe despre phishing \u015fi despre securitatea pe internet."
+	},
+	"Exit this site" :
+	{
+		"message" : "\u00cenchide\u0163i acest site"
+	},
+	"I want to view this Web site anyway" :
+	{
+		"message" : "Doresc s\u0103 accesez acest site web oricum"
+	},
+	"It is recommended that you" :
+	{
+		"message" : "Se recomand\u0103 s\u0103"
+	},
+	"DO NOT visit this Web site." :
+	{
+		"message" : "NU vizita\u021bi acest site web."
+	},
+	"Welcome to":
+	{
+		"message" : "Bun venit la "
+	},
+	"Norton"	:
+	{
+		"message" : "Norton"
+	},
+	"Thank you for choosing Norton. When a Chrome message appears at the top right of the screen, click" :
+	{
+		"message" : "V\u0103 mul\u021bumim c\u0103 a\u021bi ales Norton. C\u00e2nd apare un mesaj de Chrome \u00een partea de dreapta sus a ecranului, face\u021bi clic pe"
+	},
+	"Keep changes" :
+	{
+		"message" : "Men\u021binere modific\u0103ri"
+	},
+	"to maintain your {0} protection in Chrome." :
+	{
+		"message" : "pentru a men\u021bine protec\u021bia {0} \u00een Chrome."
+	},
+	"Norton Safe Search" :
+	{
+		"message" : "Norton Safe Search"
+	},
+	"Norton Home Page" :
+	{
+		"message" : "Pagina principal\u0103 Norton"
+	},
+	"Continue" :
+	{
+		"message" : "Continuare"
+	},
+	"Suspicious Website Blocked" : {
+		"message" : "Site web suspect blocat"
+	},
+	"For your protection, this web page has been blocked and submitted for review." :
+	{
+		"message" : "Pentru protec\u0163ia dvs., aceast\u0103 pagin\u0103 web a fost blocat\u0103 \u015fi trimis\u0103 spre examinare."
+	},
+	"It is highly recommended that you do NOT visit this page." :
+	{
+		"message" : "Se recomand\u0103 s\u0103 NU accesa\u021bi aceast\u0103 pagin\u0103."
+	},
+	"Visit" :
+	{
+		"message" : "Accesare"
+	},
+	"Continue to the site" :
+	{
+		"message" : "Continuare la site"
+	},
+	"View Full Report" :
+	{
+		"message" : "Vizualizare raport complet"
+	},
+	"BLOCKED BY" :
+	{
+		"message" : "BLOCAT DE"
+	},
+	"Search for a safer site" :
+	{
+		"message" : "C\u0103utare un site mai sigur"
+	},
+	"Fraudulent Web Page Blocked" :
+	{
+		"message" : "Pagin\u0103 web frauduloas\u0103 blocat\u0103"
+	},
+	"This web page is a known fraudulent web page.":
+	{
+		"message" : "Aceast\u0103 pagin\u0103 web este cunoscut\u0103 ca fiind frauduloas\u0103."
+	},
+	"Dangerous Web Page Blocked" :
+	{
+		"message" : "Pagin\u0103 web periculoas\u0103 blocat\u0103"
+	},
+	"This is a known dangerous web page." :
+	{
+		"message" : "Aceasta este o pagin\u0103 web cunoscut\u0103 ca fiind periculoas\u0103."
+	},
+	"Thank you for using {0}! Share usage and error data anonymously with Norton to help make our products even better." : {
+		"message" : "V\u0103 mul\u021bumim c\u0103 utiliza\u021bi {0}! Partaja\u021bi \u00een mod anonim datele de utilizare \u0219i eroare cu Norton \u0219i ajuta\u021bi-ne s\u0103 ne \u00eembun\u0103t\u0103\u021bim produsele."
+	},
+	"OK" :
+	{
+	    "message" : "OK"
+	},
+	"No, thanks" :
+	{
+	    "message" : "Nu, mul\u0163umesc"
+	},
+	"Learn More" :
+	{
+	    "message" : "Mai multe informa\u0163ii"
+	},
+	"Safe Web"	:
+	{
+			"message" : "Safe Web"
+	},
+	"Safe Search"	:
+	{
+			"message"	: "Safe Search"
+	},
+	"Home Page"	:
+	{
+			"message"	: "Pagin\u0103 principal\u0103"
+	},
+	"Settings"	:
+	{
+			"message" :	"Set\u0103ri"
+	},
+	"Share Data with Norton"	:
+	{
+			"message"	: "Partaja\u021bi date cu Norton"
+	},
+	"Share usage and error data anonymously with Norton and help us make our products even better"	:
+	{
+			"message"	: "Partaja\u021bi datele de utilizare \u0219i eroare \u00een mod anonim cu Norton \u0219i ajuta\u021bi-ne s\u0103 ne \u00eembun\u0103t\u0103\u021bim produsele"
+	},
+	"Privacy Policy"	:
+	{
+			"message"	: "Polit. de confiden\u0163ialitate"
+	},
+	"Scam Insight: Personal Information Risk" :
+	{
+		"message" : "Scam Insight: Risc privind informa\u0163iile personale"
+	},
+	"This site is safe, but…" :
+	{
+		"message" : "Acest site este sigur, dar\u2026"
+	},
+	"It asks for personal information and is not well established with the Norton Community. Use caution when entering any of your information on this site. " :
+	{
+		"message" : "Solicit\u0103 informa\u0163ii personale \u015fi nu este bine cotat \u00een Norton Community. Introduce\u0163i informa\u0163iile dvs. cu precau\u0163ie pe acest site. "
+	},
+	"Visit " :
+	{
+		"message" : "Accesare"
+	},
+	"Norton " :
+	{
+		"message" : "Norton"
+	},
+	"to learn more about personal information risk on Web sites." :
+	{
+		"message" : "pentru a afla mai multe despre riscurile informa\u0163iilor personale pe site-urile web."
+	},
+	"Age: " :
+	{
+		"message" : "V\u00e2rsta: "
+	},
+	"Very New" :
+	{
+		"message" : "Foarte nou"
+	},
+	"This website was published very recently." :
+	{
+		"message" : "Acest site web a fost publicat foarte recent."
+	},
+	"New" :
+	{
+		"message" : "Nou"
+	},
+	"This website has been available for a short time." :
+	{
+		"message" : "Acest site web a fost disponibil o perioad\u0103 foarte scurt\u0103."
+	},
+	"Prevalence: " :
+	{
+		"message" : "Frecven\u0163\u0103: "
+	},
+	"No Users" :
+	{
+		"message" : "Niciun utilizator"
+	},
+	"No Norton community members have used this site." :
+	{
+		"message" : "Niciun membru al comunit\u0103\u021bii Norton nu a utilizat acest site."
+	},
+	"Few Users" :
+	{
+		"message" : "Pu\u0163ini utilizatori"
+	},
+	"Very few Norton community members have used this site." :
+	{
+		"message" : "Foarte pu\u0163ini membri ai comunit\u0103\u021bii Norton au utilizat acest site."
+	},
+	"Continue to Site" :
+	{
+		"message" : "Continua\u0163i navigarea pe site"
+	},
+	"Exit Site" :
+	{
+		"message" : "P\u0103r\u0103si\u021bi acest site"
+	},
+	"If you think this website is categorized incorrectly, " :
+	{
+		"message" : "\u00cen cazul \u00een care considera\u021bi c\u0103 acest site web este clasificat gre\u0219it, "
+	},
+	"Report Issue." :
+	{
+		"message" : "Raporta\u021bi problema."
+	},
+	"Signed in as"		:
+	{
+		"message"		: "Autentificat ca"
+	},
+	"Sign out"			:
+	{
+		"message"		: "Deconectare"
+	},
+	"You have successfully logged out of your Norton Account"	: {
+		"message"	:	"V-a\u021bi deconectat cu succes din contul dvs. Norton."
+	},
+	"Sorry, something went wrong. Please try again." :	{
+		"message"	:	"Ne pare r\u0103u, dar ceva nu a func\u021bionat corect. \u00cencerca\u0163i din nou."
+	},
+	"Link Guard": {
+		"message": "Scut pentru link-uri"
+	},
+	"Identify unsafe links in Webmail, Facebook, and Twitter": {
+		"message": "Identific\u0103 link-urile nesigure din Webmail, Facebook \u0219i Twitter"
+	},
+	"Banking Protection": {
+  		"message": "Protec\u021bie bancar\u0103"
+	},
+	"Banking Protection can help protect your sensitive online transactions.": {
+  		"message": "Banking Protection v\u0103 poate ajuta s\u0103 v\u0103 proteja\u021bi tranzac\u0163iile online."
+	},
+	"Select your preferences below for viewing banking websites in Isolation Mode:": {
+  		"message": "Selecta\u021bi-v\u0103 mai jos preferin\u021bele pentru vizualizarea site-urilor bancare \u00een Modul izolare:"
+	},
+	"Websites": {
+  		"message": "Site-uri web"
+	},
+	"Isolation Mode On": {
+  		"message": "Modul de izolare activat"
+	},
+	"Isolation Mode Off": {
+  		"message": "Modul de izolare dezactivat"
+	},
+	"Ask Me": {
+  		"message": "Se \u00eentreab\u0103"
+	},
+	"Norton Secure Search": {
+		"message": "Norton Secure Search"
+	}
+}

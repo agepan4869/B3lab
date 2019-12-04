@@ -1,0 +1,415 @@
+
+.product-header {
+    height: 56px;
+    background-color: #ffffff;
+    box-shadow: 0 3px 4px 0 rgba(0, 0, 0, 0.17);
+    display: flex;
+    flex-direction: row;
+}
+
+.norton-image {
+    background-image: url("../images/logo-norton-header.svg");
+    width: 97.5px;
+    height: 37.8px;
+    margin-top: 9px ;
+    margin-left: 221px;
+    position: absolute;
+}
+
+.header-divider {
+    width: 1px;
+    height: 36px;
+    background-color: #979797;
+    border: solid 0px #d8d8d8;
+    margin-left: 334px;
+    margin-top: 10px;
+    position: absolute;
+}
+
+.online-banking-protection .banking-table{
+  width: 993px;
+}
+
+.product-header-title {
+    height: 27px;
+    font-family: Symantec Sans, Segoe UI, Helvetica Neue, Lucida Sans Unicode, sans-serif;
+    font-size: 24px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #333333;
+    margin-left: 352px;
+    margin-top: 14px;
+    position: absolute;
+}
+
+.header-email {
+    width: 109px;
+    height: 16px;
+    font-family: Segoe UI, Symantec Sans, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: right;
+    color: #00547d;
+    margin-left: 1106px;
+    margin-top: 20px;
+    cursor: pointer;
+    position: absolute;
+}
+
+.settings-container {
+    margin-left: 224px;
+    margin-top: 27px;
+}
+
+.settings-text {
+    width: 650px;
+    height: 36px;
+    font-family: Symantec Sans, Segoe UI, Helvetica Neue, Lucida Sans Unicode, sans-serif;
+    font-size: 32px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #333333;
+}
+
+.signed-in-detail {
+    display: flex;
+    flex-direction: row;
+}
+
+.logged-in-email {
+    height: 19px;
+    font-family: Segoe UI, Symantec Sans, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #333333;
+    margin-top: 30px;
+}
+
+.signed-in-as {
+    font-weight: bold;
+    margin-left: 0;
+}
+
+.settings-email {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.vertical-divider {
+    color: #808080;
+}
+
+.sign-out {
+    color: #0089c6;
+    cursor: pointer;
+}
+
+.gdpr-container {
+    margin-top: 38px;
+}
+
+.share-data-title {
+    width: 992px;
+    height: 24px;
+    font-family: Segoe UI, Symantec Sans, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #333333;
+}
+
+.horizontal-divider {
+    width: 992px;
+    height: 1px;
+    background-color: #dadada;
+    margin-top: 9px;
+}
+
+.share-data-content {
+    display: flex;
+    flex-direction: row;
+}
+
+.gdpr-checkbox {
+    width: 13px;
+    height: 13px;
+    background-color: #ffffff;
+    border: solid 1px #c3c3c3;
+    margin-top: 20px;
+}
+
+.share-data-text {
+    height: 19px;
+    font-family: Segoe UI, Symantec Sans, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #333333;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.online-banking-protection .banking-data {
+    height: 19px;
+    font-family: Segoe UI, Symantec Sans, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #333333;
+    margin-top: 20px;
+    margin-bottom: 33px;
+}
+
+.online-banking-protection .table-head {
+    font-family: Segoe UI, Symantec Sans, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2;
+    letter-spacing: normal;
+    color: #333333;
+    height: 20px;
+    background-color: #f8f8f8;
+}
+
+/** Since Reset.css style is not used, reseting all the browser specific width */
+.banking-table * {
+    padding: 0;
+    margin: 0;
+}
+
+.banking-table {
+    display: flex;
+    flex-direction: column;
+    border: solid 1px #dadada;
+    border-collapse: collapse;
+}
+
+.banking-table tr {
+    display: flex;
+    flex-wrap: nowrap;
+    border-bottom: 1px solid #dadada;
+    border-collapse: collapse;
+}
+
+.banking-table tbody tr:last-child {
+    border-bottom: 0;
+}
+
+.banking-table thead th {
+    font-weight: normal;
+    text-transform: capitalize;
+}
+
+.banking-table tbody {
+    display: block;
+    width: 100%;
+    overflow-y: scroll;
+    max-height: 210px;
+}
+
+.banking-table tr {
+    display: flex;
+    padding: 7px 13px;
+    height: 20px;
+}
+
+.banking-table tr td, .banking-table tr th {
+    flex:3;
+    text-align: center;
+}
+
+.banking-table .mode {
+    flex: 2;
+}
+
+.banking-table .bank-name {
+    font-family: Segoe UI, Symantec Sans, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.14;
+    padding-left: 15px;
+    width: 30%;
+    text-align: left;
+}
+
+body[dir="rtl"] .banking-table .bank-name {
+    text-align: right;
+}
+
+.banking-table .delete {
+    text-align: right;
+}
+
+body[dir="rtl"] .banking-table .delete {
+    text-align: left;
+}
+
+.banking-table .delete-icons{
+    background-image: url('../images/delete-icon.png');
+    background-repeat: no-repeat;
+    cursor: pointer;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    padding-right: 5px;
+}
+
+.online-banking-protection .radio-button {
+    padding: 5px;
+    vertical-align: middle;
+    display: inline-block;
+    text-align: center;
+}
+
+.radio-button label {
+    position: relative;
+    cursor: pointer;
+}
+
+.radio-button label .radio-input {
+    visibility: hidden;
+}
+
+.radio-button label .radio-input + span.radiobutton-style:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 12px;
+    height: 12px;
+    border: 1px solid #ddd;
+    border-radius: 100%;
+    background: #fff;
+}
+
+.radio-button label .radio-input:checked + span.radiobutton-style:after {
+    content: '';
+    width: 8px;
+    height: 8px;
+    background: #01adef;
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    border-radius: 100%;
+}
+
+.privacy-container {
+    height: 19px;
+    font-family: Segoe UI, Symantec Sans, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #0089c6;
+    margin-top: 90px;
+    cursor: pointer;
+}
+
+.link-guard-title{
+    margin-top: 41px
+}
+
+.online-banking-protection .banking-protection-title{
+    margin-top: 41px
+}
+
+.popup {
+    width: 176px;
+    height: 57px;
+    object-fit: contain;
+    position: absolute;
+    margin-left: 1073px;
+    top: 35px;
+}
+
+.sign-out-popup {
+    width: 144px;
+    height: 14px;
+    font-family: Helvetica Neue, Helvetica, Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #333333;
+    margin-left: 16px;
+    position: absolute;
+    margin-top: -27px;
+    cursor: pointer;
+}
+
+.learn-more-banking-protection{
+    height: 19px;
+    font-family: Segoe UI, Symantec Sans, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #0089c6;
+    cursor: pointer;
+}
+
+body[dir="rtl"] .norton-image {
+    margin-right: 221px;
+}
+
+body[dir="rtl"] .header-divider {
+    margin-right: 334px;
+}
+
+body[dir="rtl"] .product-header-title {
+    margin-right: 352px;
+}
+
+body[dir="rtl"] .header-email {
+    margin-right: 1106px;
+}
+
+body[dir="rtl"] .settings-container {
+    margin-right: 224px;
+}
+
+body[dir="rtl"] .share-data-text {
+    margin-right: 10px;
+}
+
+body[dir="rtl"] .popup {
+    margin-right: 1073px;
+}
+
+body[dir="rtl"] .sign-out-popup {
+    margin-right: 16px;
+}

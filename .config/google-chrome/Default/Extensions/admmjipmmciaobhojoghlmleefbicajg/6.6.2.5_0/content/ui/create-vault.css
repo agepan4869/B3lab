@@ -1,0 +1,343 @@
+/*
+ Symantec copyright header start
+
+ Copyright © 2016, Symantec Corporation, All rights reserved.
+
+ THIS SOFTWARE CONTAINS CONFIDENTIAL INFORMATION AND TRADE SECRETS OF SYMANTEC
+ CORPORATION.  USE, DISCLOSURE OR REPRODUCTION IS PROHIBITED WITHOUT THE PRIOR
+ EXPRESS WRITTEN PERMISSION OF SYMANTEC CORPORATION.
+
+ The Licensed Software and Documentation are deemed to be commercial computer
+ software as defined in FAR 12.212 and subject to restricted rights as defined
+ in FAR Section 52.227-19 "Commercial Computer Software - Restricted Rights"
+ and DFARS 227.7202, “Rights in Commercial Computer Software or Commercial
+ Computer Software Documentation”, as applicable, and any successor regulations.
+ Any use, modification, reproduction release, performance, display or disclosure
+ of the Licensed Software and Documentation by the U.S. Government shall be
+ solely in accordance with the terms of this Agreement.
+
+ Symantec copyright header stop
+
+*/
+
+.body {
+  padding-left: 150px;
+  font-family: "Segoe UI", "Helvetica Neue", "HelveticaNeue", Helvetica, "Lucida Sans Unicode", Arial, Sans-serif;
+}
+
+#container {
+  overflow: hidden;
+}
+
+.header {
+	height: 56px;
+	background-color: #ffffff;
+	box-shadow: 0 3px 4px 0 rgba(0, 0, 0, 0.17);
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  width: 400px;
+  height: 27px;
+  line-height: 27px;
+  font-family: "Segoe UI", "Helvetica Neue", "HelveticaNeue", Helvetica, "Lucida Sans Unicode", Arial, Sans-serif;
+  font-size: 24px;
+  color: #333333;
+  padding-left: 20px;
+  margin-left: 20px;
+  border-left: solid 1px #979797;
+}
+
+input:focus{
+    outline: none;
+}
+
+.norton-image {
+  width: 97.5px;
+  height: 37.8px;
+  background-image: url(../images/logo-norton-header.svg);
+  background-repeat:   no-repeat;
+  background-position: center center;
+}
+
+.na-account {
+  width: 100%;
+  height: 16px;
+  line-height: 16px;
+  padding-top: 12px;
+  font-size: 12px;
+  text-align: right;
+  color: #0089c6;
+  cursor: pointer;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.vault-create-img {
+  width: 100%;
+  height:358px;
+  background-image: url(../images/img-locked-vault.png);
+  background-size:     358px 358px;
+  background-repeat:   no-repeat;
+  background-position: center center;
+  position: absolute;
+  top: 0;
+  z-index: -100;
+}
+
+.content-header {
+  min-width: 650px;
+  height: 41px;
+  line-height: 41px;
+  margin: 0 auto;
+  font-family: "Symantec Sans", "Helvetica Neue", "HelveticaNeue", Helvetica, "Segoe UI", "Lucida Sans Unicode", Arial, Sans-serif;
+  font-size: 36px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #333333;
+  padding-top: 75px;
+  padding-bottom: 30px;
+}
+
+.content-description {
+  width: 650px;
+  font-family: "Helvetica Neue", "HelveticaNeue", Helvetica, "Segoe UI", "Lucida Sans Unicode", Arial, Sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  margin: 0 auto;
+  color: #262626;
+  padding-bottom: 36px;
+}
+
+.content-inline-bold {
+  font-weight: bold;
+}
+
+.block {
+  width: 100%;
+  height: 60px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /*padding-bottom: 25px;*/
+  flex-flow: column;
+}
+
+.pwd-input-block {
+  /*margin-top: 35px;*/
+  height: 80px;
+}
+
+.button {
+  width: 300px;
+	height: 44px;
+	background-color: #ffe283;
+  font-family: "Helvetica Neue", "Segoe UI", "HelveticaNeue", Helvetica, "Lucida Sans Unicode", Arial, Sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #333333;
+  border: none;
+  cursor: pointer;
+}
+
+.back-button {
+  background-color: white;
+  color: #0089c6;
+  cursor: pointer;
+  border: none;
+}
+
+.button:disabled {
+  background-color: #f8f8f8;
+  color:#a0a0a0;
+}
+
+.end-content {
+  width: 615px;
+  height: 20px;
+  border-bottom: 1px solid #cacaca;
+}
+
+.footer-note {
+  width: 539px;
+	font-family: "Segoe UI", "Helvetica Neue", "HelveticaNeue", Helvetica, "Lucida Sans Unicode", Arial, Sans-serif;
+  font-size: 14px;
+	text-align: center;
+	color: #808080;
+}
+
+.spinner-outer-div {
+  display: table;
+  margin-bottom: 45px;
+}
+
+.spinner-inner-div {
+  vertical-align: middle;
+  display: table-cell;
+  padding-left: 10px;
+}
+
+.spinner-image {
+  width: 45px;
+  height: 50px;
+  padding-top:30px;
+  margin-left: -55px;
+  cursor: pointer;
+  -webkit-animation: spin 1s linear infinite;
+  -moz-animation: spin 1s linear infinite;
+  animation: spin 1s linear infinite;
+}
+
+.creating-vault-text {
+  height: 16px;
+  font-family: Segoe UI, Helvetica Neue, Lucida Sans Unicode, Arial, Sans-serif ;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #808080;
+}
+
+.footer {
+  padding-bottom: 14px;
+}
+
+.create-vault-block {
+  padding-top: 60px;
+}
+
+.nosignout {
+  cursor: default;
+}
+
+.login-create-content
+{
+  width: 590px;
+}
+
+.show-element {
+  display:block;
+}
+
+.hide-element {
+  display: none;
+}
+
+.text-area{
+  width: 650px;
+  height: 120px;
+  background-color: #f8f8f8 ;
+  border: solid 1px #a0a0a0 ;
+  position:relative;
+  margin-left:395px;
+  /*top: 50px;*/
+  font-family: "Segoe UI", "Helvetica Neue", "HelveticaNeue", Helvetica, "Lucida Sans Unicode", Arial, Sans-serif;
+  font-size: 18px;
+  letter-spacing: normal;
+  font-stretch: normal;
+  color: #333333 ;
+  text-align: top;
+  resize: none;
+  padding-top:20px;
+  padding-left: 20px;
+  margin: auto;
+  display: block;
+}
+
+.text-area-error {
+  font-family: "Segoe UI", "Helvetica Neue", "HelveticaNeue", Helvetica, "Lucida Sans Unicode", Arial, Sans-serif;;
+  width: 650px;
+  height: 15px;
+  font-size:  12px;
+  text-align: center;
+  color: #ffffff ;
+  background-color: #c81a00 ;
+  position:relative;
+  /*margin-left:575px;
+  top: 50px;*/
+  padding-top: 1px;
+  padding-bottom: 4px;
+  margin-left: -650px;
+  top: 119px;
+}
+
+.text-area-column {
+  display: flex;
+  /*flex-flow: column;*/
+}
+
+
+.password-hint-textarea {
+  padding-bottom: 40px;
+}
+
+
+.vault-validate-right-img {
+  background-image: url(../images/img_right.png);
+  background-size:     16px 16px;
+  background-repeat:   no-repeat;
+  background-position: center center;
+  width: 16px;
+  height:16px;
+
+}
+
+.vault-validate-wrong-img {
+  background-image: url(../images/img_wrong.png);
+  background-size:     16px 16px;
+  background-repeat:   no-repeat;
+  background-position: center center;
+  width: 16px;
+  height: 16px;
+
+}
+table{
+    /*border: 1px solid black;*/
+    margin: auto;
+}
+
+/* RTL styling begins */
+
+body[dir="rtl"] .body {
+  padding-left: 0;
+  padding-right: 150px;
+}
+
+body[dir="rtl"] .title {
+  padding-left: 0;
+  margin-left: 0;
+  border-left: none;
+  padding-right: 20px;
+  margin-right: 20px;
+  border-right: solid 1px #979797;
+}
+
+body[dir="rtl"] .text-area-error {
+  margin-left: 0;
+  margin-right: -650px;
+}
+
+body[dir="rtl"] .text-area {
+  padding-left: 0;
+  padding-right: 20px;
+}
+/* RTL styling ends */

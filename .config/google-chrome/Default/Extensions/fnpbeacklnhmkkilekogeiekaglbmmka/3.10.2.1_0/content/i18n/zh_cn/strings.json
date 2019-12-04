@@ -1,0 +1,430 @@
+{
+	"Caution":
+	{
+		"message": "\u6ce8\u610f"
+	},
+
+	"Untested":
+	{
+		"message": "\u672a\u6d4b\u8bd5"
+	},
+
+	"Warning":
+	{
+		"message": "\u8b66\u544a"
+	},
+	"Norton Secured":
+	{
+		"message": "\u5b89\u5168"
+	},
+	"Not Licensed":
+	{
+		"message": "\u672a\u6388\u6743"
+	},
+	"Safe":
+	{
+		"message": "\u5b89\u5168"
+	},
+	"Safe Web is off":
+	{
+		"message": "\u5b89\u5168"
+	},
+	"Page not analyzed":
+	{
+		"message": "\u672a\u5206\u6790\u9875\u9762"
+	},
+	"Search the Web Safely":
+	{
+		"message": "\u5b89\u5168"
+	},
+	"Norton Rating":
+	{
+		"message": "Norton \u8bc4\u7ea7"
+	},
+	"Computer Threats":
+	{
+		"message": "\u7535\u8111\u5a01\u80c1"
+	},
+	"Identity Threats":
+	{
+		"message": "\u8eab\u4efd\u5a01\u80c1"
+	},
+	"Annoyance Threats":
+	{
+		"message": "\u9a9a\u6270\u5a01\u80c1"
+	},
+	"Total Threats":
+	{
+		"message": "\u5a01\u80c1\u603b\u6570"
+	},
+	"Full Safe Web report":
+	{
+		"message": "\u5b8c\u6574\u7684 Safe Web \u62a5\u544a"
+	},
+	"Report this site":
+	{
+		"message": "\u62a5\u544a\u6b64\u7ad9\u70b9"
+	},
+	"Norton Safe Web":
+	{
+		"message": "Norton Safe Web"
+	},
+	"Browser Settings":
+	{
+		"message": "\u6d4f\u89c8\u5668\u8bbe\u7f6e"
+	},
+	"Unsafe to Shop":
+	{
+		"message" : "\u4e0d\u5b89\u5168"
+	},
+    "total_threats_id":
+    {
+        "message" : "\u5a01\u80c1: "
+    },
+		"untested_text":
+		{
+			"message" : "\u6b64\u7ad9\u70b9\u5c1a\u672a\u6d4b\u8bd5"
+		},
+    "safe_status_id":
+    {
+        "message" : "\u5b89\u5168"
+    },
+    "secure_status_id":
+    {
+        "message" : "\u5b89\u5168"
+    },
+    "caution_status_id":
+    {
+        "message" : "\u6ce8\u610f"
+    },
+    "untested_status_id":
+    {
+        "message" : "\u672a\u6d4b\u8bd5"
+    },
+    "unsafe_status_id":
+    {
+        "message" : "\u4e0d\u5b89\u5168"
+    },
+		"full_report_id" :
+		{
+				"message" : "\u5b8c\u6574\u62a5\u544a"
+		},
+	"nortonrating_id":
+	{
+		"message" : "Norton \u8bc4\u7ea7:"
+	},
+	"Malicious Download Detected":
+	{
+		"message" : "\u68c0\u6d4b\u5230\u6076\u610f\u4e0b\u8f7d"
+	},
+	"Download Cancelled":
+	{
+		"message" : "\u5df2\u53d6\u6d88\u4e0b\u8f7d"
+	},
+	"Malicious Web Site Blocked":
+	{
+		"message" : "\u5df2\u963b\u6b62\u6076\u610f\u7f51\u7ad9"
+	},
+	"Malicious Site Blocked!":
+	{
+		"message" : "\u5df2\u963b\u6b62\u6076\u610f\u7ad9\u70b9!"
+	},
+	"You attempted to access:" :
+	{
+		"message" : "\u60a8\u5df2\u5c1d\u8bd5\u8bbf\u95ee:"
+	},
+	"This is a known malicious web site. It is recommended that you do NOT visit this site. The" :
+	{
+		"message" : "\u5efa\u8bae\u60a8"
+	},
+	"This web page is a known malicious web page." :
+	{
+		"message" : "\u8be5\u7f51\u9875\u662f\u5df2\u77e5\u7684\u6076\u610f\u7f51\u9875\u3002"
+	},
+	"This site is a known malicious web site." :
+	{
+		"message" : "\u6b64\u7ad9\u70b9\u662f\u5df2\u77e5\u7684\u6076\u610f\u7f51\u7ad9\u3002"
+	},
+	"detailed report" :
+	{
+		"message" : "\u8be6\u7ec6\u62a5\u544a"
+	},
+	"explains the security risks on this site." :
+	{
+		"message" : "\u89e3\u91ca\u4e86\u6b64\u7ad9\u70b9\u4e0a\u7684\u5b89\u5168\u98ce\u9669\u3002"
+	},
+	"For your protection, this web site has been blocked. Visit" :
+	{
+		"message" : "\u4e3a\u4fdd\u62a4\u60a8\u7684\u7535\u8111\uff0c\u5df2\u963b\u6b62\u4e86\u5bf9\u6b64\u7f51\u7ad9\u7684\u8bbf\u95ee\u3002\u8bbf\u95ee"
+	},
+	"Symantec" :
+	{
+		"message" : "Symantec"
+	},
+	"to learn more about phishing and internet security." :
+	{
+		"message" : "\u53ef\u4e86\u89e3\u6709\u5173\u7f51\u9875\u4eff\u5192\u548c Internet \u5b89\u5168\u6027\u7684\u8be6\u7ec6\u4fe1\u606f\u3002"
+	},
+	"Exit this site" :
+	{
+		"message" : "\u9000\u51fa\u8be5\u7ad9\u70b9"
+	},
+	"I want to view this Web site anyway" :
+	{
+		"message" : "\u6211\u60f3\u8981\u67e5\u770b\u6b64\u7f51\u7ad9"
+	},
+	"It is recommended that you" :
+	{
+		"message" : "\u5efa\u8bae\u60a8"
+	},
+	"DO NOT visit this Web site." :
+	{
+		"message" : "\u8bf7\u52ff\u8bbf\u95ee\u6b64\u7f51\u7ad9\u3002"
+	},
+	"Welcome to":
+	{
+		"message" : "\u6b22\u8fce\u4f7f\u7528 "
+	},
+	"Norton"	:
+	{
+		"message" : "\u8bfa\u987f"
+	},
+	"Thank you for choosing Norton. When a Chrome message appears at the top right of the screen, click" :
+	{
+		"message" : "\u611f\u8c22\u60a8\u9009\u62e9\u8bfa\u987f\u3002\u5f53\u5c4f\u5e55\u53f3\u4e0a\u90e8\u5206\u51fa\u73b0 Chrome \u6d88\u606f\u65f6\uff0c\u8bf7\u5355\u51fb"
+	},
+	"Keep changes" :
+	{
+		"message" : "\u201c\u4fdd\u7559\u66f4\u6539\u201d"
+	},
+	"to maintain your {0} protection in Chrome." :
+	{
+		"message" : "\u4ee5\u5728 Chrome \u4e2d\u4fdd\u6301 {0} \u9632\u62a4\u3002"
+	},
+	"Norton Safe Search" :
+	{
+		"message" : "Norton Safe Search"
+	},
+	"Norton Home Page" :
+	{
+		"message" : "Norton \u4e3b\u9875"
+	},
+	"Continue" :
+	{
+		"message" : "\u7ee7\u7eed"
+	},
+	"Suspicious Website Blocked" : {
+		"message" : "\u5df2\u963b\u6b62\u53ef\u7591\u7f51\u7ad9"
+	},
+	"For your protection, this web page has been blocked and submitted for review." :
+	{
+		"message" : "\u4e3a\u786e\u4fdd\u5b89\u5168\uff0c\u6b64\u7f51\u9875\u5df2\u88ab\u963b\u6b62\u5e76\u63d0\u4ea4\u4ee5\u4f9b\u5ba1\u6838\u3002"
+	},
+	"It is highly recommended that you do NOT visit this page." :
+	{
+		"message" : "\u5f3a\u70c8\u5efa\u8bae\u60a8\u4e0d\u8981\u8bbf\u95ee\u6b64\u9875\u9762\u3002"
+	},
+	"Visit" :
+	{
+		"message" : "\u8bbf\u95ee"
+	},
+	"Continue to the site" :
+	{
+		"message" : "\u7ee7\u7eed\u8bbf\u95ee\u6b64\u7ad9\u70b9"
+	},
+	"View Full Report" :
+	{
+		"message" : "\u67e5\u770b\u5b8c\u6574\u62a5\u544a"
+	},
+	"BLOCKED BY" :
+	{
+		"message" : "\u963b\u6b62\u8005"
+	},
+	"Search for a safer site" :
+	{
+		"message" : "\u641c\u7d22\u66f4\u5b89\u5168\u7684\u7ad9\u70b9"
+	},
+	"Fraudulent Web Page Blocked" :
+	{
+		"message" : "\u5df2\u963b\u6b62\u6b3a\u8bc8\u6027\u7f51\u9875"
+	},
+	"This web page is a known fraudulent web page.":
+	{
+		"message" : "\u8be5\u7f51\u9875\u662f\u4e00\u4e2a\u5df2\u77e5\u7684\u6b3a\u8bc8\u6027\u7f51\u9875\u3002"
+	},
+	"Dangerous Web Page Blocked" :
+	{
+		"message" : "\u5df2\u963b\u6b62\u5371\u9669\u7f51\u9875"
+	},
+	"This is a known dangerous web page." :
+	{
+		"message" : "\u8fd9\u662f\u4e00\u4e2a\u5df2\u77e5\u7684\u5371\u9669\u7f51\u9875\u3002"
+	},
+	"Thank you for using {0}! Share usage and error data anonymously with Norton to help make our products even better." : {
+		"message" : "\u611f\u8c22\u60a8\u4f7f\u7528 {0}! \u4ee5\u533f\u540d\u5f62\u5f0f\u4e0e Norton \u5206\u4eab\u4f7f\u7528\u60c5\u51b5\u548c\u9519\u8bef\u6570\u636e\uff0c\u5e2e\u52a9\u6211\u4eec\u6539\u8fdb\u6211\u4eec\u7684\u4ea7\u54c1\u3002"
+	},
+	"OK" :
+	{
+	    "message" : "\u786e\u5b9a"
+	},
+	"No, thanks" :
+	{
+	    "message" : "\u4e0d\uff0c\u8c22\u8c22"
+	},
+	"Learn More" :
+	{
+	    "message" : "\u4e86\u89e3\u66f4\u591a\u4fe1\u606f"
+	},
+	"Safe Web"	:
+	{
+			"message" : "Safe Web"
+	},
+	"Safe Search"	:
+	{
+			"message"	: "\u5b89\u5168\u641c\u7d22"
+	},
+	"Home Page"	:
+	{
+			"message"	: "\u4e3b\u9875"
+	},
+	"Settings"	:
+	{
+			"message" :	"\u8bbe\u7f6e"
+	},
+	"Share Data with Norton"	:
+	{
+			"message"	: "\u4e0e Norton \u5171\u4eab\u6570\u636e"
+	},
+	"Share usage and error data anonymously with Norton and help us make our products even better"	:
+	{
+			"message"	: "\u4ee5\u533f\u540d\u65b9\u5f0f\u4e0e Norton \u5171\u4eab\u4f7f\u7528\u60c5\u51b5\u548c\u9519\u8bef\u6570\u636e\uff0c\u5e76\u4e14\u5e2e\u52a9\u6211\u4eec\u6539\u8fdb\u4ea7\u54c1"
+	},
+	"Privacy Policy"	:
+	{
+			"message"	: "\u9690\u79c1\u7b56\u7565"
+	},
+	"Scam Insight: Personal Information Risk" :
+	{
+		"message" : "\u6b3a\u8bc8\u667a\u80fd\u5206\u6790: \u4e2a\u4eba\u4fe1\u606f\u98ce\u9669"
+	},
+	"This site is safe, but…" :
+	{
+		"message" : "\u6b64\u7ad9\u70b9\u662f\u5b89\u5168\u7684\uff0c\u4f46\u662f\u2026"
+	},
+	"It asks for personal information and is not well established with the Norton Community. Use caution when entering any of your information on this site. " :
+	{
+		"message" : "\u5b83\u8981\u6c42\u63d0\u4f9b\u4e2a\u4eba\u4fe1\u606f\uff0c\u5e76\u4e14\u5728 Norton \u793e\u533a\u4e2d\u7684\u58f0\u8a89\u4e0d\u4f73\u3002\u5728\u6b64\u7ad9\u70b9\u8f93\u5165\u4efb\u4f55\u4fe1\u606f\u65f6\u8bf7\u5c0f\u5fc3\u8c28\u614e\u3002 "
+	},
+	"Visit " :
+	{
+		"message" : "\u8bbf\u95ee"
+	},
+	"Norton " :
+	{
+		"message" : "\u8bfa\u987f"
+	},
+	"to learn more about personal information risk on Web sites." :
+	{
+		"message" : "\u4ee5\u4e86\u89e3\u6709\u5173\u7f51\u7ad9\u4e0a\u4e2a\u4eba\u4fe1\u606f\u98ce\u9669\u7684\u8be6\u7ec6\u4fe1\u606f\u3002"
+	},
+	"Age: " :
+	{
+		"message" : "\u5b58\u5728\u65f6\u95f4: "
+	},
+	"Very New" :
+	{
+		"message" : "\u6781\u65b0\u7684\u6587\u4ef6"
+	},
+	"This website was published very recently." :
+	{
+		"message" : "\u6b64\u7f51\u7ad9\u662f\u6700\u8fd1\u53d1\u5e03\u7684\u3002"
+	},
+	"New" :
+	{
+		"message" : "\u65b0\u589e"
+	},
+	"This website has been available for a short time." :
+	{
+		"message" : "\u6b64\u7f51\u7ad9\u5efa\u7acb\u7684\u65f6\u95f4\u975e\u5e38\u77ed\u3002"
+	},
+	"Prevalence: " :
+	{
+		"message" : "\u6d41\u884c\u7a0b\u5ea6: "
+	},
+	"No Users" :
+	{
+		"message" : "\u6ca1\u6709\u7528\u6237"
+	},
+	"No Norton community members have used this site." :
+	{
+		"message" : "\u6ca1\u6709 Norton \u793e\u533a\u6210\u5458\u4f7f\u7528\u8fc7\u6b64\u7ad9\u70b9\u3002"
+	},
+	"Few Users" :
+	{
+		"message" : "\u5c11\u91cf\u7528\u6237\u4fe1\u4efb\u7684\u6587\u4ef6"
+	},
+	"Very few Norton community members have used this site." :
+	{
+		"message" : "\u6781\u5c11 Norton \u793e\u533a\u6210\u5458\u4f7f\u7528\u8fc7\u6b64\u7ad9\u70b9\u3002"
+	},
+	"Continue to Site" :
+	{
+		"message" : "\u7ee7\u7eed\u8bbf\u95ee\u7ad9\u70b9"
+	},
+	"Exit Site" :
+	{
+		"message" : "\u9000\u51fa\u7ad9\u70b9"
+	},
+	"If you think this website is categorized incorrectly, " :
+	{
+		"message" : "\u5982\u679c\u60a8\u8ba4\u4e3a\u6b64\u7f51\u7ad9\u7684\u5206\u7c7b\u4e0d\u6b63\u786e\uff0c "
+	},
+	"Report Issue." :
+	{
+		"message" : "\u62a5\u544a\u95ee\u9898\u3002"
+	},
+	"Signed in as"		:
+	{
+		"message"		: "\u767b\u5f55\u8eab\u4efd"
+	},
+	"Sign out"			:
+	{
+		"message"		: "\u6ce8\u9500"
+	},
+	"You have successfully logged out of your Norton Account"	: {
+		"message"	:	"\u60a8\u5df2\u6210\u529f\u6ce8\u9500 Norton \u5e10\u6237"
+	},
+	"Sorry, something went wrong. Please try again." :	{
+		"message"	:	"\u62b1\u6b49\uff0c\u51fa\u9519\u4e86\u3002\u8bf7\u91cd\u8bd5\u3002"
+	},
+	"Link Guard": {
+		"message": "\u94fe\u63a5\u9632\u62a4"
+	},
+	"Identify unsafe links in Webmail, Facebook, and Twitter": {
+		"message": "\u8bc6\u522b Webmail\u3001Facebook \u548c Twitter \u4e2d\u7684\u4e0d\u5b89\u5168\u94fe\u63a5"
+	},
+	"Banking Protection": {
+  		"message": "\u94f6\u884c\u4fdd\u62a4"
+	},
+	"Banking Protection can help protect your sensitive online transactions.": {
+  		"message": "\u94f6\u884c\u4fdd\u62a4\u6709\u52a9\u4e8e\u4fdd\u62a4\u654f\u611f\u7684\u5728\u7ebf\u4ea4\u6613\u3002"
+	},
+	"Select your preferences below for viewing banking websites in Isolation Mode:": {
+  		"message": "\u5728\u4e0b\u9762\u9009\u62e9\u6709\u5173\u4ee5\u9694\u79bb\u6a21\u5f0f\u67e5\u770b\u94f6\u884c\u7f51\u7ad9\u7684\u9996\u9009\u9879:"
+	},
+	"Websites": {
+  		"message": "\u7f51\u7ad9"
+	},
+	"Isolation Mode On": {
+  		"message": "\u5f00\u542f\u9694\u79bb\u6a21\u5f0f"
+	},
+	"Isolation Mode Off": {
+  		"message": "\u5173\u95ed\u9694\u79bb\u6a21\u5f0f"
+	},
+	"Ask Me": {
+  		"message": "\u8be2\u95ee\u6211"
+	},
+	"Norton Secure Search": {
+		"message": "Norton Secure Search"
+	}
+}

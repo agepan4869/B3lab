@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///tmp/mozilla_agepan0/google-chrome-stable_current_amd64.deb" added="2019-11-14T02:59:46Z" modified="2019-11-14T02:59:46Z" visited="2019-11-14T02:59:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2019-11-14T02:59:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/agepan/Documents/MIT/Seminar/text/b3lab-python.pdf" added="2019-11-14T05:10:50Z" modified="2019-12-03T01:50:30Z" visited="2019-11-14T05:10:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-11-14T05:10:50Z" count="1"/>
+          <bookmark:application name="ドキュメントビューアー" exec="&apos;evince %u&apos;" modified="2019-12-03T01:50:30Z" count="25"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2019-11-14T05:36:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/agepan/Documents/MIT/Seminar/text/Neurocomputing.pdf" added="2019-11-14T05:12:00Z" modified="2019-11-18T12:52:22Z" visited="2019-11-14T05:12:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-11-14T05:12:00Z" count="1"/>
+          <bookmark:application name="ドキュメントビューアー" exec="&apos;evince %u&apos;" modified="2019-11-18T12:52:22Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/agepan/deep-learning-from-scratch" added="2019-11-14T05:31:00Z" modified="2019-11-15T06:12:47Z" visited="2019-11-14T05:31:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2019-11-15T06:12:47Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/agepan/Documents/MIT/Seminar/test75_iris.dat" added="2019-11-15T05:57:58Z" modified="2019-11-15T05:57:58Z" visited="2019-11-15T05:57:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-11-15T05:57:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/agepan/Documents/MIT/Seminar/Traning75_iris.dat" added="2019-11-15T05:58:38Z" modified="2019-11-21T16:06:53Z" visited="2019-11-15T05:58:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-11-15T05:58:38Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-11-21T16:06:53Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/agepan/Documents/MIT/Seminar/iris_names_JP.txt" added="2019-11-15T05:58:51Z" modified="2019-11-22T03:37:51Z" visited="2019-11-15T05:58:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-11-15T05:58:51Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-11-22T03:37:51Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/agepan/Documents/MIT/Seminar" added="2019-11-15T06:12:00Z" modified="2019-12-04T08:39:55Z" visited="2019-11-15T06:12:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2019-12-04T08:39:55Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/agepan/Pictures/Screenshot%20from%202019-11-15%2016-31-14.png" added="2019-11-15T07:31:14Z" modified="2019-11-15T07:31:14Z" visited="2019-11-15T07:31:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2019-11-15T07:31:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/agepan/Documents/MIT/Seminar/load.py" added="2019-11-15T07:42:11Z" modified="2019-11-15T07:42:11Z" visited="2019-11-15T07:42:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2019-11-15T07:42:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/agepan/Pictures/Screenshot%20from%202019-11-15%2017-03-34.png" added="2019-11-15T08:03:35Z" modified="2019-11-15T08:03:35Z" visited="2019-11-15T08:03:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2019-11-15T08:03:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/agepan/Pictures/Screenshot%20from%202019-11-16%2017-17-01.png" added="2019-11-16T08:17:01Z" modified="2019-11-16T08:17:01Z" visited="2019-11-16T08:17:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2019-11-16T08:17:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/agepan/Documents/AtCoder" added="2019-11-17T12:38:41Z" modified="2019-12-04T08:42:39Z" visited="2019-11-17T12:38:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2019-12-04T08:42:39Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/agepan/Documents/MIT/Seminar/deep-learning-from-scratch" added="2019-11-21T01:02:05Z" modified="2019-11-21T01:02:05Z" visited="2019-11-21T01:02:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2019-11-21T01:02:05Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/agepan/Pictures/Screenshot%20from%202019-11-21%2011-40-56.png" added="2019-11-21T02:40:56Z" modified="2019-11-21T02:40:56Z" visited="2019-11-21T02:40:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2019-11-21T02:40:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/agepan/Documents/AtCoder/AtCoderBeginnerContest145" added="2019-11-27T06:30:20Z" modified="2019-11-27T06:30:20Z" visited="2019-11-27T06:30:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2019-11-27T06:30:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/agepan/Documents/MIT/Seminar/InputData01.py" added="2019-11-28T00:58:44Z" modified="2019-11-28T00:58:44Z" visited="2019-11-28T00:58:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2019-11-28T00:58:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/agepan/Documents/MIT/Seminar/README.md" added="2019-11-28T00:58:44Z" modified="2019-11-28T00:58:44Z" visited="2019-11-28T00:58:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2019-11-28T00:58:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/agepan/Documents/MIT/Seminar/Personal_Task/wine.names" added="2019-11-28T01:18:33Z" modified="2019-11-28T01:18:33Z" visited="2019-11-28T01:18:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-11-28T01:18:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/agepan/Documents/MIT/Seminar/Personal_Task/Index" added="2019-11-28T01:33:38Z" modified="2019-11-28T01:33:38Z" visited="2019-11-28T01:33:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-11-28T01:33:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/agepan/Documents/MIT/Seminar/Personal_Task/wine.data" added="2019-11-28T01:33:44Z" modified="2019-11-28T01:33:44Z" visited="2019-11-28T01:33:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-11-28T01:33:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/agepan/Documents/MIT/Seminar/training01.png" added="2019-11-28T01:41:24Z" modified="2019-11-28T01:41:24Z" visited="2019-11-28T01:41:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="training01.py" exec="&apos;training01.py %u&apos;" modified="2019-11-28T01:41:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/agepan/Documents/AtCoder/AtCoderBeginnerContest001" added="2019-12-01T09:43:38Z" modified="2019-12-01T09:43:38Z" visited="2019-12-01T09:43:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2019-12-01T09:43:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/agepan/Documents/AtCoder/AtCoderBiginnerContest146" added="2019-12-01T09:59:05Z" modified="2019-12-04T08:42:54Z" visited="2019-12-01T09:59:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2019-12-04T08:42:54Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/agepan/Documents/MIT/Seminar/Personal_Task" added="2019-12-02T04:17:28Z" modified="2019-12-03T01:22:44Z" visited="2019-12-02T04:17:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2019-12-03T01:22:44Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
