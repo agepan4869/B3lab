@@ -814,13 +814,11 @@
                     },
                     {
                         "id": "workbench.action.debug.stop",
-                        "label": "デバッグの停止(&&S)",
-                        "enabled": false
+                        "label": "デバッグの停止(&&S)"
                     },
                     {
                         "id": "workbench.action.debug.restart",
-                        "label": "デバッグの再起動(&&R)",
-                        "enabled": false
+                        "label": "デバッグの再起動(&&R)"
                     },
                     {
                         "id": "vscode.menubar.separator"

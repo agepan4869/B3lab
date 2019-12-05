@@ -1,0 +1,44 @@
+\documentclass[submit]{literacy}
+%\documentclass{ipsj}
+\usepackage{graphicx}
+\usepackage{latexsym}
+\usepackage{ascmac}
+
+\def\Underline{\setbox0\hbox\bgroup\let\\\endUnderline}
+\def\endUnderline{\vphantom{y}\egroup\smash{\underline{\box0}}\\}
+\def\|{\verb|}
+
+\setcounter{巻数}{1}
+\setcounter{号数}{1}
+\setcounter{page}{1}
+\setcounter{month}{8}
+\setcounter{year}{2017}
+
+\受付{2017}{8}{1}
+\採録{2015}{8}{1}
+
+\begin{document}
+
+\title{ わかりやすいタイトルつける }
+% \etitle{How to Prepare Your Paper for IPSJ Journal \\ (ipsj.cls version 2.0)}
+\affiliate{GP}{グループ999(ここに自分のグループ番号を記入)}
+
+\author{氏名}{ローマ字氏名}{GP}[学籍番号(担当したsection)]
+\author{情報 太郎}{Taro Joho}{GP}[123456(2章)]
+\author{室蘭 花子}{Hanako Muroran}{GP}[78901(1章)]
+\author{工業 次郎}{Jiro Kougyo}{GP}[234567(3章)]
+
+\begin{abstract}
+情報リテラシー演習 第3回レポート:グループ999(ここに自分のグループ番号を記入)\\
+
+レポートを書くにあたって工夫した点，苦労した点，
+本講義で学んだことなどを簡潔に250文字程度で記入
+\end{abstract}
+
+\maketitle
+
+\input{report3-taro}
+\input{report3-jiro}
+\input{report3-saburo}
+
+\end{document}

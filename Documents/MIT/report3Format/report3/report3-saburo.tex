@@ -1,0 +1,35 @@
+\section{\LaTeX ファイルの分割作成法}
+手分けして共同で\LaTeX 文章を作成する場合は、担当部分ごとにファイルを分割して作成することになります。
+たとえば、このひな型のように、各自の担当部分がそれぞれ異なるファイル \verb+report3-taro.tex+、\verb+report3-jiro.tex+、\verb+report3-saburo.tex+ として作成されることになります。
+このひな形では、これらのファイルを親ファイル \verb+report3-gXX.tex+ の \verb+\input+ 命令を用いて統合しています。
+\verb+\input+ 命令を使うと、その場所に \verb+{  }+ で指定したファイルが読み込まれ、コンパイルされます。
+
+ここで、下の例のように、他人のファイルを読み込む \verb+\input+コマンドを \verb+%+ 記号でコメントアウトすれば、自分の担当部分だけをコンパイルして確認することもできます。
+
+\small
+\begin{itembox}{次郎の分だけinputする例}
+\begin{verbatim}
+\documentclass[a4j,twocolumn]{jarticle}
+\usepackage{ascmac}
+\usepackage{graphicx}
+
+\title{情報リテラシー演習 レポート3 \LaTeX ひな形}
+\author{情報リテラシー演習 担当スタッフ}
+\date{20XX年X月XX日}
+
+\begin{document}
+\maketitle
+
+%\input{report3-taro.tex}
+\input{report3-jiro.tex}
+%\input{report3-saburo.tex}
+
+\appendix
+\section{担当者一覧}
+
+       (途中省略)
+
+\end{document}
+\end{verbatim}
+\end{itembox}
+\normalsize

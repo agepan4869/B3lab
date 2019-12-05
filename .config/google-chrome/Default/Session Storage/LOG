@@ -319,3 +319,24 @@
 2019/12/05-16:31:08.513 98a Level-0 table #494: started
 2019/12/05-16:31:08.522 98a Level-0 table #494: 13526 bytes OK
 2019/12/05-16:31:08.530 98a Delete type=0 #490
+2019/12/05-16:39:07.143 98a Level-0 table #496: started
+2019/12/05-16:39:07.153 98a Level-0 table #496: 13954 bytes OK
+2019/12/05-16:39:07.161 98a Delete type=0 #493
+2019/12/05-16:52:04.512 c4b Level-0 table #498: started
+2019/12/05-16:52:04.524 c4b Level-0 table #498: 17421 bytes OK
+2019/12/05-16:52:04.541 c4b Delete type=0 #495
+2019/12/05-16:54:07.142 c4c Level-0 table #500: started
+2019/12/05-16:54:07.151 c4c Level-0 table #500: 15063 bytes OK
+2019/12/05-16:54:07.158 c4c Delete type=0 #497
+2019/12/05-16:54:07.158 ce3 Compacting 4@0 + 1@1 files
+2019/12/05-16:54:07.170 ce3 Generated table #501@0: 3008 keys, 91196 bytes
+2019/12/05-16:54:07.170 ce3 Compacted 4@0 + 1@1 files => 91196 bytes
+2019/12/05-16:54:07.185 ce3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/12/05-16:54:07.185 ce3 Delete type=2 #496
+2019/12/05-16:54:07.185 ce3 Delete type=2 #500
+2019/12/05-16:54:07.185 ce3 Delete type=2 #494
+2019/12/05-16:54:07.185 ce3 Delete type=2 #498
+2019/12/05-16:54:07.185 ce3 Delete type=2 #492
+2019/12/05-17:02:07.142 dcb Level-0 table #503: started
+2019/12/05-17:02:07.159 dcb Level-0 table #503: 13414 bytes OK
+2019/12/05-17:02:07.167 dcb Delete type=0 #499
