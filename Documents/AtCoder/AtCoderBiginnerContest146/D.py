@@ -1,3 +1,5 @@
+import sys
+sys.setrecursionlimit(10**6)
 N = int(input())
 v = [[] for i in range(N)]
 for i in range(N-1):
