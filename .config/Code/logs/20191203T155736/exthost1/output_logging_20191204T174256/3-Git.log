@@ -750,3 +750,133 @@ are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
 > git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+> git add -A -- /home/agepan/.cache/google-chrome/Default/Cache/1cdfdd39d2687356_0
+fatal: Unable to create '/home/agepan/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+warning: adding embedded git repository: Documents/MIT/Seminar
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint: 
+hint: 	git submodule add <url> Documents/MIT/Seminar
+hint: 
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint: 
+hint: 	git rm --cached Documents/MIT/Seminar
+hint: 
+hint: See "git help submodule" for more information.
+warning: adding embedded git repository: deep-learning-from-scratch
+> git commit --quiet --allow-empty-message --file -
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/agepan/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/agepan/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:596797)
+	at T.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:101168)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:47:227)
+	at E.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:120038)
+> git config --get commit.template
+> git show :Documents/AtCoder/AtCoderBiginnerContest146/D.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/agepan/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/agepan/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:596797)
+	at T.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:101168)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:47:227)
+	at E.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:120038)
+> git config --get commit.template

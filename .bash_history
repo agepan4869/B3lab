@@ -860,3 +860,19 @@ python3 D.py
 python3 D.py 
 cd Personal_Task/
 python3 main.py
+git add .
+git status
+git add .
+git commmit -m 'commited'
+git --hel@
+git --help
+cd Personal_Task/
+python3 training01.py
+cd ..
+clear
+cd Personal_Task/
+python3 main.py
+cd ..
+python3 training01.py 
+cd Personal_Task/
+python3 main.py

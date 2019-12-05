@@ -3,8 +3,8 @@
     "openedPathsList": {
         "workspaces3": [
             "file:///home/agepan/Documents/AtCoder/AtCoderBiginnerContest146",
-            "file:///home/agepan/Documents/AtCoder",
             "file:///home/agepan/Documents/MIT/Seminar",
+            "file:///home/agepan/Documents/AtCoder",
             "file:///home/agepan/Documents/MIT/Seminar/Personal_Task",
             "file:///home/agepan/Documents/AtCoder/AtCoderBeginnerContest001",
             "file:///home/agepan/Documents/AtCoder/AtCoderBeginnerContest145",
@@ -68,23 +68,23 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/agepan/Documents/AtCoder",
-                                        "path": "/home/agepan/Documents/AtCoder",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Documents/AtCoder"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
                                         "external": "file:///home/agepan/Documents/MIT/Seminar",
                                         "path": "/home/agepan/Documents/MIT/Seminar",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
                                     "label": "~/Documents/MIT/Seminar"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/agepan/Documents/AtCoder",
+                                        "path": "/home/agepan/Documents/AtCoder",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/AtCoder"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -647,8 +647,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "最後の編集場所(&&L)",
-                        "enabled": false
+                        "label": "最後の編集場所(&&L)"
                     },
                     {
                         "id": "vscode.menubar.separator"

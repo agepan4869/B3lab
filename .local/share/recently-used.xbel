@@ -84,12 +84,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/agepan/Documents/MIT/Seminar" added="2019-11-15T06:12:00Z" modified="2019-12-04T08:39:55Z" visited="2019-11-15T06:12:00Z">
+  <bookmark href="file:///home/agepan/Documents/MIT/Seminar" added="2019-11-15T06:12:00Z" modified="2019-12-05T00:52:58Z" visited="2019-11-15T06:12:00Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2019-12-04T08:39:55Z" count="7"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2019-12-05T00:52:58Z" count="8"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -244,12 +244,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/agepan/Documents/AtCoder/AtCoderBiginnerContest146" added="2019-12-01T09:59:05Z" modified="2019-12-04T08:42:54Z" visited="2019-12-01T09:59:06Z">
+  <bookmark href="file:///home/agepan/Documents/AtCoder/AtCoderBiginnerContest146" added="2019-12-01T09:59:05Z" modified="2019-12-05T03:34:44Z" visited="2019-12-01T09:59:06Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2019-12-04T08:42:54Z" count="4"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2019-12-05T03:34:44Z" count="5"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -260,6 +260,81 @@
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
           <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2019-12-03T01:22:44Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/agepan/Documents/MIT/report3Format.tgz" added="2019-12-05T00:56:36Z" modified="2019-12-05T00:56:36Z" visited="2019-12-05T00:56:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-12-05T00:56:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/agepan/Documents/MIT/report3Format/%E6%83%85%E5%A0%B1%E5%87%A6%E7%90%86%E5%AD%A6%E4%BC%9A%E8%AB%96%E6%96%87%E6%9B%B8%E5%BC%8F.pdf" added="2019-12-05T00:56:57Z" modified="2019-12-05T00:56:57Z" visited="2019-12-05T00:56:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="ドキュメントビューアー" exec="&apos;evince %u&apos;" modified="2019-12-05T00:56:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/agepan/Documents/MIT/report.tar" added="2019-12-05T00:58:17Z" modified="2019-12-05T00:58:28Z" visited="2019-12-05T00:58:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-12-05T00:58:17Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2019-12-05T00:58:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/agepan/Documents/MIT/report/report_template/programing_report.sty" added="2019-12-05T01:01:10Z" modified="2019-12-05T01:01:10Z" visited="2019-12-05T01:01:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-tex"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-12-05T01:01:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/agepan/Documents/MIT/report/report_template/sample.tex" added="2019-12-05T01:02:57Z" modified="2019-12-05T01:02:57Z" visited="2019-12-05T01:02:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-tex"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-12-05T01:02:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/agepan/Documents/MIT/report_texform.zip" added="2019-12-05T03:06:43Z" modified="2019-12-05T03:06:49Z" visited="2019-12-05T03:06:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-12-05T03:06:43Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2019-12-05T03:06:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/agepan/.cache/.fr-dmycmP/report_texform/2019_3_studentID_name.pdf" added="2019-12-05T03:06:57Z" modified="2019-12-05T03:06:57Z" visited="2019-12-05T03:06:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="ドキュメントビューアー" exec="&apos;evince %u&apos;" modified="2019-12-05T03:06:57Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

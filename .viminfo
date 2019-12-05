@@ -31,38 +31,158 @@
 # レジスタ:
 
 # ファイルマーク:
-'0  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
-|4,48,80,0,1575095262,"~/Documents/MIT/Seminar/iris_names_JP.txt"
-'1  1  0  ~/Documents/MIT/Seminar/Traning75_iris.dat
-|4,49,1,0,1575026632,"~/Documents/MIT/Seminar/Traning75_iris.dat"
-'2  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
-|4,50,80,0,1575014704,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+'0  1  0  ~/Documents/MIT/report/report_template/programing_report.sty
+|4,48,1,0,1575507636,"~/Documents/MIT/report/report_template/programing_report.sty"
+'1  1  0  ~/Documents/MIT/report/report_template/sample.tex
+|4,49,1,0,1575507578,"~/Documents/MIT/report/report_template/sample.tex"
+'2  9  0  ~/Documents/MIT/report3Format/report3/report3.tex
+|4,50,9,0,1575507469,"~/Documents/MIT/report3Format/report3/report3.tex"
 '3  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
-|4,51,80,0,1574908825,"~/Documents/MIT/Seminar/iris_names_JP.txt"
-'4  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
-|4,52,80,0,1574908825,"~/Documents/MIT/Seminar/iris_names_JP.txt"
-'5  1  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
-|4,53,1,0,1574355712,"~/Documents/MIT/Seminar/iris_names_JP.txt"
-'6  1  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
-|4,54,1,0,1574355712,"~/Documents/MIT/Seminar/iris_names_JP.txt"
-'7  1  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
-|4,55,1,0,1574355712,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+|4,51,80,0,1575095262,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+'4  1  0  ~/Documents/MIT/Seminar/Traning75_iris.dat
+|4,52,1,0,1575026632,"~/Documents/MIT/Seminar/Traning75_iris.dat"
+'5  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,53,80,0,1575014704,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+'6  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,54,80,0,1574908825,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+'7  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,55,80,0,1574908825,"~/Documents/MIT/Seminar/iris_names_JP.txt"
 '8  1  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
 |4,56,1,0,1574355712,"~/Documents/MIT/Seminar/iris_names_JP.txt"
 '9  1  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
 |4,57,1,0,1574355712,"~/Documents/MIT/Seminar/iris_names_JP.txt"
 
 # ジャンプリスト (新しいものが先):
+-'  1  0  ~/Documents/MIT/report/report_template/programing_report.sty
+|4,39,1,0,1575507636,"~/Documents/MIT/report/report_template/programing_report.sty"
+-'  1  0  ~/Documents/MIT/report/report_template/sample.tex
+|4,39,1,0,1575507578,"~/Documents/MIT/report/report_template/sample.tex"
+-'  1  0  ~/Documents/MIT/report/report_template/sample.tex
+|4,39,1,0,1575507578,"~/Documents/MIT/report/report_template/sample.tex"
+-'  9  0  ~/Documents/MIT/report3Format/report3/report3.tex
+|4,39,9,0,1575507469,"~/Documents/MIT/report3Format/report3/report3.tex"
+-'  9  0  ~/Documents/MIT/report3Format/report3/report3.tex
+|4,39,9,0,1575507469,"~/Documents/MIT/report3Format/report3/report3.tex"
+-'  9  0  ~/Documents/MIT/report3Format/report3/report3.tex
+|4,39,9,0,1575507469,"~/Documents/MIT/report3Format/report3/report3.tex"
+-'  9  0  ~/Documents/MIT/report3Format/report3/report3.tex
+|4,39,9,0,1575507469,"~/Documents/MIT/report3Format/report3/report3.tex"
+-'  1  0  ~/Documents/MIT/report3Format/report3/report3.tex
+|4,39,1,0,1575507455,"~/Documents/MIT/report3Format/report3/report3.tex"
+-'  1  0  ~/Documents/MIT/report3Format/report3/report3.tex
+|4,39,1,0,1575507455,"~/Documents/MIT/report3Format/report3/report3.tex"
+-'  1  0  ~/Documents/MIT/report3Format/report3/report3.tex
+|4,39,1,0,1575507455,"~/Documents/MIT/report3Format/report3/report3.tex"
+-'  1  0  ~/Documents/MIT/report3Format/report3/report3.tex
+|4,39,1,0,1575507455,"~/Documents/MIT/report3Format/report3/report3.tex"
+-'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,80,0,1575095262,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,80,0,1575095262,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,80,0,1575095262,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,80,0,1575095262,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,80,0,1575095262,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,80,0,1575095262,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,80,0,1575095262,"~/Documents/MIT/Seminar/iris_names_JP.txt"
 -'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
 |4,39,80,0,1575095262,"~/Documents/MIT/Seminar/iris_names_JP.txt"
 -'  1  0  ~/Documents/MIT/Seminar/Traning75_iris.dat
 |4,39,1,0,1575026632,"~/Documents/MIT/Seminar/Traning75_iris.dat"
 -'  1  0  ~/Documents/MIT/Seminar/Traning75_iris.dat
 |4,39,1,0,1575026632,"~/Documents/MIT/Seminar/Traning75_iris.dat"
+-'  1  0  ~/Documents/MIT/Seminar/Traning75_iris.dat
+|4,39,1,0,1575026632,"~/Documents/MIT/Seminar/Traning75_iris.dat"
+-'  1  0  ~/Documents/MIT/Seminar/Traning75_iris.dat
+|4,39,1,0,1575026632,"~/Documents/MIT/Seminar/Traning75_iris.dat"
+-'  1  0  ~/Documents/MIT/Seminar/Traning75_iris.dat
+|4,39,1,0,1575026632,"~/Documents/MIT/Seminar/Traning75_iris.dat"
+-'  1  0  ~/Documents/MIT/Seminar/Traning75_iris.dat
+|4,39,1,0,1575026632,"~/Documents/MIT/Seminar/Traning75_iris.dat"
+-'  1  0  ~/Documents/MIT/Seminar/Traning75_iris.dat
+|4,39,1,0,1575026632,"~/Documents/MIT/Seminar/Traning75_iris.dat"
+-'  1  0  ~/Documents/MIT/Seminar/Traning75_iris.dat
+|4,39,1,0,1575026632,"~/Documents/MIT/Seminar/Traning75_iris.dat"
+-'  1  0  ~/Documents/MIT/Seminar/Traning75_iris.dat
+|4,39,1,0,1575026632,"~/Documents/MIT/Seminar/Traning75_iris.dat"
+-'  1  0  ~/Documents/MIT/Seminar/Traning75_iris.dat
+|4,39,1,0,1575026632,"~/Documents/MIT/Seminar/Traning75_iris.dat"
+-'  1  0  ~/Documents/MIT/Seminar/Traning75_iris.dat
+|4,39,1,0,1575026632,"~/Documents/MIT/Seminar/Traning75_iris.dat"
+-'  1  0  ~/Documents/MIT/Seminar/Traning75_iris.dat
+|4,39,1,0,1575026632,"~/Documents/MIT/Seminar/Traning75_iris.dat"
+-'  1  0  ~/Documents/MIT/Seminar/Traning75_iris.dat
+|4,39,1,0,1575026632,"~/Documents/MIT/Seminar/Traning75_iris.dat"
+-'  1  0  ~/Documents/MIT/Seminar/Traning75_iris.dat
+|4,39,1,0,1575026632,"~/Documents/MIT/Seminar/Traning75_iris.dat"
+-'  1  0  ~/Documents/MIT/Seminar/Traning75_iris.dat
+|4,39,1,0,1575026632,"~/Documents/MIT/Seminar/Traning75_iris.dat"
+-'  1  0  ~/Documents/MIT/Seminar/Traning75_iris.dat
+|4,39,1,0,1575026632,"~/Documents/MIT/Seminar/Traning75_iris.dat"
 -'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
 |4,39,80,0,1575014704,"~/Documents/MIT/Seminar/iris_names_JP.txt"
 -'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
 |4,39,80,0,1575014704,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,80,0,1575014704,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,80,0,1575014704,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,80,0,1575014704,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,80,0,1575014704,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,80,0,1575014704,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,80,0,1575014704,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,80,0,1575014704,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,80,0,1575014704,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,80,0,1575014704,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,80,0,1575014704,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,80,0,1575014704,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,80,0,1575014704,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,80,0,1575014704,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,80,0,1575014704,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,80,0,1574908825,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,80,0,1574908825,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,80,0,1574908825,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,80,0,1574908825,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,80,0,1574908825,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,80,0,1574908825,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,80,0,1574908825,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,80,0,1574908825,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,80,0,1574908825,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,80,0,1574908825,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,80,0,1574908825,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,80,0,1574908825,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,80,0,1574908825,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,80,0,1574908825,"~/Documents/MIT/Seminar/iris_names_JP.txt"
 -'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
 |4,39,80,0,1574908825,"~/Documents/MIT/Seminar/iris_names_JP.txt"
 -'  80  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
@@ -78,183 +198,75 @@
 -'  1  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
 |4,39,1,0,1574902884,"~/Documents/MIT/Seminar/iris_names_JP.txt"
 -'  1  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
-|4,39,1,0,1574355712,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+|4,39,1,0,1574902884,"~/Documents/MIT/Seminar/iris_names_JP.txt"
 -'  1  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
-|4,39,1,0,1574355712,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+|4,39,1,0,1574902884,"~/Documents/MIT/Seminar/iris_names_JP.txt"
 -'  1  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
-|4,39,1,0,1574344225,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+|4,39,1,0,1574902884,"~/Documents/MIT/Seminar/iris_names_JP.txt"
 -'  1  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
-|4,39,1,0,1574344225,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+|4,39,1,0,1574902884,"~/Documents/MIT/Seminar/iris_names_JP.txt"
 -'  1  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
-|4,39,1,0,1574307154,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+|4,39,1,0,1574902884,"~/Documents/MIT/Seminar/iris_names_JP.txt"
 -'  1  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
-|4,39,1,0,1574307154,"~/Documents/MIT/Seminar/iris_names_JP.txt"
--'  24  45  ~/Documents/MIT/Seminar/iris_names_JP.txt
-|4,39,24,45,1574298408,"~/Documents/MIT/Seminar/iris_names_JP.txt"
--'  24  45  ~/Documents/MIT/Seminar/iris_names_JP.txt
-|4,39,24,45,1574298408,"~/Documents/MIT/Seminar/iris_names_JP.txt"
--'  24  45  ~/Documents/MIT/Seminar/iris_names_JP.txt
-|4,39,24,45,1574298408,"~/Documents/MIT/Seminar/iris_names_JP.txt"
--'  24  45  ~/Documents/MIT/Seminar/iris_names_JP.txt
-|4,39,24,45,1574298408,"~/Documents/MIT/Seminar/iris_names_JP.txt"
--'  24  45  ~/Documents/MIT/Seminar/iris_names_JP.txt
-|4,39,24,45,1574298408,"~/Documents/MIT/Seminar/iris_names_JP.txt"
--'  24  45  ~/Documents/MIT/Seminar/iris_names_JP.txt
-|4,39,24,45,1574298408,"~/Documents/MIT/Seminar/iris_names_JP.txt"
--'  24  45  ~/Documents/MIT/Seminar/iris_names_JP.txt
-|4,39,24,45,1574298408,"~/Documents/MIT/Seminar/iris_names_JP.txt"
--'  24  45  ~/Documents/MIT/Seminar/iris_names_JP.txt
-|4,39,24,45,1574298408,"~/Documents/MIT/Seminar/iris_names_JP.txt"
--'  24  45  ~/Documents/MIT/Seminar/iris_names_JP.txt
-|4,39,24,45,1574298408,"~/Documents/MIT/Seminar/iris_names_JP.txt"
--'  24  45  ~/Documents/MIT/Seminar/iris_names_JP.txt
-|4,39,24,45,1574298408,"~/Documents/MIT/Seminar/iris_names_JP.txt"
--'  24  45  ~/Documents/MIT/Seminar/iris_names_JP.txt
-|4,39,24,45,1574298408,"~/Documents/MIT/Seminar/iris_names_JP.txt"
--'  24  45  ~/Documents/MIT/Seminar/iris_names_JP.txt
-|4,39,24,45,1573991986,"~/Documents/MIT/Seminar/iris_names_JP.txt"
--'  24  45  ~/Documents/MIT/Seminar/iris_names_JP.txt
-|4,39,24,45,1573991986,"~/Documents/MIT/Seminar/iris_names_JP.txt"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
--'  3  31  ~/Documents/Python/AtCoder/KagamiMochi.py
-|4,39,3,31,1573991725,"~/Documents/Python/AtCoder/KagamiMochi.py"
+|4,39,1,0,1574902884,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  1  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,1,0,1574902884,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  1  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,1,0,1574902884,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  1  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,1,0,1574902884,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  1  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,1,0,1574902884,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  1  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,1,0,1574902884,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  1  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,1,0,1574902884,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  1  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,1,0,1574902884,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  1  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,1,0,1574902884,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  1  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,1,0,1574902884,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  1  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,1,0,1574902884,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  1  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,1,0,1574902884,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  1  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,1,0,1574902884,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  1  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,1,0,1574902884,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  1  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,1,0,1574902884,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  1  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,1,0,1574902884,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  1  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,1,0,1574902884,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  1  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,1,0,1574902884,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  1  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,1,0,1574902884,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  1  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,1,0,1574902884,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  1  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,1,0,1574902884,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  1  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,1,0,1574902884,"~/Documents/MIT/Seminar/iris_names_JP.txt"
+-'  1  0  ~/Documents/MIT/Seminar/iris_names_JP.txt
+|4,39,1,0,1574902884,"~/Documents/MIT/Seminar/iris_names_JP.txt"
 
 # ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/Documents/MIT/report/report_template/programing_report.sty
+	*	1575507622	0
+	"	1	0
+
+> ~/Documents/MIT/report/report_template/sample.tex
+	*	1575507561	0
+	"	1	0
+
+> ~/Documents/MIT/report3Format/report3/report3.tex
+	*	1575507466	0
+	"	9	0
 
 > ~/Documents/MIT/Seminar/iris_names_JP.txt
 	*	1575026799	0

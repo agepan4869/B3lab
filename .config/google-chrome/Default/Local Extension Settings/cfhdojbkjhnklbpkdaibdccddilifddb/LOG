@@ -323,3 +323,109 @@
 2019/12/04-20:50:42.346 a42 Level-0 table #764: started
 2019/12/04-20:50:42.409 a42 Level-0 table #764: 4871421 bytes OK
 2019/12/04-20:50:42.424 a42 Delete type=0 #761
+2019/12/05-00:56:39.194 a42 Level-0 table #766: started
+2019/12/05-00:56:39.252 a42 Level-0 table #766: 4871432 bytes OK
+2019/12/05-00:56:39.263 a42 Delete type=0 #763
+2019/12/05-00:56:39.266 a42 Compacting 4@0 + 2@1 files
+2019/12/05-00:56:39.367 a42 Generated table #767@0: 1 keys, 4871114 bytes
+2019/12/05-00:56:39.378 a42 Generated table #768@0: 2 keys, 395 bytes
+2019/12/05-00:56:39.378 a42 Compacted 4@0 + 2@1 files => 4871509 bytes
+2019/12/05-00:56:39.389 a42 compacted to: files[ 0 2 1 0 0 0 0 ]
+2019/12/05-00:56:39.389 a42 Delete type=2 #760
+2019/12/05-00:56:39.389 a42 Delete type=2 #757
+2019/12/05-00:56:39.389 a42 Delete type=2 #758
+2019/12/05-00:56:39.389 a42 Delete type=2 #762
+2019/12/05-00:56:39.389 a42 Delete type=2 #766
+2019/12/05-00:56:39.389 a42 Delete type=2 #764
+2019/12/05-00:56:41.059 a42 Level-0 table #770: started
+2019/12/05-00:56:41.119 a42 Level-0 table #770: 4871411 bytes OK
+2019/12/05-00:56:41.130 a42 Delete type=0 #765
+2019/12/05-01:56:43.115 a42 Level-0 table #772: started
+2019/12/05-01:56:43.178 a42 Level-0 table #772: 4871727 bytes OK
+2019/12/05-01:56:43.190 a42 Delete type=0 #769
+2019/12/05-02:03:44.971 a42 Level-0 table #774: started
+2019/12/05-02:03:45.025 a42 Level-0 table #774: 4871412 bytes OK
+2019/12/05-02:03:45.037 a42 Delete type=0 #771
+2019/12/05-02:56:43.468 a42 Level-0 table #776: started
+2019/12/05-02:56:43.535 a42 Level-0 table #776: 4871296 bytes OK
+2019/12/05-02:56:43.550 a42 Delete type=0 #773
+2019/12/05-02:56:43.553 a42 Compacting 4@0 + 2@1 files
+2019/12/05-02:56:43.642 a42 Generated table #777@0: 1 keys, 4871119 bytes
+2019/12/05-02:56:43.651 a42 Generated table #778@0: 2 keys, 393 bytes
+2019/12/05-02:56:43.651 a42 Compacted 4@0 + 2@1 files => 4871512 bytes
+2019/12/05-02:56:43.662 a42 compacted to: files[ 0 2 1 0 0 0 0 ]
+2019/12/05-02:56:43.662 a42 Delete type=2 #776
+2019/12/05-02:56:43.662 a42 Delete type=2 #774
+2019/12/05-02:56:43.662 a42 Delete type=2 #767
+2019/12/05-02:56:43.662 a42 Delete type=2 #770
+2019/12/05-02:56:43.662 a42 Delete type=2 #772
+2019/12/05-02:56:43.662 a42 Delete type=2 #768
+2019/12/05-02:56:47.606 a42 Level-0 table #780: started
+2019/12/05-02:56:47.678 a42 Level-0 table #780: 4871414 bytes OK
+2019/12/05-02:56:47.690 a42 Delete type=0 #775
+2019/12/05-09:51:29.971 a42 Level-0 table #782: started
+2019/12/05-09:51:30.044 a42 Level-0 table #782: 4871370 bytes OK
+2019/12/05-09:51:30.057 a42 Delete type=0 #779
+2019/12/05-10:32:53.043 a42 Level-0 table #784: started
+2019/12/05-10:32:53.096 a42 Level-0 table #784: 4871568 bytes OK
+2019/12/05-10:32:53.108 a42 Delete type=0 #781
+2019/12/05-10:33:00.312 a42 Level-0 table #786: started
+2019/12/05-10:33:00.367 a42 Level-0 table #786: 4871659 bytes OK
+2019/12/05-10:33:00.378 a42 Delete type=0 #783
+2019/12/05-10:33:00.380 a42 Compacting 4@0 + 2@1 files
+2019/12/05-10:33:00.468 a42 Generated table #787@0: 1 keys, 4871365 bytes
+2019/12/05-10:33:00.480 a42 Generated table #788@0: 2 keys, 392 bytes
+2019/12/05-10:33:00.480 a42 Compacted 4@0 + 2@1 files => 4871757 bytes
+2019/12/05-10:33:00.490 a42 compacted to: files[ 0 2 1 0 0 0 0 ]
+2019/12/05-10:33:00.490 a42 Delete type=2 #782
+2019/12/05-10:33:00.490 a42 Delete type=2 #777
+2019/12/05-10:33:00.490 a42 Delete type=2 #780
+2019/12/05-10:33:00.490 a42 Delete type=2 #784
+2019/12/05-10:33:00.490 a42 Delete type=2 #786
+2019/12/05-10:33:00.490 a42 Delete type=2 #778
+2019/12/05-10:33:01.891 a42 Level-0 table #790: started
+2019/12/05-10:33:01.964 a42 Level-0 table #790: 4871752 bytes OK
+2019/12/05-10:33:01.978 a42 Delete type=0 #785
+2019/12/05-11:32:52.766 a42 Level-0 table #792: started
+2019/12/05-11:32:52.834 a42 Level-0 table #792: 4871752 bytes OK
+2019/12/05-11:32:52.846 a42 Delete type=0 #789
+2019/12/05-11:32:53.129 a42 Level-0 table #794: started
+2019/12/05-11:32:53.191 a42 Level-0 table #794: 4871760 bytes OK
+2019/12/05-11:32:53.203 a42 Delete type=0 #791
+2019/12/05-11:42:28.414 a42 Level-0 table #796: started
+2019/12/05-11:42:28.498 a42 Level-0 table #796: 4872055 bytes OK
+2019/12/05-11:42:28.511 a42 Delete type=0 #793
+2019/12/05-11:42:28.513 a42 Compacting 4@0 + 2@1 files
+2019/12/05-11:42:28.675 a42 Generated table #797@0: 1 keys, 4871760 bytes
+2019/12/05-11:42:28.685 a42 Generated table #798@0: 2 keys, 393 bytes
+2019/12/05-11:42:28.685 a42 Compacted 4@0 + 2@1 files => 4872153 bytes
+2019/12/05-11:42:28.696 a42 compacted to: files[ 0 2 1 0 0 0 0 ]
+2019/12/05-11:42:28.696 a42 Delete type=2 #792
+2019/12/05-11:42:28.696 a42 Delete type=2 #790
+2019/12/05-11:42:28.697 a42 Delete type=2 #787
+2019/12/05-11:42:28.697 a42 Delete type=2 #794
+2019/12/05-11:42:28.697 a42 Delete type=2 #788
+2019/12/05-11:42:28.697 a42 Delete type=2 #796
+2019/12/05-12:32:53.100 a42 Level-0 table #800: started
+2019/12/05-12:32:53.160 a42 Level-0 table #800: 4871817 bytes OK
+2019/12/05-12:32:53.172 a42 Delete type=0 #795
+2019/12/05-15:33:25.237 a42 Level-0 table #802: started
+2019/12/05-15:33:25.322 a42 Level-0 table #802: 4872051 bytes OK
+2019/12/05-15:33:25.334 a42 Delete type=0 #799
+2019/12/05-16:15:31.369 a42 Level-0 table #804: started
+2019/12/05-16:15:31.437 a42 Level-0 table #804: 4871834 bytes OK
+2019/12/05-16:15:31.449 a42 Delete type=0 #801
+2019/12/05-16:19:26.052 a42 Level-0 table #806: started
+2019/12/05-16:19:26.118 a42 Level-0 table #806: 4872042 bytes OK
+2019/12/05-16:19:26.130 a42 Delete type=0 #803
+2019/12/05-16:19:26.131 a42 Compacting 4@0 + 2@1 files
+2019/12/05-16:19:26.211 a42 Generated table #807@0: 1 keys, 4871748 bytes
+2019/12/05-16:19:26.219 a42 Generated table #808@0: 2 keys, 392 bytes
+2019/12/05-16:19:26.219 a42 Compacted 4@0 + 2@1 files => 4872140 bytes
+2019/12/05-16:19:26.230 a42 compacted to: files[ 0 2 1 0 0 0 0 ]
+2019/12/05-16:19:26.230 a42 Delete type=2 #797
+2019/12/05-16:19:26.230 a42 Delete type=2 #804
+2019/12/05-16:19:26.230 a42 Delete type=2 #802
+2019/12/05-16:19:26.230 a42 Delete type=2 #800
+2019/12/05-16:19:26.230 a42 Delete type=2 #798
+2019/12/05-16:19:26.230 a42 Delete type=2 #806

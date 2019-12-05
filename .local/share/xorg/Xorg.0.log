@@ -489,3 +489,12 @@ See https://wayland.freedesktop.org/libinput/doc/1.10.4//absolute_coordinate_ran
 [ 70513.035] (II) modeset(0): EDID vendor "AUO", prod id 4669
 [ 70513.035] (II) modeset(0): Printing DDC gathered Modelines:
 [ 70513.035] (II) modeset(0): Modeline "1920x1080"x0.0  140.00  1920 1968 2068 2100  1080 1083 1084 1110 -hsync -vsync (66.7 kHz eP)
+[ 71391.057] (II) modeset(0): EDID vendor "AUO", prod id 4669
+[ 71391.058] (II) modeset(0): Printing DDC gathered Modelines:
+[ 71391.058] (II) modeset(0): Modeline "1920x1080"x0.0  140.00  1920 1968 2068 2100  1080 1083 1084 1110 -hsync -vsync (66.7 kHz eP)
+[ 71464.468] (EE) event4  - SynPS/2 Synaptics TouchPad: libinput bug: invalid tap event TAP_EVENT_MOTION in state TAP_STATE_TAPPED
+[ 71464.478] (EE) event4  - SynPS/2 Synaptics TouchPad: libinput bug: invalid tap event TAP_EVENT_MOTION in state TAP_STATE_TAPPED
+[ 71464.488] (EE) event4  - SynPS/2 Synaptics TouchPad: libinput bug: invalid tap event TAP_EVENT_MOTION in state TAP_STATE_TAPPED
+[ 71464.498] (EE) event4  - SynPS/2 Synaptics TouchPad: libinput bug: invalid tap event TAP_EVENT_MOTION in state TAP_STATE_TAPPED
+[ 71464.507] (EE) event4  - SynPS/2 Synaptics TouchPad: libinput bug: invalid tap event TAP_EVENT_RELEASE in state TAP_STATE_TAPPED
+[ 88440.152] (II) event15 - TPPS/2 IBM TrackPoint: Enabling spurious button debouncing, see https://wayland.freedesktop.org/libinput/doc/1.10.4/button_debouncing.html for details
