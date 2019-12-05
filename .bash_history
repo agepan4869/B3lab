@@ -876,3 +876,84 @@ cd ..
 python3 training01.py 
 cd Personal_Task/
 python3 main.py
+/usr/bin/python3 /home/agepan/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/lib/python/new_ptvsd/no_wheels/ptvsd/launcher /home/agepan/Documents/AtCoder/AtCoderBiginnerContest146/D.py 
+git add .
+git status
+git remote add origin https://github.com/agepan4869/atcoder.git
+git push -u origin master
+git clone  https://github.com/agepan4869/atcoder.git
+git add .
+git commit
+git push
+git add .
+git status
+git commit
+git status
+git add .
+git commit -a
+git push
+git add .
+git status
+echo "# atcoder" >>146
+git init
+git add 146
+commit -m "firstcommit"
+git commit -m "first commit"
+git remote add origin https://github.com/agepan4869/atcoder.git
+git push -u origin master
+git clone
+git clone https://github.com/agepan4869/atcoder.git
+git clone
+git add .
+git status
+git 
+git status
+git push
+git commit -m "146のD問題まで入れたよ"
+git status
+git push 
+cd ..
+cd..
+cd ..
+cd MIT/
+cd Seminar/
+ls
+echo "# B3lab" >> README.md
+git init
+git add README.md 
+git add.
+git commit -m"first commit"
+git remote add arigin https://github.com/agepan4869/B3lab.git
+git push -u origin master
+git remote add https://github.com/agepan4869/B3lab.git
+push -u origin master
+git push -u origin master
+echo "# B3lab" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/agepan4869/B3lab.git
+git push -u origin master
+git init
+git add
+git add .
+git status
+git commit -m"firstcommit"
+git remote add echo "# B3lab" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/agepan4869/B3lab.git
+git push -u origin master
+echo "# B3lab" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/agepan4869/B3lab.git
+git push -u origin master
+echo "#B2lab" >> READ.MD
+git init
+git add READ.MD 
+git commit -m "first commit"
+git remote add origin https://github.com/agepan4869/B3lab.git
+git push -u origin master

@@ -25,3 +25,15 @@
 2019/12/05-17:03:19.979 a42 Level-0 table #37: started
 2019/12/05-17:03:19.987 a42 Level-0 table #37: 95913 bytes OK
 2019/12/05-17:03:19.996 a42 Delete type=0 #34
+2019/12/05-17:17:33.438 a42 Level-0 table #39: started
+2019/12/05-17:17:33.449 a42 Level-0 table #39: 87964 bytes OK
+2019/12/05-17:17:33.460 a42 Delete type=0 #36
+2019/12/05-17:17:33.461 a42 Compacting 4@0 + 1@1 files
+2019/12/05-17:17:33.473 a42 Generated table #40@0: 281 keys, 74754 bytes
+2019/12/05-17:17:33.473 a42 Compacted 4@0 + 1@1 files => 74754 bytes
+2019/12/05-17:17:33.483 a42 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/12/05-17:17:33.484 a42 Delete type=2 #31
+2019/12/05-17:17:33.484 a42 Delete type=2 #33
+2019/12/05-17:17:33.484 a42 Delete type=2 #37
+2019/12/05-17:17:33.484 a42 Delete type=2 #35
+2019/12/05-17:17:33.484 a42 Delete type=2 #39

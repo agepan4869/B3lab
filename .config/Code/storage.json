@@ -2,12 +2,12 @@
     "telemetry.machineId": "19186df1a78eaac51e653d62c5890fead57520d403849c3bcf247e0f8fe4d0ca",
     "openedPathsList": {
         "workspaces3": [
+            "file:///home/agepan/Documents/AtCoder/AtCoderBeginnerContest145",
             "file:///home/agepan/Documents/AtCoder/AtCoderBiginnerContest146",
             "file:///home/agepan/Documents/MIT/Seminar",
             "file:///home/agepan/Documents/AtCoder",
             "file:///home/agepan/Documents/MIT/Seminar/Personal_Task",
             "file:///home/agepan/Documents/AtCoder/AtCoderBeginnerContest001",
-            "file:///home/agepan/Documents/AtCoder/AtCoderBeginnerContest145",
             "file:///home/agepan/Documents/MIT/Seminar/deep-learning-from-scratch",
             "file:///home/agepan/deep-learning-from-scratch"
         ],
@@ -56,7 +56,18 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/agepan/Documents/AtCoder/AtCoderBiginnerContest146",
+                                        "fsPath": "/home/agepan/Documents/AtCoder/AtCoderBeginnerContest145",
+                                        "external": "file:///home/agepan/Documents/AtCoder/AtCoderBeginnerContest145",
+                                        "path": "/home/agepan/Documents/AtCoder/AtCoderBeginnerContest145",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/AtCoder/AtCoderBeginnerContest145"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/agepan/Documents/AtCoder/AtCoderBiginnerContest146",
                                         "path": "/home/agepan/Documents/AtCoder/AtCoderBiginnerContest146",
                                         "scheme": "file"
@@ -107,17 +118,6 @@
                                     },
                                     "enabled": true,
                                     "label": "~/Documents/AtCoder/AtCoderBeginnerContest001"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/agepan/Documents/AtCoder/AtCoderBeginnerContest145",
-                                        "path": "/home/agepan/Documents/AtCoder/AtCoderBeginnerContest145",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Documents/AtCoder/AtCoderBeginnerContest145"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -647,7 +647,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "最後の編集場所(&&L)"
+                        "label": "最後の編集場所(&&L)",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -814,11 +815,13 @@
                     },
                     {
                         "id": "workbench.action.debug.stop",
-                        "label": "デバッグの停止(&&S)"
+                        "label": "デバッグの停止(&&S)",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.debug.restart",
-                        "label": "デバッグの再起動(&&R)"
+                        "label": "デバッグの再起動(&&R)",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"

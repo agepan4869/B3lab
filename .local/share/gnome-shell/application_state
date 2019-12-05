@@ -4,14 +4,14 @@
     <application id="org.gnome.Shell.PortalHelper.desktop" open-window-count="0" score="0.5" last-seen="1575032167"/>
     <application id="gnome-wifi-panel.desktop" open-window-count="0" score="0" last-seen="0"/>
     <application id="org.gnome.FileRoller.desktop" open-window-count="0" score="3" last-seen="1575515280"/>
-    <application id="code.desktop" open-window-count="1" score="8196.5" last-seen="1575533191"/>
+    <application id="code.desktop" open-window-count="1" score="8236.5" last-seen="1575533865"/>
     <application id="update-manager.desktop" open-window-count="0" score="2.5" last-seen="1574998342"/>
     <application id="org.gnome.gedit.desktop" open-window-count="1" score="2" last-seen="1575507808"/>
     <application id="org.gnome.Terminal.desktop" open-window-count="0" score="674.75" last-seen="1575507636"/>
     <application id="gnome-control-center.desktop" open-window-count="0" score="6.5" last-seen="1575460919"/>
     <application id="libreoffice-writer.desktop" open-window-count="0" score="0.25" last-seen="1575292357"/>
-    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="21.5" last-seen="1575507918"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="22.5" last-seen="1575533839"/>
     <application id="evince.desktop" open-window-count="0" score="748.75" last-seen="1575515266"/>
-    <application id="google-chrome.desktop" open-window-count="1" score="15062.25" last-seen="1575533160"/>
+    <application id="google-chrome.desktop" open-window-count="1" score="15111.25" last-seen="1575533862"/>
   </context>
 </application-state>

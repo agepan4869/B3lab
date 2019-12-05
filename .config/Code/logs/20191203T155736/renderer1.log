@@ -1,3 +1,9 @@
 [2019-12-04 17:39:59.590] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: Error: net::ERR_INTERNET_DISCONNECTED
 [2019-12-04 17:42:44.109] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: Error: net::ERR_INTERNET_DISCONNECTED
 [2019-12-04 17:42:58.141] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: Error: net::ERR_INTERNET_DISCONNECTED
+[2019-12-05 17:10:46.951] [renderer1] [error] timeout after 500 ms: Error: timeout after 500 ms
+    at t.RawDebugSession.handleErrorResponse (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2798:1003)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2798:434
+    at async t.RawDebugSession.shutdown (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2796:536)
+    at async R.terminate (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5173:637)
+    at async q.restartSession (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5197:851)

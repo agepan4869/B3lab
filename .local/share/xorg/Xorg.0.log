@@ -498,3 +498,5 @@ See https://wayland.freedesktop.org/libinput/doc/1.10.4//absolute_coordinate_ran
 [ 71464.498] (EE) event4  - SynPS/2 Synaptics TouchPad: libinput bug: invalid tap event TAP_EVENT_MOTION in state TAP_STATE_TAPPED
 [ 71464.507] (EE) event4  - SynPS/2 Synaptics TouchPad: libinput bug: invalid tap event TAP_EVENT_RELEASE in state TAP_STATE_TAPPED
 [ 88440.152] (II) event15 - TPPS/2 IBM TrackPoint: Enabling spurious button debouncing, see https://wayland.freedesktop.org/libinput/doc/1.10.4/button_debouncing.html for details
+[ 97043.247] (II) Axis 0x35 value 0 is outside expected range [1045, 5896]
+See https://wayland.freedesktop.org/libinput/doc/1.10.4//absolute_coordinate_ranges.html for details
